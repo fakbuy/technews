@@ -1,0 +1,266 @@
+{
+"status": "ok",
+"totalResults": 70,
+"articles": [
+{
+"source": {
+"id": "the-verge",
+"name": "The Verge"
+},
+"author": "Kim Lyons",
+"title": "Huawei says it’s running out of chips for its smartphones because of US sanctions - The Verge",
+"description": "Huawei, the world’s biggest smartphone vendor, says it’s running out of processor chips because of US sanctions against the company. And as of next month, the Chinese phone manufacturer will no longer be able to make its Kirin chipsets due to the ongoing econ…",
+"url": "https://www.theverge.com/2020/8/9/21360598/huawei-chips-us-sanctions-trump-china-privacy-smartphone",
+"urlToImage": "https://cdn.vox-cdn.com/thumbor/4NC1XGi0Alxr7AM79W1qK2E4DhA=/0x141:2040x1209/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10538829/VRG_ILLO_1777_Huawei_004.jpg",
+"publishedAt": "2020-08-09T13:45:41Z",
+"content": "The company also says it soon wont be able to make its own Kirin chipsets\r\nIllustration by William Joel / The Verge\r\nHuawei, the worlds biggest smartphone vendor, says its running out of processor ch… [+2580 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "CNET"
+},
+"author": "Patrick Holland",
+"title": "The Galaxy Note 20 doesn't come with headphones and that's a good thing - CNET",
+"description": "Commentary: \"I, for one, welcome our new insect overlords.\"",
+"url": "https://www.cnet.com/news/the-galaxy-note-20-doesnt-come-with-headphones-and-thats-a-good-thing/",
+"urlToImage": "https://cnet4.cbsistatic.com/img/0x31qPgXkFQnAUCCNzoQhhs_w_0=/756x567/2020/08/07/7f1d8632-0673-4042-a4d4-8b369be55ba7/samsung-galaxy-note-20-9842.jpg",
+"publishedAt": "2020-08-09T12:00:08Z",
+"content": "The new Galaxy Note 20 Ultra packs a lot of new features. But its box is missing one important thing.\r\nJames Martin/CNET\r\nWhen you buy a Galaxy Note 20 or Note 20 Ultra you might notice that the box … [+4629 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Tom's Guide"
+},
+"author": "Alan Martin",
+"title": "Nasty Android malware could put millions at risk — what to do now - Tom's Guide",
+"description": "Qualcomm has a fix, but it's yet to be distributed",
+"url": "https://www.tomsguide.com/news/nasty-android-malware-could-put-millions-at-risk-what-to-do-now",
+"urlToImage": "https://cdn.mos.cms.futurecdn.net/Jzwhquu4gv5ZQF336dDbZE-1200-80.jpg",
+"publishedAt": "2020-08-09T12:00:00Z",
+"content": "If youve bought an Android phone at any point in the last decade, theres a good chance its powered by a Qualcomm chip. The companys smartphone market share has rarely dropped below 40% worldwide in t… [+2527 chars]"
+},
+{
+"source": {
+"id": "business-insider",
+"name": "Business Insider"
+},
+"author": "Matthew DeBord",
+"title": "The $76,000 Q7 is vital for Audi — and exceeds high expectations - Business Insider - Business Insider",
+"description": "In the premium, three-row SUV realm, the Q7 has always been considered an excellent choice. The 2020 model year is no exception.",
+"url": "https://www.businessinsider.com/audi-q7-features-specs-verdict-review-2020-8",
+"urlToImage": "https://i.insider.com/5f2d7719a6f0e1753b3a8d77?width=1200&format=jpeg",
+"publishedAt": "2020-08-09T11:48:43Z",
+"content": null
+},
+{
+"source": {
+"id": null,
+"name": "Nintendo Life"
+},
+"author": "Nintendo Life",
+"title": "Animal Crossing: New Horizons Is Now Japan's Second Best-Selling Game Ever - Nintendo Life",
+"description": "The original Pokémon is still out in front",
+"url": "https://www.nintendolife.com/news/2020/08/animal_crossing_new_horizons_is_now_japans_second_best-selling_game_ever",
+"urlToImage": "https://images.nintendolife.com/970e9dc7b01c7/1280x720.jpg",
+"publishedAt": "2020-08-09T07:15:00Z",
+"content": "Since Nintendo released its latest financial results, we've been hearing a lot about Animal Crossing: New Horizons sales. It's now sold over 22 million copies worldwide which means it has sold more c… [+1920 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Nintendo Life"
+},
+"author": "Nintendo Life",
+"title": "Mediatonic Would Love To Bring Fall Guys To Other Platforms Further Down The Line - Nintendo Life",
+"description": "The Switch might be part of this plan",
+"url": "https://www.nintendolife.com/news/2020/08/mediatonic_would_love_to_bring_fall_guys_to_other_platforms_further_down_the_line",
+"urlToImage": "https://images.nintendolife.com/89dbba6b305d8/1280x720.jpg",
+"publishedAt": "2020-08-09T06:05:00Z",
+"content": "One game the video game world has completely fallen in love with this week is the 60-player battle royale party title, Fall Guys: Ultimate Knockout. It's developed by the British developer Mediatonic… [+1036 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "CNET"
+},
+"author": "Vanessa Hand Orellana",
+"title": "10 new tricks WatchOS 7 will soon bring to your Apple Watch - CNET",
+"description": "Sleep tracking, new watch faces, better fitness tracking and two new health tools. Here are the most important updates coming to your Apple Watch.",
+"url": "https://www.cnet.com/how-to/10-new-tricks-apple-watch-watchos-7-features-coming-this-fall-native-sleep-tracking/",
+"urlToImage": "https://cnet2.cbsistatic.com/img/HoppgaOHqHdv2_FYc39ay2TLnGk=/756x567/2020/04/07/da1daf47-667b-4aaf-8a61-ffe389cda9f4/apple-watch-anniversary-4.jpg",
+"publishedAt": "2020-08-09T05:00:03Z",
+"content": "Angela Lang/CNET\r\nThis story is part of WWDC 2020. All the latest coverage from Apple's WWDC annual developers conference.\r\nThe Apple Watch ($399 at Apple) is learning some new tricks in WatchOS 7. A… [+5349 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Tom's Guide"
+},
+"author": "Philip Michaels",
+"title": "iPhone 12 display just leaked — and we have bad news - Tom's Guide",
+"description": "Based on an iPhone 12 display photo, it doesn't look like the notch will shrink on this year's phones",
+"url": "https://www.tomsguide.com/news/iphone-12-display-just-leaked-and-we-have-bad-news",
+"urlToImage": "https://cdn.mos.cms.futurecdn.net/VxLTcJp82gzLaiLVrX6wS7-1200-80.jpg",
+"publishedAt": "2020-08-09T05:00:00Z",
+"content": "We're getting an early glimpse at the display on the iPhone 12 thanks to an online leak, and it looks a lot like the screens on the most recent iPhones. That's bad news if you were hoping that Apple … [+1994 chars]"
+},
+{
+"source": {
+"id": "google-news",
+"name": "Google News"
+},
+"author": null,
+"title": "2020 5K 27-inch iMac Memory Upgrade - Save $2000 on 128GB! - 9to5Mac",
+"description": null,
+"url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9am9qSmI5SV9rcknSAQA?oc=5",
+"urlToImage": null,
+"publishedAt": "2020-08-09T03:10:30Z",
+"content": null
+},
+{
+"source": {
+"id": null,
+"name": "ComicBook.com"
+},
+"author": "Tyler Fischer",
+"title": "Blizzard Gives Encouraging Update on Diablo 4 Development - ComicBook.com",
+"description": "Blizzard has given an encouraging update on the development of Diablo 4, a game we haven't seen in a significant way since its reveal at BlizzCon last year. That said, while the silence may suggest that things haven't been going great, according to Blizzard's…",
+"url": "https://comicbook.com/gaming/news/diablo-4-blizzard-release-update-ps5-ps4-xbox-one-series-x-pc-covid-pandemic/",
+"urlToImage": "https://media.comicbook.com/2020/08/diablo-4-1232557-1280x0.jpeg",
+"publishedAt": "2020-08-09T02:34:00Z",
+"content": "Blizzard has given an encouraging update on the development ofDiablo 4, a game we haven't seen in a significant way since its reveal at BlizzCon last year. That said, while the silence may suggest th… [+2268 chars]"
+},
+{
+"source": {
+"id": "google-news",
+"name": "Google News"
+},
+"author": null,
+"title": "Best Video Game Westerns (That AREN'T Red Dead Redemption Games) - Screen Rant",
+"description": null,
+"url": "https://news.google.com/__i/rss/rd/articles/CBMiSWh0dHBzOi8vc2NyZWVucmFudC5jb20vd2VzdGVybi12aWRlby1nYW1lcy1saWtlLXJkcjItcmVkLWRlYWQtcmVkZW1wdGlvbi_SAU1odHRwczovL3NjcmVlbnJhbnQuY29tL3dlc3Rlcm4tdmlkZW8tZ2FtZXMtbGlrZS1yZHIyLXJlZC1kZWFkLXJlZGVtcHRpb24vYW1wLw?oc=5",
+"urlToImage": null,
+"publishedAt": "2020-08-09T02:00:00Z",
+"content": null
+},
+{
+"source": {
+"id": "engadget",
+"name": "Engadget"
+},
+"author": "",
+"title": "Microsoft's Surface Duo may launch with AT&T - Engadget",
+"description": "Microsoft's Surface Duo might launch on AT&T, possibly making it easier to buy the dual-screen phone.",
+"url": "https://www.engadget.com/microsoft-surface-duo-att-005001302.html",
+"urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2F00451710-d9b4-11ea-bace-5ed98496e652&client=amp-blogside-v2&signature=b40e51047b8a228bf0eecf3d8af58446c307ac42",
+"publishedAt": "2020-08-09T01:32:20Z",
+"content": "The renders themselves don’t appear to share anything new, although they’re a friendly reminder that offering an Android device with Google apps also means agreeing to the search giant’s policies, in… [+566 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "COGconnected"
+},
+"author": "Clayton Cyre",
+"title": "Halo Infinite Involves Backtracking in Expansive Areas - COGconnected",
+"description": "Associate creative director for Halo Infinite Paul Crocker recently confirmed that the areas in the campaign will be expansive but not necessarily open.",
+"url": "https://cogconnected.com/2020/08/halo-infinite-backtracking-expansive/",
+"urlToImage": "https://cogconnected.com/wp-content/uploads/2020/07/pjimage-10.jpg",
+"publishedAt": "2020-08-09T00:20:41Z",
+"content": "During a recent interview, associate creative director for Halo Infinite Paul Crocker stated that the game isn’t quite an open world, but it will feature expansive areas. Halo fans can also expect to… [+1622 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "CNET"
+},
+"author": "David Priest",
+"title": "6 Alexa features you should turn off today - CNET",
+"description": "From protecting privacy to making Alexa more efficient, here are some ways to improve your Amazon voice assistant.",
+"url": "https://www.cnet.com/how-to/6-alexa-features-you-should-turn-off-today/",
+"urlToImage": "https://cnet1.cbsistatic.com/img/1Z6WD5BURw2t2MEX4ZUYN9OC1EI=/756x567/2018/10/05/5b1ef3d4-090a-4be3-8678-f9b01711263a/second-gen-amazon-echo-show-product-photos-1.jpg",
+"publishedAt": "2020-08-08T23:15:03Z",
+"content": "Alexa is becoming a fixture in more houses than ever. But along with all the clever new features, a handful are definitely worth disabling.\r\nSarah Tew/CNET\r\nVoice assistants like Alexa and Google Ass… [+4934 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "ComicBook.com"
+},
+"author": "Evan Valentine",
+"title": "Studio Ghibli Meets The Legend Of Zelda in Stunning Breath of the Wind Poster - ComicBook.com",
+"description": "The Legend of Zelda is one of Nintendo's longest running, and most popular, game franchises, with the recent title of Breath of the Wild giving us a fresh new take on characters such as Link, Zelda, and Gannon, as one fan has decided to show what this game mi…",
+"url": "https://comicbook.com/anime/news/studio-ghibli-the-legend-of-zelda-breath-of-the-wild-crossover-art/",
+"urlToImage": "https://media.comicbook.com/2020/08/studio-ghibli-legend-of-zelda-breath-of-the-wild-1232547-1280x0.jpeg",
+"publishedAt": "2020-08-08T22:53:00Z",
+"content": "The Legend of Zelda is one of Nintendo's longest running, and most popular, game franchises, with the recent title of Breath of the Wild giving us a fresh new take on characters such as Link, Zelda, … [+2237 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Forbes"
+},
+"author": "Ewan Spence",
+"title": "Apple’s Radical MacBook Pro’s Missing Feature - Forbes",
+"description": "It’s only natural that the geekerati are excited around Apple’s move to ARM-based processors, but many will just compare the MacOS laptops with the Windows 10 laptops. And Windows has a big advantage...",
+"url": "https://www.forbes.com/sites/ewanspence/2020/08/08/apple-macbook-pro-macbook-air-intel-arm-microsoft-surface-advantage-versus-specs/",
+"urlToImage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2f2a8cc6f0bcc5ba98e5ac%2F0x0.jpg",
+"publishedAt": "2020-08-08T22:44:00Z",
+"content": "Its only natural that the geekerati are excited around Applesmove to ARM-based processors. The first MacBooks with the new technology are expected later this year. While there will be a marketing pus… [+4196 chars]"
+},
+{
+"source": {
+"id": "google-news",
+"name": "Google News"
+},
+"author": null,
+"title": "Small World Of Warcraft Is The Board Game We Didn't Know We Needed - Screen Rant",
+"description": null,
+"url": "https://news.google.com/__i/rss/rd/articles/CBMiOWh0dHBzOi8vc2NyZWVucmFudC5jb20vc21hbGwtd29ybGQtb2Ytd2FyY3JhZnQtcHJlLW9yZGVyL9IBPWh0dHBzOi8vc2NyZWVucmFudC5jb20vc21hbGwtd29ybGQtb2Ytd2FyY3JhZnQtcHJlLW9yZGVyL2FtcC8?oc=5",
+"urlToImage": null,
+"publishedAt": "2020-08-08T22:23:00Z",
+"content": null
+},
+{
+"source": {
+"id": null,
+"name": "ComicBook.com"
+},
+"author": "Tyler Fischer",
+"title": "Nintendo Switch Getting Classic 1997 PlayStation Game Later This Month - ComicBook.com",
+"description": "The Nintendo Switch and Nintendo Switch Lite are getting a classic 1997 JRPG later this month. More specifically, developer Onion Games has revealed that Moon is coming to the Switch and Switch Lite on August 27 via the Nintendo eShop. As you may know, the ga…",
+"url": "https://comicbook.com/gaming/news/nintendo-switch-lite-game-release-moon/",
+"urlToImage": "https://media.comicbook.com/2020/05/playstation-nintendo-switch-1222479-1280x0.jpeg",
+"publishedAt": "2020-08-08T22:21:00Z",
+"content": "The Nintendo Switch and Nintendo Switch Lite are getting a classic 1997 JRPG later this month. More specifically, developer Onion Games has revealed that Moon is coming to the Switch and Switch Lite … [+2079 chars]"
+},
+{
+"source": {
+"id": "google-news",
+"name": "Google News"
+},
+"author": null,
+"title": "New Batman Game Reveal Leaked By Industry Insider | Game Rant - GameRant",
+"description": null,
+"url": "https://news.google.com/__i/rss/rd/articles/CBMiPWh0dHBzOi8vZ2FtZXJhbnQuY29tL2JhdG1hbi1yZXZlYWwtamFzb24tc2NocmVpZXItZGMtZmFuZG9tZS_SAUFodHRwczovL2dhbWVyYW50LmNvbS9iYXRtYW4tcmV2ZWFsLWphc29uLXNjaHJlaWVyLWRjLWZhbmRvbWUvYW1wLw?oc=5",
+"urlToImage": null,
+"publishedAt": "2020-08-08T21:52:00Z",
+"content": null
+},
+{
+"source": {
+"id": null,
+"name": "The Drive"
+},
+"author": "Jesus Garcia",
+"title": "This LS V8-Swapped 1999 Plymouth Prowler with a 5-Speed Porsche Manual Is Finally a Real Hot Rod - The Drive",
+"description": "Destiny fulfilled.",
+"url": "https://www.thedrive.com/news/35527/this-ls-v8-swapped-1999-plymouth-prowler-with-a-5-speed-porsche-manual-is-finally-a-real-hot-rod",
+"urlToImage": "https://api.thedrive.com/wp-content/uploads/2020/08/1999_plymouth_prowler_1595803666e7dff9f98764da1999_plymouth_prowler_1595803665cd208495af00b97-4026-4c9b-88ed-96083d377f3f-b1dR5Z-scaled-1.jpg?quality=85",
+"publishedAt": "2020-08-08T21:49:01Z",
+"content": "The interior has been heavily modified with a Corvette sourced bucket-seats, a Kenwood Excelon stereo, custom fabricated center console, keyless entry, and Stewart-Warnet instrument gauges rolling al… [+531 chars]"
+}
+]
+}
