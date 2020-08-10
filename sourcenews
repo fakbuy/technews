@@ -1,214 +1,243 @@
+// 20200810193109
+// https://newsapi.org/v2/top-headlines?country=us&category=technology&apiKey=8c2a51edc583480aa557af175251205c
+
 {
-"status": "ok",
-"totalResults": 70,
-"articles": [
-{
-"source": {
-"id": "the-verge",
-"name": "The Verge"
-},
-"author": "Kim Lyons",
-"title": "Huawei says it’s running out of chips for its smartphones because of US sanctions - The Verge",
-"description": "Huawei, the world’s biggest smartphone vendor, says it’s running out of processor chips because of US sanctions against the company. And as of next month, the Chinese phone manufacturer will no longer be able to make its Kirin chipsets due to the ongoing econ…",
-"url": "https://www.theverge.com/2020/8/9/21360598/huawei-chips-us-sanctions-trump-china-privacy-smartphone",
-"urlToImage": "https://cdn.vox-cdn.com/thumbor/4NC1XGi0Alxr7AM79W1qK2E4DhA=/0x141:2040x1209/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10538829/VRG_ILLO_1777_Huawei_004.jpg",
-"publishedAt": "2020-08-09T13:45:41Z",
-"content": "The company also says it soon wont be able to make its own Kirin chipsets\r\nIllustration by William Joel / The Verge\r\nHuawei, the worlds biggest smartphone vendor, says its running out of processor ch… [+2580 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "CNET"
-},
-"author": "Patrick Holland",
-"title": "The Galaxy Note 20 doesn't come with headphones and that's a good thing - CNET",
-"description": "Commentary: \"I, for one, welcome our new insect overlords.\"",
-"url": "https://www.cnet.com/news/the-galaxy-note-20-doesnt-come-with-headphones-and-thats-a-good-thing/",
-"urlToImage": "https://cnet4.cbsistatic.com/img/0x31qPgXkFQnAUCCNzoQhhs_w_0=/756x567/2020/08/07/7f1d8632-0673-4042-a4d4-8b369be55ba7/samsung-galaxy-note-20-9842.jpg",
-"publishedAt": "2020-08-09T12:00:08Z",
-"content": "The new Galaxy Note 20 Ultra packs a lot of new features. But its box is missing one important thing.\r\nJames Martin/CNET\r\nWhen you buy a Galaxy Note 20 or Note 20 Ultra you might notice that the box … [+4629 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Tom's Guide"
-},
-"author": "Alan Martin",
-"title": "Nasty Android malware could put millions at risk — what to do now - Tom's Guide",
-"description": "Qualcomm has a fix, but it's yet to be distributed",
-"url": "https://www.tomsguide.com/news/nasty-android-malware-could-put-millions-at-risk-what-to-do-now",
-"urlToImage": "https://cdn.mos.cms.futurecdn.net/Jzwhquu4gv5ZQF336dDbZE-1200-80.jpg",
-"publishedAt": "2020-08-09T12:00:00Z",
-"content": "If youve bought an Android phone at any point in the last decade, theres a good chance its powered by a Qualcomm chip. The companys smartphone market share has rarely dropped below 40% worldwide in t… [+2527 chars]"
-},
-{
-"source": {
-"id": "business-insider",
-"name": "Business Insider"
-},
-"author": "Matthew DeBord",
-"title": "The $76,000 Q7 is vital for Audi — and exceeds high expectations - Business Insider - Business Insider",
-"description": "In the premium, three-row SUV realm, the Q7 has always been considered an excellent choice. The 2020 model year is no exception.",
-"url": "https://www.businessinsider.com/audi-q7-features-specs-verdict-review-2020-8",
-"urlToImage": "https://i.insider.com/5f2d7719a6f0e1753b3a8d77?width=1200&format=jpeg",
-"publishedAt": "2020-08-09T11:48:43Z",
-"content": null
-},
-{
-"source": {
-"id": null,
-"name": "Nintendo Life"
-},
-"author": "Nintendo Life",
-"title": "Animal Crossing: New Horizons Is Now Japan's Second Best-Selling Game Ever - Nintendo Life",
-"description": "The original Pokémon is still out in front",
-"url": "https://www.nintendolife.com/news/2020/08/animal_crossing_new_horizons_is_now_japans_second_best-selling_game_ever",
-"urlToImage": "https://images.nintendolife.com/970e9dc7b01c7/1280x720.jpg",
-"publishedAt": "2020-08-09T07:15:00Z",
-"content": "Since Nintendo released its latest financial results, we've been hearing a lot about Animal Crossing: New Horizons sales. It's now sold over 22 million copies worldwide which means it has sold more c… [+1920 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Nintendo Life"
-},
-"author": "Nintendo Life",
-"title": "Mediatonic Would Love To Bring Fall Guys To Other Platforms Further Down The Line - Nintendo Life",
-"description": "The Switch might be part of this plan",
-"url": "https://www.nintendolife.com/news/2020/08/mediatonic_would_love_to_bring_fall_guys_to_other_platforms_further_down_the_line",
-"urlToImage": "https://images.nintendolife.com/89dbba6b305d8/1280x720.jpg",
-"publishedAt": "2020-08-09T06:05:00Z",
-"content": "One game the video game world has completely fallen in love with this week is the 60-player battle royale party title, Fall Guys: Ultimate Knockout. It's developed by the British developer Mediatonic… [+1036 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "CNET"
-},
-"author": "Vanessa Hand Orellana",
-"title": "10 new tricks WatchOS 7 will soon bring to your Apple Watch - CNET",
-"description": "Sleep tracking, new watch faces, better fitness tracking and two new health tools. Here are the most important updates coming to your Apple Watch.",
-"url": "https://www.cnet.com/how-to/10-new-tricks-apple-watch-watchos-7-features-coming-this-fall-native-sleep-tracking/",
-"urlToImage": "https://cnet2.cbsistatic.com/img/HoppgaOHqHdv2_FYc39ay2TLnGk=/756x567/2020/04/07/da1daf47-667b-4aaf-8a61-ffe389cda9f4/apple-watch-anniversary-4.jpg",
-"publishedAt": "2020-08-09T05:00:03Z",
-"content": "Angela Lang/CNET\r\nThis story is part of WWDC 2020. All the latest coverage from Apple's WWDC annual developers conference.\r\nThe Apple Watch ($399 at Apple) is learning some new tricks in WatchOS 7. A… [+5349 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Tom's Guide"
-},
-"author": "Philip Michaels",
-"title": "iPhone 12 display just leaked — and we have bad news - Tom's Guide",
-"description": "Based on an iPhone 12 display photo, it doesn't look like the notch will shrink on this year's phones",
-"url": "https://www.tomsguide.com/news/iphone-12-display-just-leaked-and-we-have-bad-news",
-"urlToImage": "https://cdn.mos.cms.futurecdn.net/VxLTcJp82gzLaiLVrX6wS7-1200-80.jpg",
-"publishedAt": "2020-08-09T05:00:00Z",
-"content": "We're getting an early glimpse at the display on the iPhone 12 thanks to an online leak, and it looks a lot like the screens on the most recent iPhones. That's bad news if you were hoping that Apple … [+1994 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "ComicBook.com"
-},
-"author": "Tyler Fischer",
-"title": "Blizzard Gives Encouraging Update on Diablo 4 Development - ComicBook.com",
-"description": "Blizzard has given an encouraging update on the development of Diablo 4, a game we haven't seen in a significant way since its reveal at BlizzCon last year. That said, while the silence may suggest that things haven't been going great, according to Blizzard's…",
-"url": "https://comicbook.com/gaming/news/diablo-4-blizzard-release-update-ps5-ps4-xbox-one-series-x-pc-covid-pandemic/",
-"urlToImage": "https://media.comicbook.com/2020/08/diablo-4-1232557-1280x0.jpeg",
-"publishedAt": "2020-08-09T02:34:00Z",
-"content": "Blizzard has given an encouraging update on the development ofDiablo 4, a game we haven't seen in a significant way since its reveal at BlizzCon last year. That said, while the silence may suggest th… [+2268 chars]"
-},
-{
-"source": {
-"id": "engadget",
-"name": "Engadget"
-},
-"author": "",
-"title": "Microsoft's Surface Duo may launch with AT&T - Engadget",
-"description": "Microsoft's Surface Duo might launch on AT&T, possibly making it easier to buy the dual-screen phone.",
-"url": "https://www.engadget.com/microsoft-surface-duo-att-005001302.html",
-"urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2F00451710-d9b4-11ea-bace-5ed98496e652&client=amp-blogside-v2&signature=b40e51047b8a228bf0eecf3d8af58446c307ac42",
-"publishedAt": "2020-08-09T01:32:20Z",
-"content": "The renders themselves don’t appear to share anything new, although they’re a friendly reminder that offering an Android device with Google apps also means agreeing to the search giant’s policies, in… [+566 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "COGconnected"
-},
-"author": "Clayton Cyre",
-"title": "Halo Infinite Involves Backtracking in Expansive Areas - COGconnected",
-"description": "Associate creative director for Halo Infinite Paul Crocker recently confirmed that the areas in the campaign will be expansive but not necessarily open.",
-"url": "https://cogconnected.com/2020/08/halo-infinite-backtracking-expansive/",
-"urlToImage": "https://cogconnected.com/wp-content/uploads/2020/07/pjimage-10.jpg",
-"publishedAt": "2020-08-09T00:20:41Z",
-"content": "During a recent interview, associate creative director for Halo Infinite Paul Crocker stated that the game isn’t quite an open world, but it will feature expansive areas. Halo fans can also expect to… [+1622 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "CNET"
-},
-"author": "David Priest",
-"title": "6 Alexa features you should turn off today - CNET",
-"description": "From protecting privacy to making Alexa more efficient, here are some ways to improve your Amazon voice assistant.",
-"url": "https://www.cnet.com/how-to/6-alexa-features-you-should-turn-off-today/",
-"urlToImage": "https://cnet1.cbsistatic.com/img/1Z6WD5BURw2t2MEX4ZUYN9OC1EI=/756x567/2018/10/05/5b1ef3d4-090a-4be3-8678-f9b01711263a/second-gen-amazon-echo-show-product-photos-1.jpg",
-"publishedAt": "2020-08-08T23:15:03Z",
-"content": "Alexa is becoming a fixture in more houses than ever. But along with all the clever new features, a handful are definitely worth disabling.\r\nSarah Tew/CNET\r\nVoice assistants like Alexa and Google Ass… [+4934 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "ComicBook.com"
-},
-"author": "Evan Valentine",
-"title": "Studio Ghibli Meets The Legend Of Zelda in Stunning Breath of the Wind Poster - ComicBook.com",
-"description": "The Legend of Zelda is one of Nintendo's longest running, and most popular, game franchises, with the recent title of Breath of the Wild giving us a fresh new take on characters such as Link, Zelda, and Gannon, as one fan has decided to show what this game mi…",
-"url": "https://comicbook.com/anime/news/studio-ghibli-the-legend-of-zelda-breath-of-the-wild-crossover-art/",
-"urlToImage": "https://media.comicbook.com/2020/08/studio-ghibli-legend-of-zelda-breath-of-the-wild-1232547-1280x0.jpeg",
-"publishedAt": "2020-08-08T22:53:00Z",
-"content": "The Legend of Zelda is one of Nintendo's longest running, and most popular, game franchises, with the recent title of Breath of the Wild giving us a fresh new take on characters such as Link, Zelda, … [+2237 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Forbes"
-},
-"author": "Ewan Spence",
-"title": "Apple’s Radical MacBook Pro’s Missing Feature - Forbes",
-"description": "It’s only natural that the geekerati are excited around Apple’s move to ARM-based processors, but many will just compare the MacOS laptops with the Windows 10 laptops. And Windows has a big advantage...",
-"url": "https://www.forbes.com/sites/ewanspence/2020/08/08/apple-macbook-pro-macbook-air-intel-arm-microsoft-surface-advantage-versus-specs/",
-"urlToImage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2f2a8cc6f0bcc5ba98e5ac%2F0x0.jpg",
-"publishedAt": "2020-08-08T22:44:00Z",
-"content": "Its only natural that the geekerati are excited around Applesmove to ARM-based processors. The first MacBooks with the new technology are expected later this year. While there will be a marketing pus… [+4196 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "ComicBook.com"
-},
-"author": "Tyler Fischer",
-"title": "Nintendo Switch Getting Classic 1997 PlayStation Game Later This Month - ComicBook.com",
-"description": "The Nintendo Switch and Nintendo Switch Lite are getting a classic 1997 JRPG later this month. More specifically, developer Onion Games has revealed that Moon is coming to the Switch and Switch Lite on August 27 via the Nintendo eShop. As you may know, the ga…",
-"url": "https://comicbook.com/gaming/news/nintendo-switch-lite-game-release-moon/",
-"urlToImage": "https://media.comicbook.com/2020/05/playstation-nintendo-switch-1222479-1280x0.jpeg",
-"publishedAt": "2020-08-08T22:21:00Z",
-"content": "The Nintendo Switch and Nintendo Switch Lite are getting a classic 1997 JRPG later this month. More specifically, developer Onion Games has revealed that Moon is coming to the Switch and Switch Lite … [+2079 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "The Drive"
-},
-"author": "Jesus Garcia",
-"title": "This LS V8-Swapped 1999 Plymouth Prowler with a 5-Speed Porsche Manual Is Finally a Real Hot Rod - The Drive",
-"description": "Destiny fulfilled.",
-"url": "https://www.thedrive.com/news/35527/this-ls-v8-swapped-1999-plymouth-prowler-with-a-5-speed-porsche-manual-is-finally-a-real-hot-rod",
-"urlToImage": "https://api.thedrive.com/wp-content/uploads/2020/08/1999_plymouth_prowler_1595803666e7dff9f98764da1999_plymouth_prowler_1595803665cd208495af00b97-4026-4c9b-88ed-96083d377f3f-b1dR5Z-scaled-1.jpg?quality=85",
-"publishedAt": "2020-08-08T21:49:01Z",
-"content": "The interior has been heavily modified with a Corvette sourced bucket-seats, a Kenwood Excelon stereo, custom fabricated center console, keyless entry, and Stewart-Warnet instrument gauges rolling al… [+531 chars]"
-}
-]
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "James Vincent",
+      "title": "E Ink demos a folding e-reader that can also take notes - The Verge",
+      "description": "The E Ink corporation has developed a foldable e-reader prototype with integrate Wacom stylus for note taking. The technology is not quite ready for the mainstream, but it shows a future of digital notebooks with foldable e ink screens.",
+      "url": "https://www.theverge.com/2020/8/10/21361545/folding-e-ink-reader-prototype-note-taking",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/G4_lke-vb4sQr9RMCqpDcsucNNs=/102x82:1029x567/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21713197/Screen_Shot_2020_08_10_at_10.10.15_AM.png",
+      "publishedAt": "2020-08-10T09:25:23Z",
+      "content": "Like a regular notebook, but make it digital"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Eric Slivka",
+      "title": "Kuo: Chinese iPhone Shipments Could Decline Up to 30% If Apple Forced to Remove WeChat From Worldwide... - MacRumors",
+      "description": "In a worst-case scenario, Apple's annual iPhone shipments in China could decline by 25–30% if it is forced to remove WeChat from its App Stores...",
+      "url": "https://www.macrumors.com/2020/08/10/kuo-wechat-ban-iphone-shipments/",
+      "urlToImage": "https://images.macrumors.com/article-new/2020/08/apple_wechat.jpg",
+      "publishedAt": "2020-08-10T05:17:00Z",
+      "content": "In a worst-case scenario, Apple's annual iPhone shipments in China could decline by 2530% if it is forced to remove WeChat from its App Stores around the world, according to a new research note from … [+2623 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Alessandro Barbosa",
+      "title": "Call Of Duty: Warzone Will Change As New Games Release - GameSpot",
+      "description": "The free-to-play battle royale will persist as its own product and adapt according to annual Call of Duty releases, Infinity Ward confirms.",
+      "url": "https://www.gamespot.com/articles/call-of-duty-warzone-will-change-as-new-games-rele/1100-6480522/",
+      "urlToImage": "https://gamespot1.cbsistatic.com/uploads/screen_kubrick/1585/15853545/3716836-4792474489-rqw23.jpg",
+      "publishedAt": "2020-08-10T05:11:00Z",
+      "content": "Season 5 is about to launch, and Call of Duty: Warzone will continue to add in content from future annual Call of Duty entries, developer Infinity Ward has confirmed. The free-to-play battle royale w… [+1861 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Guide"
+      },
+      "author": "Philip Michaels",
+      "title": "Samsung Galaxy Z Fold 2 — here's how it can avoid the original's failures - Tom's Guide",
+      "description": "Samsung explains the changes it's made to the Galaxy Z Fold 2",
+      "url": "https://www.tomsguide.com/news/samsung-galaxy-z-fold-2-heres-how-it-can-avoid-the-originals-failures",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/WHLQbFkG5JqwT7dLCx8cXK-1200-80.jpeg",
+      "publishedAt": "2020-08-10T05:00:00Z",
+      "content": "You may never get a second chance to make a first impression, but Samsung is clearly hoping that the Galaxy Z Fold 2\r\n makes you forget all about the bumpy road that phone's predecessor had in launch… [+8198 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "autoevolution"
+      },
+      "author": "Elena Gorgan",
+      "title": "Aviar R67 Is Russia's Tesla-Based Ford Mustang With 840 HP - autoevolution",
+      "description": "If the Ford Mustang Mach-E is not the kind of electrified Mustang you were hoping for, another viable alternative comes from Russia, of all places. Meet Aviar R67.",
+      "url": "https://www.autoevolution.com/news/aviar-r67-is-russias-tesla-based-ford-mustang-with-840-hp-147156.html",
+      "urlToImage": "https://s1.cdn.autoevolution.com/images/news/aviar-r67-is-russias-tesla-based-ford-mustang-with-840-hp-147156-7.jpg",
+      "publishedAt": "2020-08-10T04:31:00Z",
+      "content": "Blending features and styling from two very American icons, the Ford Mustang and Tesla, Aviar R67 aims to be the world’s first electrified muscle car. It uses the platform from Tesla Model S and desi… [+1734 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SciTechDaily"
+      },
+      "author": null,
+      "title": "Gorgeous Ring of Stellar Wildfire Captured by Hubble Space Telescope - SciTechDaily",
+      "description": "NGC 1614, captured here by the NASA/ESA Hubble Space Telescope, is an eccentrically-shaped galaxy ablaze with activity. The galaxy resides about 200 million light-years from Earth and is nestled in the southern constellation of Eridanus (The River). NGC 1614 …",
+      "url": "https://scitechdaily.com/gorgeous-ring-of-stellar-wildfire-captured-by-hubble-space-telescope/",
+      "urlToImage": "https://scitechdaily.com/images/Galaxy-NGC-1614-Crop-scaled.jpg",
+      "publishedAt": "2020-08-10T04:24:08Z",
+      "content": "NGC 1614, an eccentrically-shaped galaxy ablaze with activity, captured here by the NASA/ESA Hubble Space Telescope. Credit: ESA/Hubble &amp; NASA, A. Adamo\r\nNGC 1614, captured here by the NASA/ESA H… [+896 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bleeding Cool News"
+      },
+      "author": "Gavin Sheehan",
+      "title": "Someone Made Steven Spielberg's Director's Chair Into A CYOA Game - Bleeding Cool News",
+      "description": "Once in a while, you see an older game get a remake online and it's awesome. Much like what's happened with Steven Spielberg's Director's Chair.",
+      "url": "https://bleedingcool.com/games/someone-made-steven-spielbergs-directors-chair-into-a-cyoa-game/",
+      "urlToImage": "https://bleedingcool.com/wp-content/uploads/2020/08/Steven-Speilbergs-Directors-Choices-Screenshot-1200x628.jpg",
+      "publishedAt": "2020-08-10T04:10:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Cameron Faulkner, Dan Seifert",
+      "title": "Brydge releases new line of ‘Designed for Surface’ keyboards and accessories - The Verge",
+      "description": "Brydge’s latest Windows 10 accessories, including the W-Type wireless keyboard and W-Touch trackpad, earned the “Designed for Surface” badge and were made in collaboration with Microsoft.",
+      "url": "https://www.theverge.com/2020/8/10/21356081/brydge-w-touch-type-wireless-trackpad-keyboard-surface-windows-10-microsoft",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/HcwccuuMxPVJhuKzBBtB0szdbqE=/0x350:4890x2910/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21712480/wtouchhero.jpg",
+      "publishedAt": "2020-08-10T04:00:00Z",
+      "content": "Including a standalone trackpad designed specifically for Windows\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nThe W-Touch and W-Type accessori… [+3941 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Firstpost"
+      },
+      "author": null,
+      "title": "Facebook Gaming iOS app launched but without the instant gaming feature to meet App Store guidelines - Firstpost",
+      "description": "In a series of tweets, Facebook has slammed Apple's restrictive policies for gaming apps.",
+      "url": "https://www.firstpost.com/tech/news-analysis/facebook-gaming-ios-app-launched-but-without-the-instant-gaming-feature-to-meet-app-store-guidelines-8686521.html",
+      "urlToImage": "https://images.firstpost.com/wp-content/uploads/2020/06/facebook-gaming-mixer-xbox-1280-min.jpg",
+      "publishedAt": "2020-08-10T03:53:01Z",
+      "content": "FP TrendingAug 10, 2020 09:23:01 IST\r\nFacebook has launched its gaming app, Facebook Gaming, for iOS devices on Friday (7 August). However, it had to forgo its mini-game feature in the app due to the… [+2640 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Sam Machkovech",
+      "title": "Xbox Series S outed by next-gen controller leak—and it’s legit - Ars Technica",
+      "description": "New controller—and its descriptive box—announced the news before Microsoft could.",
+      "url": "https://arstechnica.com/gaming/2020/08/xbox-series-s-outed-by-next-gen-controller-leak-and-its-legit/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/08/xbox.series.s.controller.01-760x380.jpg",
+      "publishedAt": "2020-08-10T03:20:56Z",
+      "content": "49 with 39 posters participating\r\n<ul><li>\r\n A new controller for a system that hasn't launched yet? That's interesting enough, sure. But the news comes when you turn the box. \r\n</li><li>\r\n Notice \"X… [+3772 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ComicBook.com"
+      },
+      "author": "Marc Deschamps",
+      "title": "Call of Duty: Modern Warfare Leak Teases Return of Black Ops' Frank Woods - ComicBook.com",
+      "description": "It appears that Frank Woods from Call of Duty: Black Ops could appear in Call of Duty: Modern Warfare. Voice lines belonging to Woods have been discovered in the game's audio files, which were apparently added in Modern Warfare's season four update. At this t…",
+      "url": "https://comicbook.com/gaming/news/call-of-duty-modern-warfare-leak-black-ops-frank-woods/",
+      "urlToImage": "https://media.comicbook.com/2020/06/call-of-duty-black-ops-1223449-1280x0.jpeg",
+      "publishedAt": "2020-08-10T02:00:00Z",
+      "content": "It appears that Frank Woods from Call of Duty: Black Ops could appear in Call of Duty: Modern Warfare. Voice lines belonging to Woods have been discovered in the game's audio files, which were appare… [+2183 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Jody Serrano",
+      "title": "Why Some of You Might Be Seeing a New ‘Quotes’ Section Underneath Tweets - Gizmodo",
+      "description": "If you've suddenly started seeing \"Quotes\" under tweets, you're not going crazy. Twitter is testing a new feature that will show \"Retweets with comments,\" which it calls quotes, directly underneath a tweet.",
+      "url": "https://gizmodo.com/why-some-of-you-might-be-seeing-a-new-quotes-section-1844668324",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b9px221vnf5nyba4itvj.jpg",
+      "publishedAt": "2020-08-10T01:34:00Z",
+      "content": "Apparently, some more metrics on our tweets is exactly what is missing from our lives during a global pandemic. Or at least thats what Twitter thinks.\r\nAs reported by the Verge, Twitter is testing a … [+2474 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ComicBook.com"
+      },
+      "author": "Marc Deschamps",
+      "title": "This Batman PS5 Console Mock-Up Is a Must-See - ComicBook.com",
+      "description": "Custom console mock-ups are fairly popular online, and the latest PS5 concept from @XboxPope features an amazing homage to Batman. The designer shared their newest console creation on social media this weekend, and it gives the PS5 and its controller a very s…",
+      "url": "https://comicbook.com/gaming/news/batman-ps5-mock-up-playstation-console/",
+      "urlToImage": "https://media.comicbook.com/2020/06/batman-arkham-1223885-1280x0.jpeg",
+      "publishedAt": "2020-08-09T23:51:00Z",
+      "content": "Custom console mock-ups are fairly popular online, and the latest PS5 concept from @XboxPope features an amazing homage to Batman. The designer shared their newest console creation on social media th… [+2284 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CarScoops"
+      },
+      "author": null,
+      "title": "Does Individual Ametrin Metallic Suit The BMW M8 Competition Gran Coupe? - CarScoops",
+      "description": "Ametrin Metallic is a $1,950 optional extra on the 2020 BMW M8 Competition Gran Coupe.",
+      "url": "https://www.carscoops.com/2020/08/does-individual-ametrin-metallic-suit-the-bmw-m8-competition-gran-coupe/",
+      "urlToImage": "https://www.carscoops.com/wp-content/uploads/2020/07/bmw-m8-comp-gc-ametrin-metallic-24.jpg",
+      "publishedAt": "2020-08-09T23:50:00Z",
+      "content": "Here’s another 2020 BMW M8 Competition Gran Coupe model for your viewing pleasure, specced with BMW Individual options both inside and out.\r\nThe car was photographed at BMW Abu Dhabi, rocking a styli… [+1537 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Ewan Spence",
+      "title": "Microsoft’s Surprising Surface Duo Release Plans Revealed - Forbes",
+      "description": "When the world saw Microsoft's Surface Duo last October, ‘the holidays 2020’ was announced as the retail launch date. Now it looks like we’ll be seeing the revolutionary device in the next few weeks.",
+      "url": "https://www.forbes.com/sites/ewanspence/2020/08/09/microsoft-surface-duo-new-leak-rumor-release-date/",
+      "urlToImage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dbf6283d85e300007900ca1%2F0x0.jpg",
+      "publishedAt": "2020-08-09T23:04:00Z",
+      "content": "When MicrosoftsPanos Panay took to the stage late last year to introduce the world to the Surface Duo, the holidays 2020 was announced as the retail launch. For many, including myself, that suggested… [+2463 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Patrick Holland",
+      "title": "The Galaxy Note 20 doesn't come with headphones and that's a good thing - CNET",
+      "description": "Commentary: \"I, for one, welcome our new insect overlords.\"",
+      "url": "https://www.cnet.com/news/the-galaxy-note-20-doesnt-come-with-headphones-thats-a-good-thing/",
+      "urlToImage": "https://cnet4.cbsistatic.com/img/0x31qPgXkFQnAUCCNzoQhhs_w_0=/756x567/2020/08/07/7f1d8632-0673-4042-a4d4-8b369be55ba7/samsung-galaxy-note-20-9842.jpg",
+      "publishedAt": "2020-08-09T23:02:00Z",
+      "content": "The new Galaxy Note 20 Ultra packs a lot of new features. But its box is missing one important thing.\r\nJames Martin/CNET\r\nWhen you buy a Galaxy Note 20 or Note 20 Ultra you might notice that the box … [+4627 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Tony Wilson",
+      "title": "Top New Games Releasing On Switch, PS4, Xbox One, And PC This Week -- August 9-15, 2020 - GameSpot",
+      "description": "Hyper Scape and A Total War Saga: Troy can be yours at no cost.",
+      "url": "https://www.gamespot.com/articles/top-new-games-releasing-on-switch-ps4-xbox-one-and/1100-6480703/",
+      "urlToImage": "https://gamespot1.cbsistatic.com/uploads/screen_kubrick/1563/15636435/3718121-newreleases_08092020.jpg",
+      "publishedAt": "2020-08-09T23:00:00Z",
+      "content": "New Releases highlights some of the top games releasing each week, and this episode has two games you can grab for free. Hyper Scape, Ubisoft's take on the battle royale trend, is totally free to pla… [+3825 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Gordon Kelly",
+      "title": "New Apple Leak Reveals iPhone 12 Design Shock - Forbes",
+      "description": "Apple's new iPhone 12 will not look like everyone expected...",
+      "url": "https://www.forbes.com/sites/gordonkelly/2020/08/09/apple-iphone-12-design-display-face-id-release-iphone-11-pro-max-upgrade/",
+      "urlToImage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee95d57ad6eea0006e15db1%2F0x0.jpg",
+      "publishedAt": "2020-08-09T22:50:00Z",
+      "content": "08/09 Update below. This post was originally published on August 6\r\niPhone 12 surprises keep coming (both good news, bad news and unexpected twists), but now we know perhaps the biggest problem with … [+3725 chars]"
+    }
+  ]
 }
