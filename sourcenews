@@ -1,6 +1,3 @@
-// 20200810193109
-// https://newsapi.org/v2/top-headlines?country=us&category=technology&apiKey=8c2a51edc583480aa557af175251205c
-
 {
   "status": "ok",
   "totalResults": 70,
