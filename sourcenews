@@ -215,6 +215,19 @@
     },
     {
       "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Aston Martin DBX review | new V8 Aston SUV on test | Autocar - Autocar",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9MmhjSktORGlVUFXSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2020-08-09T23:00:01Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": null,
         "name": "GameSpot"
       },
@@ -238,6 +251,19 @@
       "urlToImage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee95d57ad6eea0006e15db1%2F0x0.jpg",
       "publishedAt": "2020-08-09T22:50:00Z",
       "content": "08/09 Update below. This post was originally published on August 6\r\niPhone 12 surprises keep coming (both good news, bad news and unexpected twists), but now we know perhaps the biggest problem with … [+3725 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Pokémon Sword & Shield Players Can Get a Free Shiny Using This Code - Screen Rant",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiTWh0dHBzOi8vc2NyZWVucmFudC5jb20vcG9rZW1vbi1zd29yZC1zaGllbGQtc2hpbnktYW1vb25ndXNzLWNvZGUtYXVndXN0LTIwMjAv0gFRaHR0cHM6Ly9zY3JlZW5yYW50LmNvbS9wb2tlbW9uLXN3b3JkLXNoaWVsZC1zaGlueS1hbW9vbmd1c3MtY29kZS1hdWd1c3QtMjAyMC9hbXAv?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2020-08-09T22:18:00Z",
+      "content": null
     }
   ]
 }
