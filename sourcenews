@@ -4,19 +4,6 @@
   "articles": [
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": null,
-      "title": "AVICII Invector - Demo Trailer - Nintendo Switch - Nintendo",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9VmwteG85aHFXOE3SAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2020-08-13T16:00:07Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": null,
         "name": "Vox"
       },
@@ -30,19 +17,6 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": null,
-      "title": "Google Pixel 5: Pricing, specs, release date, images, and everything else we know - Android Police",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMidmh0dHBzOi8vd3d3LmFuZHJvaWRwb2xpY2UuY29tLzIwMjAvMDgvMTMvZ29vZ2xlLXBpeGVsLTUtcHJpY2luZy1zcGVjcy1yZWxlYXNlLWRhdGUtaW1hZ2VzLWFuZC1ldmVyeXRoaW5nLWVsc2Utd2Uta25vdy_SAXpodHRwczovL3d3dy5hbmRyb2lkcG9saWNlLmNvbS8yMDIwLzA4LzEzL2dvb2dsZS1waXhlbC01LXByaWNpbmctc3BlY3MtcmVsZWFzZS1kYXRlLWltYWdlcy1hbmQtZXZlcnl0aGluZy1lbHNlLXdlLWtub3cvP2FtcA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2020-08-13T15:06:00Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "ign",
         "name": "IGN"
       },
@@ -53,19 +27,6 @@
       "urlToImage": "https://assets1.ignimgs.com/2020/08/12/tonyhawk-blogroll-1597274071604.jpg?width=1280",
       "publishedAt": "2020-08-13T15:03:36Z",
       "content": "Pretending I'm a Superman: The Tony Hawk Video Game Story will be released on VOD &amp; Digital platforms on August 18 from Wood Entertainment in North America, as well as internationally through Gar… [+4476 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": null,
-      "title": "Boomerang Fu - Launch Trailer - Nintendo Switch - Nintendo",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9UjZQWGx2RXROS2PSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2020-08-13T15:00:13Z",
-      "content": null
     },
     {
       "source": {
