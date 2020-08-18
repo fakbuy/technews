@@ -1,228 +1,266 @@
 {
-  "status": "ok",
-  "totalResults": 70,
-  "articles": [
-
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Ryan Browne",
-      "title": "The $150 billion video game industry grapples with a murky track record on diversity - CNBC",
-      "description": "Though there have been some positive steps in the space, industry representatives say gaming has a long way to go on diversity and inclusion.",
-      "url": "https://www.cnbc.com/2020/08/14/video-game-industry-grapples-with-murky-track-record-on-diversity.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106662331-1597335095614-gettyimages-1162855613-AFP_1JN1Z5.jpeg?v=1597335187",
-      "publishedAt": "2020-08-14T05:23:00Z",
-      "content": "A woman plays at the stand of Xbox during the media day of the Gamescom video games trade fair in Cologne, western Germany, on August 20, 2019.\r\nThe video game industry may be booming in the coronavi… [+7512 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Sherisse Pham, CNN Business",
-      "title": "New US sanctions could slowly strangle Huawei's smartphone business - CNN",
-      "description": "Huawei recently became the world's biggest smartphone maker, beating Samsung and Apple at their own game by offering consumers state of the art phones with amazing cameras at competitive prices.",
-      "url": "https://www.cnn.com/2020/08/14/tech/huawei-kirin-chipsets-hnk-intl/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200813041229-huawei-store-0623-super-tease.jpg",
-      "publishedAt": "2020-08-14T04:02:00Z",
-      "content": "Hong Kong (CNN Business)Huawei recently became the world's biggest smartphone maker, beating Samsung and Apple(AAPL) at their own game by offering consumers state of the art phones with amazing camer… [+4222 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ComicBook.com"
-      },
-      "author": "Tyler Fischer",
-      "title": "FIFA 21 Is Making Some Big and Much-Needed Improvements to Career Mode - ComicBook.com",
-      "description": "Today, EA revealed the changes and improvements being made to career mode for FIFA 21. And unlike previous years, EA is actually making some big and appreciable improvements to the forgotten mode. To accompany the information blowout, it's also revealed a bra…",
-      "url": "https://comicbook.com/gaming/news/fifa-21-career-mode-ps5-ps4-xbox-one-nintendo-switch-pc/",
-      "urlToImage": "https://media.comicbook.com/2020/08/fifa-21-1232474-1280x0.jpeg",
-      "publishedAt": "2020-08-14T02:30:00Z",
-      "content": "Today, EA revealed the changes and improvements being made to career mode for FIFA 21. And unlike previous years, EA is actually making some big and appreciable improvements to the forgotten mode. To… [+3079 chars]"
-    },
-    {
-      "source": {
-        "id": "the-next-web",
-        "name": "The Next Web"
-      },
-      "author": "Napier Lopez",
-      "title": "Report: Apple to bundle services in Prime-like ‘Apple One’ subscription - The Next Web",
-      "description": "We’ve been hearing rumors Apple may try to integrate its various subscription services for nearly a year, but a report by Bloomberg today provided more information on the potential launch. According to the report, the subscription will be called ‘Apple One‘ a…",
-      "url": "https://thenextweb.com/plugged/2020/08/14/report-apple-to-bundle-services-in-prime-like-apple-one-subscription/",
-      "urlToImage": "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2019%2F08%2FAppleTV.png&signature=9dc07a3a7135299dc364cc13929bd5ed",
-      "publishedAt": "2020-08-14T02:16:00Z",
-      "content": "Weve been hearing rumors Apple may try to integrate its various subscription services for nearly a year, but a report by Bloomberg today provided more information on the potential launch. According t… [+1662 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Taylor Lyles",
-      "title": "Samsung’s most affordable 5G phone, the Galaxy A51, is now available on Verizon - The Verge",
-      "description": "5G smartphones just got more affordable for Verizon users. Samsung’s Galaxy A51 5G UW is now available for $550. The Galaxy A51 5G UW includes Verizon’s ultra-wideband 5G network and will add its low-band network later this year.",
-      "url": "https://www.theverge.com/2020/8/13/21368177/samsung-galazy-a51-5g-uw-cheap-5g-phone-verizon",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/NknQf-6gcWNPeNrvhLmoD_DIMMU=/0x116:1024x652/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21758761/Samsung_Galaxy_A51_5G.png",
-      "publishedAt": "2020-08-14T01:39:39Z",
-      "content": "Available now for $550\r\nImage: Verizon\r\nSamsungs affordable midrange 5G phone, the Galaxy A51, is finally available at Verizon. Compared to other phones released within the past year, the $550 Galaxy… [+1464 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": null,
-      "title": "PSA: iOS users are randomly being prompted with an iTunes Store error message - 9to5Mac",
-      "description": "A number of iPhone, iPod touch, and iPad users are now reporting that iOS is showing a random error message related to the iTunes Store. According to some reports on social networks, the error message appears unexpectedly after opening any app installed on th…",
-      "url": "https://9to5mac.com/2020/08/13/psa-ios-users-are-randomly-being-prompted-with-an-itunes-store-error-message/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2019/10/iTunes-Store-error.png",
-      "publishedAt": "2020-08-13T23:29:00Z",
-      "content": "A number of iPhone, iPod touch, and iPad users are now reporting that iOS is showing a random error message related to the iTunes Store. According to some reports on social networks, the error messag… [+957 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Dieter Bohn",
-      "title": "Fortnite for Android has also been kicked off the Google Play Store - The Verge",
-      "description": "Following Apple’s move earlier, Google has banned Fortnite from the Google Play Store for Android for violating its rules about in-app purchases. But Android still allowed third-party app installs.",
-      "url": "https://www.theverge.com/2020/8/13/21368079/fortnite-epic-android-banned-google-play-app-store-rule-violation",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/H4_LexjaAo5n02CMFoXVeKNdhR0=/0x165:1152x768/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/20000385/oneplus_fortnite.jpg",
-      "publishedAt": "2020-08-13T22:41:51Z",
-      "content": "You can still install it directly from Epic, however\r\nImage: OnePlus\r\nFollowing its removal from the Apple App Store, Fortnite has also been kicked off of the Google Play Store for Android. Earlier t… [+5653 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": null,
-      "title": "Microsoft shares 35-minute demo pitching and explaining the Surface Duo [Video] - 9to5Google",
-      "description": "After announcing in October, Microsoft yesterday fully detailed its Android Foldable and openned up pre-orders. A Surface Duo demo video...",
-      "url": "https://9to5google.com/2020/08/13/surface-duo-demo-video/",
-      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2020/08/surface-duo-demo-video.jpg?quality=82&strip=all",
-      "publishedAt": "2020-08-13T21:37:00Z",
-      "content": "After announcing in October, Microsoft yesterday fully detailed the Surface Duo. In addition to specs, it opened up pre-orders for the Android Foldable. The company today shared a 35-minute demo vide… [+1673 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Ryan Gilliam",
-      "title": "Infinity Ward working on a fix for gun glitch in Call of Duty: Warzone - Polygon",
-      "description": "Call of Duty: Warzone has a scary bug, which turns some weapons into monsters. For some unknown reasons, certain weapon textures are coming alive in Call of Duty: Warzone matches, blocking the players’ view and ruining shootouts.",
-      "url": "https://www.polygon.com/2020/8/13/21367871/infinity-ward-bug-fix-weapon-texture-breaking-gun-glitch-fix-patch",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/fGwg82SZA1mw3lnwEz-GHZoMY_4=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19867606/AGB_G556_Tout.jpg",
-      "publishedAt": "2020-08-13T21:30:00Z",
-      "content": "On Thursday, Infinity Ward tweeted that its working on an express fix for one of Call of Duty: Warzones most unsettling bugs. \r\nRecently, players have run into bizarre visual bugs. For some reason, p… [+1516 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Sam Rutherford",
-      "title": "Google Is Upgrading Search to Make it Easier to Find Live Sports and TV Shows - Gizmodo",
-      "description": "With a seemingly ever-increasing number of cable and streaming services, simply figuring out where to watch that one live event or show has become its own challenge. So in an effort to help cut down on the noise, Google is upgrading Google Search with some ne…",
-      "url": "https://gizmodo.com/google-is-upgrading-search-to-make-it-easier-to-find-li-1844716338",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/xcpp1wpfgribv9vuqng8.jpg",
-      "publishedAt": "2020-08-13T21:25:00Z",
-      "content": "With a seemingly ever-increasing number of cable and streaming services, simply figuring out where to watch that one live event or show has become its own challenge. So in an effort to help cut down … [+1994 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Chrome Unboxed"
-      },
-      "author": "https://chromeunboxed.com/author/robbypayne/",
-      "title": "Samsung Chromebook 4+ unboxing and initial impressions [VIDEO] - Chrome Unboxed",
-      "description": "The Samsung Chromebook 4 and 4+ came out some time ago, announced all the way back in October of last year. The pair was never really on our radar as their internals were simply too mundane at too high a price to ever consider or recommend. For low-end Chrome…",
-      "url": "https://chromeunboxed.com/back-to-school-samsung-chromebook-4-unboxing-intial-impressions",
-      "urlToImage": "http://img.youtube.com/vi/oVNUwl1RoMc/maxresdefault.jpg",
-      "publishedAt": "2020-08-13T21:20:44Z",
-      "content": "The Samsung Chromebook 4 and 4+ came out some time ago, announced all the way back in October of last year. The pair was never really on our radar as their internals were simply too mundane at too hi… [+3576 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Juli Clover",
-      "title": "Samsung's Galaxy Buds Live vs. Apple's AirPods Pro - MacRumors",
-      "description": "Samsung last week unveiled new flagship smartphones and the new bean-shaped Galaxy Buds Live, a set of wireless earbuds with Active Noise...",
-      "url": "https://www.macrumors.com/2020/08/13/samsungs-galaxy-buds-live-vs-apples-airpods-pro/",
-      "urlToImage": "https://images.macrumors.com/article-new/2020/08/galaxybudsthumbnail.jpg",
-      "publishedAt": "2020-08-13T20:48:00Z",
-      "content": "Samsung last week unveiled new flagship smartphones and the new bean-shaped Galaxy Buds Live, a set of wireless earbuds with Active Noise Cancellation that are designed to rival Apple's AirPods Pro. … [+3441 chars]"
-    },
-    {
-      "source": {
-        "id": "engadget",
-        "name": "Engadget"
-      },
-      "author": "",
-      "title": "Pro ‘Fortnite’ streamer Ewok is back on Twitch - Engadget",
-      "description": "Mixer shut down July 22nd, meaning Ewok and other pro streamers were faced with choosing a new platform.  More than 20,000 viewers watched Ewok play Fortnite and Fall Guys on her return stream, according to Dot Esports.  \"I decided to return to Twitch because…",
-      "url": "https://www.engadget.com/pro-fortnite-streamer-ewok-back-twitch-201111941.html",
-      "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2Fc3ab2a40-dd9d-11ea-be7f-06b5c1a8e4fe&client=amp-blogside-v2&signature=efe514e24238b629eb09ab547afa4e131f9ffeae",
-      "publishedAt": "2020-08-13T20:26:16Z",
-      "content": "Soleil \"Faze Ewok\" Wheeler has signed an exclusive streaming deal with Twitch after streaming on Microsoft’s Mixer since November of last year. Mixer shut down July 22nd, meaning Ewok and other pro s… [+555 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dexerto"
-      },
-      "author": "Alan Bernal",
-      "title": "Unbreakable gas masks are ruining Warzone as devs are trying to fix it - Dexerto",
-      "description": "Warzone players are finding that the unbreakable gas mask glitch is still making appearances in the battle royale after Infinity Ward had targeted it for a fix.",
-      "url": "https://www.dexerto.com/call-of-duty/unbreakable-gas-masks-are-ruining-warzone-as-devs-are-trying-to-fix-it-1405877",
-      "urlToImage": "https://img.resized.co/dexerto/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5kZXhlcnRvLmNvbVxcXC91cGxvYWRzXFxcLzIwMjBcXFwvMDhcXFwvMTMyMDU1NDJcXFwvdW5icmVha2FibGUtZ2FzLW1hc2stYnVnLWlzLWJhY2staW4td2Fyem9uZS1hcy1kZXZzLXRyeS10by1maXgtaXQuanBnXCIsXCJ3aWR0aFwiOjY0NyxcImhlaWdodFwiOjM0MCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvaW1hZ2VzLmRleGVydG8uY29tXFxcL3VwbG9hZHNcXFwvMjAxOVxcXC8xMVxcXC8xMTIxNDk0M1xcXC9wbGFjZWhvbGRlci5qcGdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiYmFkZThhY2IyNjg2ZGQ1NTk0NTZhNzEwNjdhMWY4NTU1YzZmOGI0OSJ9/unbreakable-gas-masks-are-ruining-warzone-as-devs-are-trying-to-fix-it.jpg",
-      "publishedAt": "2020-08-13T20:24:05Z",
-      "content": "Call of Duty players are finding the unbreakable gas mask glitch once again in Warzone, as the bug that had once been subsided has made an unwelcome return.\r\nAs Infinity Ward contest with some of the… [+2029 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PhoneArena"
-      },
-      "author": "Adrian Diaconescu",
-      "title": "Reliable leaker 'confirms' Samsung Galaxy Z Fold 2 5G release date - PhoneArena",
-      "description": "Evan Blass is almost always right, so it's essentially etched in stone that the Samsung Galaxy Z Fold 2 5G will go up for pre-order on September 2 ahead of an actual release on September 8.",
-      "url": "https://www.phonearena.com/news/samsung-galaxy-z-fold-2-5g-pre-order-us-release-date_id126589",
-      "urlToImage": "https://m-cdn.phonearena.com/images/article/126589-two_1200/Reliable-leaker-confirms-Samsung-Galaxy-Z-Fold-2-5G-release-date.jpg",
-      "publishedAt": "2020-08-13T20:03:00Z",
-      "content": "All content, features, and design are Copyright 2001-2020 PhoneArena.com.PhoneArena may receive a small commission if you purchase through affiliate links on this page.All rights reserved. Reproducti… [+88 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Guide"
-      },
-      "author": "Mark Spoonauer",
-      "title": "The iPhone 12 will not spur massive upgrades — here’s why - Tom's Guide",
-      "description": "The addition of 5G to the iPhone 12 will generate buzz, but won't necessarily compel shoppers to upgrade",
-      "url": "https://www.tomsguide.com/news/the-iphone-12-will-not-spur-massive-upgrades-heres-why",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Pq7Vp74cfQcNjdWERpsffU-1200-80.jpg",
-      "publishedAt": "2020-08-13T19:12:00Z",
-      "content": "With the addition of 5G and a rumored new design, the iPhone 12 is one of the most anticipated phones in years. But will it lead to a so-called \"super cycle\" of upgrades as some are predicting?\r\nWedb… [+3555 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Allen Kim, CNN",
-      "title": "Tony Hawk's Pro Skater renames the mute grab to honor deaf skater who created it - CNN",
-      "description": "Pro skating legend Tony Hawk is formally changing the name of an iconic skateboarding move in order to honor the deaf skater who created it.",
-      "url": "https://www.cnn.com/2020/08/13/business/tony-hawk-weddle-mute-trnd/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200813124323-tony-hawk-0217-super-tease.jpg",
-      "publishedAt": "2020-08-13T19:07:00Z",
-      "content": null
-    }
-  ]
+"status": "ok",
+"totalResults": 70,
+"articles": [
+{
+"source": {
+"id": "the-verge",
+"name": "The Verge"
+},
+"author": "Dieter Bohn",
+"title": "Samsung Galaxy Note 20 Ultra review: big phone, small updates - The Verge",
+"description": "This might have turned us into S Pen believers.",
+"url": "https://www.theverge.com/21372109/samsung-galaxy-note-20-ultra-review-camera-price-photos-s-pen-notes",
+"urlToImage": "https://cdn.vox-cdn.com/thumbor/iy5UBrWAKT6hH_7abKk6TzlDNuk=/0x292:2040x1360/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21765746/dbohn_200817_4133_0001.0.jpg",
+"publishedAt": "2020-08-18T14:00:00Z",
+"content": "If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.Samsung has settled into a new routine for its Galaxy Note line of smartphones: take some of the majo… [+18224 chars]"
+},
+{
+"source": {
+"id": "the-verge",
+"name": "The Verge"
+},
+"author": "Cameron Faulkner",
+"title": "Nvidia’s GeForce Now cloud gaming service is available on Chromebooks - The Verge",
+"description": "Nvidia’s GeForce Now cloud game streaming service is now playable on select Chromebooks that meet the recommended specifications. It’s free to join, so you can easily see if your machine can run games well.",
+"url": "https://www.theverge.com/2020/8/18/21372531/nvidia-geforce-now-cloud-gaming-service-chromebook-chrome-os",
+"urlToImage": "https://cdn.vox-cdn.com/thumbor/82vaUrAUDfDYLzIT9r4B49HKsBs=/0x156:2040x1224/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21765655/cfaulkner_200817_4151_0002.0.jpg",
+"publishedAt": "2020-08-18T13:00:00Z",
+"content": "And its pretty good, even if you barely meet the requirements\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nI just played Death Stranding on my … [+4886 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Forbes"
+},
+"author": "Paul Tassi",
+"title": "PS5 Effectively Just Got A Huge New Exclusive Launch Title - Forbes",
+"description": "The deck is starting to feel a little bit stacked for the PS5 and Xbox Series X launch in favor of Sony, especially with Ghost of Tsushima Legends now on the way.",
+"url": "https://www.forbes.com/sites/paultassi/2020/08/18/ps5-effectively-just-got-a-huge-new-exclusive-launch-title/",
+"urlToImage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3bcbaf3590c1433a48b407%2F0x0.jpg",
+"publishedAt": "2020-08-18T12:46:00Z",
+"content": "Ghost of Tsushima Legends\r\nSucker Punch\r\nThe deck is starting to feel a little bit stacked for the PS5 and Xbox Series X launch in favor of Sony. Microsoft has lost Halo Infinite as a launch title, w… [+2662 chars]"
+},
+{
+"source": {
+"id": "ars-technica",
+"name": "Ars Technica"
+},
+"author": "Jennifer Ouellette",
+"title": "Study confirms that painting eyes on cow butts helps ward off predators - Ars Technica",
+"description": "There's no silver bullet, but \"eye-cow\" technique is one available tool for farmers.",
+"url": "https://arstechnica.com/science/2020/08/study-confirms-that-painting-eyes-on-cow-butts-helps-ward-off-predators/",
+"urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/08/cowbutts1-760x380.jpg",
+"publishedAt": "2020-08-18T12:43:00Z",
+"content": "Enlarge/ Eyes painted on cattle rumps trick lions into thinking they have lost the element of surprise, a new study suggests.\r\n63 with 49 posters participating\r\nCattle herds in the Okavango delta reg… [+5519 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Nintendo Life"
+},
+"author": "Nintendo Life",
+"title": "Random: 89-Year-Old Animal Crossing Grandma Is Back With Her New Horizons Island Tour - Nintendo Life",
+"description": "The video we've all been waiting for",
+"url": "https://www.nintendolife.com/news/2020/08/random_89-year-old_animal_crossing_grandma_is_back_with_her_new_horizons_island_tour",
+"urlToImage": "https://images.nintendolife.com/ad96286e5c797/1280x720.jpg",
+"publishedAt": "2020-08-18T10:30:00Z",
+"content": "The time has finally come for the Animal Crossing community to catch up with Audrey, the now 89-year-old grandma who rose to fame after clocking in a whopping 3,500+ hour playtime on Animal Crossing:… [+825 chars]"
+},
+{
+"source": {
+"id": "ign",
+"name": "IGN"
+},
+"author": "Jordan Oloman",
+"title": "Fall Guys: Brands Start Charity Bidding War to Get Skin in the Game - IGN - IGN",
+"description": "Fall Guys' charity bidding war has already attracted a number of brands including Warframe, G2 Esports and The Sidemen.",
+"url": "https://www.ign.com/articles/fall-guys-brands-start-charity-bidding-war-to-get-skin-in-the-game",
+"urlToImage": "https://assets1.ignimgs.com/2020/08/18/fall-guys-charity-skin-1597746153061.jpg?width=1280",
+"publishedAt": "2020-08-18T10:28:10Z",
+"content": "Fall Guys has initiated a \"Battle of the Brands\" bidding contest to bring themed skins to the game, in aid of UK games charity Special Effect.Announced via the Fall Guys Twitter account, the contest … [+1714 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Daily Beast"
+},
+"author": "Daniel Modlin",
+"title": "Sony's New Headphones Are the Best Noise Cancelling Option Out There - The Daily Beast",
+"description": "Sony improved their already stellar noise cancelling headphones with a few subtle but necessary updates.",
+"url": "https://www.thedailybeast.com/sonys-new-headphones-are-the-best-noise-cancelling-option-out-there",
+"urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1439,w_2560,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1597350605/sonyhero_npupfk",
+"publishedAt": "2020-08-18T10:01:00Z",
+"content": "If I had to pick the most essential thing that has helped me get through this work from home daydream, itd be my noise cancelling headphones by a long shot. I used to own the Sony WH-1000XM3s, which … [+2087 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "CNET"
+},
+"author": "Katie Conner",
+"title": "10 new Alexa features to try on your Amazon Echo - CNET",
+"description": "Amazon added several new tricks and tools to its Echo devices and Alexa app.",
+"url": "https://www.cnet.com/how-to/10-new-alexa-features-to-try-on-your-amazon-echo/",
+"urlToImage": "https://cnet2.cbsistatic.com/img/Ch6Z8VtRWz_QaZdrxd30MXjdPAg=/756x567/2018/02/09/4ae45803-668a-4d4b-94f1-2ef46ebc68c2/amazon-echo-2ndgen-01.jpg",
+"publishedAt": "2020-08-18T09:15:04Z",
+"content": "Your Amazon Echo has some new tools.\r\nIan Knighton/CNET\r\nAmazon has made several new improvements to its Echo speakers and the Alexa app in the past month, from a redesigned app that makes it easier … [+3158 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Seeking Alpha"
+},
+"author": "Bob O'Donnell",
+"title": "Intel Chip Advancements Show It's Up For A Competitive Challenge - Seeking Alpha",
+"description": "It would be easy to see how some people may think Intel is in serious trouble, as several signs have not been promising.",
+"url": "https://seekingalpha.com/article/4369384-intel-chip-advancements-show-up-for-competitive-challenge",
+"urlToImage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+"publishedAt": "2020-08-18T06:23:00Z",
+"content": "If you've followed developments in the semiconductor industry, particularly over the past few weeks, it would be easy to see how some people may think Intel (INTC) is in serious trouble. After all, s… [+6245 chars]"
+},
+{
+"source": {
+"id": "engadget",
+"name": "Engadget"
+},
+"author": "",
+"title": "Chrome's 'Fast page' label shows which websites have quick loading times - Engadget",
+"description": "Google is launching a new Web Vitals metric with Chrome 85 beta — one that can tell you if a page you’re visiting won’t take forever to load.  Links that earn the label have been historically fast for most users, though Chrome can also evaluate them on a host…",
+"url": "https://www.engadget.com/chrome-fast-page-label-060538992.html",
+"urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2F4501ca20-e106-11ea-bef6-a605ee4bce23&client=amp-blogside-v2&signature=ee2a28d6259a7debc407e63062a439aa7829adf6",
+"publishedAt": "2020-08-18T06:06:18Z",
+"content": "Google is launching a new Web Vitals metric with Chrome 85 beta — one that can tell you if a page you’re visiting won’t take forever to load. The new metric will give URLs and URLs from the same webs… [+867 chars]"
+},
+{
+"source": {
+"id": "techradar",
+"name": "TechRadar"
+},
+"author": "David Lumb",
+"title": "Samsung Galaxy Z Fold 2 photos show thick camera bump in regulatory listing - TechRadar",
+"description": "The Galaxy Z Fold 2 looks big yet sleek",
+"url": "https://www.techradar.com/news/samsung-galaxy-z-fold-2s-thick-camera-block-shown-off-in-regulatory-listing",
+"urlToImage": "https://cdn.mos.cms.futurecdn.net/h7T72X3abjk7TG9BXRtcge-1200-80.jpg",
+"publishedAt": "2020-08-18T05:00:00Z",
+"content": "Weve gotten another look at the Samsung Galaxy Z Fold 2 thanks to a new listing on the Chinese telecom regulation authority's (TENAA) website, which clearly show off the side and front views of the n… [+2055 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "GameSpot"
+},
+"author": "Hayley Williams",
+"title": "Alleged Marvel's Avengers Datamine Could Point To New Playable Characters - GameSpot",
+"description": "Dataminers claim that at least 15 new playable characters are hidden in the game's code.",
+"url": "https://www.gamespot.com/articles/alleged-marvels-avengers-datamine-could-point-to-n/1100-6481069/",
+"urlToImage": "https://gamespot1.cbsistatic.com/uploads/screen_kubrick/1597/15975876/3722288-marvelsavengers.jpg",
+"publishedAt": "2020-08-18T04:48:00Z",
+"content": "With the beta for Crystal Dynamics' Marvel's Avengers game now having dropped on all platforms (though the PS4 got it the earliest), dataminers have started to dig through the files of the PC version… [+2038 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Dexerto"
+},
+"author": "Brad Norton",
+"title": "Game-breaking Warzone FR 5.56 loadout leads to ridiculous one-shot kills - Dexerto",
+"description": "Warzone players have spotted an absurd new loadout in Season 5 that can instantly wipe out teams without a challenge.",
+"url": "https://www.dexerto.com/call-of-duty/game-breaking-warzone-fr-5-56-loadout-ridiculous-one-shot-kills-1407600",
+"urlToImage": "https://img.resized.co/dexerto/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5kZXhlcnRvLmNvbVxcXC91cGxvYWRzXFxcLzIwMjBcXFwvMDhcXFwvMTgwNTIwMTJcXFwvd2Fyem9uZS1zZWFzb24tNS1mci5wbmdcIixcIndpZHRoXCI6NjQ3LFwiaGVpZ2h0XCI6MzQwLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC9pbWFnZXMuZGV4ZXJ0by5jb21cXFwvdXBsb2Fkc1xcXC8yMDE5XFxcLzExXFxcLzExMjE0OTQzXFxcL3BsYWNlaG9sZGVyLmpwZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI2ZTk0YTQxNDJlYjQwMDliNzY3NDlkMmI5ZDFkNjdkNTNkYmE1N2UxIn0=/warzone-devs-respond-to-broken-insta-kill-famas-shotgun-loadout.png",
+"publishedAt": "2020-08-18T04:29:28Z",
+"content": "Warzone Season 5 may have introduced the most powerful gun in the battle royale’s short history as players have begun to realize the true potential of a ridiculous new FR 5.56 loadout.\r\nBurst weapons… [+2870 chars]"
+},
+{
+"source": {
+"id": "polygon",
+"name": "Polygon"
+},
+"author": "Dave Tach",
+"title": "Mortal Shell beginner’s guide, tips, and tricks - Polygon",
+"description": "Mortal Shell is as enigmatic, obtuse, and challenging as any soulslike game. Our guide will help you understand what’s going on with tips for combat, exploration, and using the items you find in the world.",
+"url": "https://www.polygon.com/mortal-shell-guide/21362405/beginners-guide-tips",
+"urlToImage": "https://cdn.vox-cdn.com/thumbor/HKZAEG30jU2jQLrcQ1C_DrR3WRU=/0x50:2560x1390/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21765662/Mortal_Shell_Revered_AshenTemple.jpg",
+"publishedAt": "2020-08-18T04:01:00Z",
+"content": "Mortal Shells first hours do something pretty incredible: prove that the soulslike formula isnt limited to FromSoftware greatness. The developers at Cold Symmetry created a game that stand toes-to-to… [+6949 chars]"
+},
+{
+"source": {
+"id": "polygon",
+"name": "Polygon"
+},
+"author": "Jeff Ramos",
+"title": "Microsoft Flight Simulator beginner’s guide and tips - Polygon",
+"description": "If you’re a newcomer to the flight simulator genre, there’s a lot to learn before you become an ace pilot. This beginner’s guide to Microsoft Flight Simulator will give you all the tips you need to set off with confidence.",
+"url": "https://www.polygon.com/microsoft-flight-simulator-guide/21372600/beginners-what-plane-to-choose-how-to-find-destinations-flight-training-active-pause",
+"urlToImage": "https://cdn.vox-cdn.com/thumbor/gJe-nTWOiZYk4fHJ6KxaQuOrvU4=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21765542/Microsoft_Flight_Simulator_beginners_guide.jpg",
+"publishedAt": "2020-08-18T04:00:00Z",
+"content": "Microsoft Flight Simulatordelivers on a big promise, letting you explore nearly every inch of Earth from the skies. \r\nIf youre a newcomer to the flight simulator genre eager to take off and see the s… [+6358 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Gematsu"
+},
+"author": "Sal Romano",
+"title": "Genshin Impact for PC, iOS, and Android launches September 28 - Gematsu",
+"description": "Genshin Impact will launch for PC, iOS, and Android on September 28, developer miHoYo announced. As previously announced, the PlayStation 4 version is due out this fall. A Switch version is also…",
+"url": "https://www.gematsu.com/2020/08/genshin-impact-for-pc-ios-and-android-launches-september-28",
+"urlToImage": "https://www.gematsu.com/wp-content/uploads/2020/08/Genshin-Impact_08-17-20.jpg",
+"publishedAt": "2020-08-18T03:33:18Z",
+"content": "Genshin Impact will launch for PC, iOS, and Android on September 28, developer miHoYo announced. \r\nAs previously announced, the PlayStation 4 version is due out this fall. A Switch version is also pl… [+2607 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "InvenGlobal"
+},
+"author": "Tim Rizzo",
+"title": "Teamfight Tactics patch 10.17 sees minor tweaks to over a dozen champions, two items - InvenGlobal",
+"description": "On Monday evening, Teamfight Tactics' Lead Designer, Stephen \"Mortdog\" Mortimer, gave the auto chess' community a glimpse into what they can expect in the upcoming 10.17 patch. Set to go live on Wednesday, numerous small tweaks to numbers are being rolled out…",
+"url": "https://www.invenglobal.com/articles/teamfight-tactics-patch-1017-sees-minor-tweaks-to-over-a-dozen-champions-two-items",
+"urlToImage": "https://static.invenglobal.com/upload/image/2020/08/18/o1597719237674316.png",
+"publishedAt": "2020-08-18T03:24:47Z",
+"content": "Riven is being buffed in patch 10.17. Image source: Riot Games\r\nOn Monday evening, Teamfight Tactics' Lead Designer, Stephen \"Mortdog\" Mortimer, gave the auto chess' community a glimpse into what the… [+1592 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "CNET"
+},
+"author": "Ian Sherr",
+"title": "Apple's out to crush Fortnite and Unreal Engine, Epic Games says. Apple refuses to make exception - CNET",
+"description": "Fortnite maker Epic says Apple has \"retaliated ferociously\" to its lawsuit over kicking its hit battle royale game off the app store.",
+"url": "https://www.cnet.com/news/apples-out-to-crush-fortnite-and-unreal-engine-epic-games-says-apple-refuses-to-make-exception/",
+"urlToImage": "https://cnet4.cbsistatic.com/img/kOpr0QODUqney1VMP-UVB8kfnOE=/756x567/2019/11/15/a29e331e-c102-46dd-a162-a1126bf453d1/fortnite-decade-review-3026.jpg",
+"publishedAt": "2020-08-18T03:02:00Z",
+"content": "Epic is in a similar lawsuit against Google, which also kicked Fortnite off its app store.\r\nAngela Lang/CNET\r\nApple and Epic's legal battle dramatically escalated over the weekend. What began as an a… [+4038 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "PocketNow"
+},
+"author": "Samuel Martinez",
+"title": "New iPhone 12 lineup could look just like the iPhone 4 - Pocketnow",
+"description": "Check out some leaked images of the iPhone 12 dummy units that show us a very familiar design",
+"url": "https://pocketnow.com/new-iphone-12-lineup-could-look-just-like-the-iphone-4",
+"urlToImage": "https://pocketnow.com/wp/../files/2020/04/iPhone-12-Pro-1.jpg",
+"publishedAt": "2020-08-18T01:08:00Z",
+"content": null
+},
+{
+"source": {
+"id": null,
+"name": "Nintendo Life"
+},
+"author": "Nintendo Life",
+"title": "Mario Celebrates His 35th Anniversary With Two New Nintendo Switch Controllers - Nintendo Life",
+"description": "Arriving this September",
+"url": "https://www.nintendolife.com/news/2020/08/mario_celebrates_his_35th_anniversary_with_two_new_nintendo_switch_controllers",
+"urlToImage": "https://images.nintendolife.com/bb62e988275c3/1280x720.jpg",
+"publishedAt": "2020-08-18T00:55:00Z",
+"content": "The Switch is receiving not one but two new officially licensed Mario themed controllers this September. The smaller pad is from HORI and the regular-sized one is from PowerA.\r\nThe Horipad Mini is de… [+1184 chars]"
+}
+]
 }
