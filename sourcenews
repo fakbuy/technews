@@ -4,146 +4,55 @@
   "articles": [
     {
       "source": {
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "author": "Tom Bedford",
-      "title": "Samsung acknowledges Galaxy Note 20 Ultra flaws raised by some owners - TechRadar",
-      "description": "But you shouldn't worry",
-      "url": "https://www.techradar.com/news/samsung-acknowledges-galaxy-note-20-ultra-flaws-raised-by-some-owners",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/sfwFiN6h8SXM8WZcGFNLBh-1200-80.jpg",
-      "publishedAt": "2020-08-21T09:41:00Z",
-      "content": "The Samsung Galaxy Note 20 Ultra release date has just passed, and some users have already reported issues with the smartphone in the form of camera bump deformities.\r\nAs reported by Sammobile, over … [+2654 chars]"
-    },
-    {
-      "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Tom Warren",
-      "title": "An innocent typo led to a giant 212-story obelisk in Microsoft Flight Simulator - The Verge",
-      "description": "A university student accidentally created a giant 212-story obelisk inside Microsoft Flight Simulator. An innocent typo in OpenStreetMap data changed a building from two stories to 212 stories.",
-      "url": "https://www.theverge.com/2020/8/21/21395084/microsoft-flight-simulator-melbourne-obelish-openstreetmap-bing-maps-data-glitch",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/IGNB7YGvv63_3WxbDQ5Pkqizwh0=/0x100:2560x1440/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21805503/kjbJabx.jpg",
-      "publishedAt": "2020-08-21T09:17:02Z",
-      "content": "It was only supposed to be two stories high\r\nMelbournes giant virtual obelisk.\r\nMicrosoft Flight Simulator players spotted a giant mountain-high obelisk in Australia this week. While Flight Simulator… [+2046 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Push Square"
-      },
-      "author": "Push Square",
-      "title": "Random: Fall Guys' Best Player Receives In-Game Costume Early, But No One Knows Who It Is - Push Square",
-      "description": "The Fallen One",
-      "url": "https://www.pushsquare.com/news/2020/08/random_fall_guys_best_player_receives_in-game_costume_early_but_no_one_knows_who_it_is",
-      "urlToImage": "https://images.pushsquare.com/981e79d624c77/1280x720.jpg",
-      "publishedAt": "2020-08-21T09:15:00Z",
-      "content": "Fall Guys is just ridiculous. It seems the team at Mediatonic is game to do all sorts of unusual things, including a charity bidding war for brands who want an in-game outfit and potentially deleting… [+953 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendo Life"
-      },
-      "author": "Nintendo Life",
-      "title": "Nintendo Kicks Off 'Share The Fun' Switch Sale, Up To 75% Off Multiplayer Games - Nintendo Life",
-      "description": "Update: Now live in North America and Europe",
-      "url": "https://www.nintendolife.com/news/2020/08/nintendo_kicks_off_share_the_fun_switch_sale_up_to_75_percent_off_multiplayer_games",
-      "urlToImage": "https://images.nintendolife.com/b61c3feb653c8/1280x720.jpg",
-      "publishedAt": "2020-08-21T08:35:00Z",
-      "content": "Update 2 (Fri 21st Aug, 2020 09:35 BST): Some good news for our friends across the pond! The 'Share The Fun' sale is now also live in North America, albeit boasting deals of up to 50% off, rather tha… [+1804 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": null,
-      "title": "The CPU That Almost Killed AMD: Bulldozer FX-8150 Benchmarks in 2020 - Gamers Nexus",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9UnBjREYtcVFISW_SAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2020-08-21T05:07:46Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendo Life"
-      },
-      "author": "Nintendo Life",
-      "title": "Random: Furniture Giant IKEA Recreates Its 2021 Catalogue In Animal Crossing: New Horizons - Nintendo Life",
-      "description": "Watch out Nooklings, you've got some competition",
-      "url": "https://www.nintendolife.com/news/2020/08/random_furniture_giant_ikea_recreates_its_2021_catalogue_in_animal_crossing_new_horizons",
-      "urlToImage": "https://images.nintendolife.com/cec7aa91f24ce/1280x720.jpg",
-      "publishedAt": "2020-08-21T04:30:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "AppleInsider"
-      },
-      "author": "Mikey Campbell",
-      "title": "Apple to offset costly 5G iPhone components with cheaper battery tech - AppleInsider",
-      "description": "Looking to cut costs on next-generation hardware, Apple will adopt cheaper and less complex battery technology for so-called \"iPhone 12,\" \"iPhone 12S\" and \"AirPods 3\" devices, according to TF Securities analyst Ming-Chi Kuo.",
-      "url": "https://appleinsider.com/articles/20/08/21/apple-to-offset-cost-of-5g-iphone-components-with-cheaper-battery-tech",
-      "urlToImage": "https://photos5.appleinsider.com/gallery/37274-69919-200820-iPhoneBattery-xl.jpg",
-      "publishedAt": "2020-08-21T03:33:50Z",
-      "content": "Looking to cut costs on next-generation hardware, Apple will adopt cheaper and less complex battery technology for so-called \"iPhone 12,\" \"iPhone 12S\" and \"AirPods 3\" devices, according to TF Securit… [+2294 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": null,
-      "title": "Epic Games announces ‘FreeFortnite’ tournament with non-Apple devices as prizes - 9to5Mac",
-      "description": "Following the removal of Fortnite from the App Store last week, Epic Games has just announced a tournament in favor of the #FreeFortnite campaign against Apple. Players will be able to compete for prizes such as Android devices and Windows PCs. Epic is inviti…",
-      "url": "https://9to5mac.com/2020/08/20/epic-games-announces-freefortnite-tournament-with-non-apple-devices-as-prizes/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2020/08/FreeFortnite.jpg?quality=82&strip=all",
-      "publishedAt": "2020-08-21T03:19:00Z",
-      "content": "Following the removal of Fortnite from the App Store last week, Epic Games has just announced a tournament in favor of the #FreeFortnite campaign against Apple. Players will be able to compete for pr… [+1852 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Bleeding Cool News"
-      },
-      "author": "Theo Dwyer",
-      "title": "What Do The Berries Do In Pokémon GO? A Pokémon Item Guide - Bleeding Cool News",
-      "description": "Which berries should you use when catching Shiny Pokémon? Which can get you more Candy? Here's what each berry in Pokémon GO can do.",
-      "url": "https://bleedingcool.com/games/what-do-the-berries-do-in-pokemon-go-a-pokemon-item-guide/",
-      "urlToImage": "https://bleedingcool.com/wp-content/uploads/2020/08/EfkF4uqWoAADXcS-1-1200x628.jpg",
-      "publishedAt": "2020-08-21T03:10:00Z",
-      "content": null
+      "author": "James Vincent",
+      "title": "iRobot is giving its vacuum cleaners a new AI-powered brain - The Verge",
+      "description": "iRobot has announced a new AI-powered update for its Roomba robot vacuum cleaners. The new iRobot Genius Home Intelligence platform uses machine learning to help Roombas better navigate your home and clean specific spots in your houses when you want them to.",
+      "url": "https://www.theverge.com/2020/8/25/21377585/irobot-ai-software-update-home-intelligence-genius-app",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/KeaqrvM1Bl7sE1_1eq2MDXN9YDE=/27x36:2048x1094/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21812054/s9_Photo_In_situ_Precision_Clean_Zone_Alexa.jpg",
+      "publishedAt": "2020-08-25T04:01:00Z",
+      "content": "To help Roombas know when and where to clean\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nNew features include precision cleaning zones. \r\nImag… [+6349 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Gizmodo.com"
       },
-      "author": "Alyse Stanley",
-      "title": "Google's Limiting Third-Party Camera Apps on Android 11 to Keep Their Mitts Off Your Location Data - Gizmodo",
-      "description": "With Android 11, Google’s forcing all apps to use the device’s built-in camera app—as opposed to whatever third-party camera app you may have set as your default—when snapping photos or taking video in order to better protect users’ location data, a company r…",
-      "url": "https://gizmodo.com/googles-limiting-third-party-camera-apps-on-android-11-1844797171",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/v5j4tbrxu0tagb2ahpgs.jpg",
-      "publishedAt": "2020-08-21T03:08:00Z",
-      "content": "With Android 11, Googles forcing all apps to use the devices built-in camera appas opposed to whatever third-party camera app you may have set as your defaultwhen snapping photos or taking video in o… [+2995 chars]"
+      "author": "Tom McKay",
+      "title": "Apple Reportedly Swallows Up VR Startup Spaces - Gizmodo",
+      "description": "Apple has quietly acquired VR startup Spaces, according to a Monday report by Protocol, though it’s not entirely clear role the company has to play in Apple’s AR and VR ambitions.",
+      "url": "https://gizmodo.com/apple-reportedly-swallows-up-vr-startup-spaces-1844835329",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/fy8ywh8qkqlbwq9zuntg.png",
+      "publishedAt": "2020-08-25T02:20:00Z",
+      "content": "Apple has quietly acquired VR startup Spaces, according to a Monday report by Protocol, though its not entirely clear role the company has to play in Apples AR and VR ambitions.\r\nSpaces spun out of D… [+2208 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "DualShockers"
+        "name": "Yahoo Entertainment"
       },
-      "author": "Otto Kratky",
-      "title": "Halo Master Chief Collection ODST Update for PC Brings Weapon Skins, New Armor and More - DualShockers",
-      "description": "Halo: The Master Chief Collection on PC is getting more than just Halo 3: ODST with its next update",
-      "url": "https://www.dualshockers.com/halo-master-chief-collection-odst-update-for-pc-brings-weapon-skins-new-armor-and-more/",
-      "urlToImage": "https://cdn3.dualshockers.com/wp-content/uploads/2019/10/Halo-3-ODST.jpg",
-      "publishedAt": "2020-08-21T02:33:00Z",
-      "content": null
+      "author": "Reuters",
+      "title": "Apple to reopen some U.S. stores closed due to COVID-19 spikes - Bloomberg News - Yahoo Finance",
+      "description": null,
+      "url": "https://finance.yahoo.com/news/apple-reopen-u-stores-closed-015651820.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/BFiiLBtO7r9Xya5rmIzlbA--~B/aD01MzM7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters.com/c76691a648bb4e392a61992037182e9a",
+      "publishedAt": "2020-08-25T02:06:14Z",
+      "content": "(Reuters) - Apple Inc &lt;AAPL.O&gt; plans to start reopening U.S. retail stores that had been closed over the past several weeks due a resurgence in COVID-19 cases, Bloomberg News reported on Monday… [+386 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Anthony Spadafora",
+      "title": "Windows 10 interface might be set for a huge overhaul - TechRadar",
+      "description": "Win UI could be coming to the Start Menu and Action Center in a future Windows update",
+      "url": "https://www.techradar.com/news/windows-10-interface-might-be-set-for-a-huge-overhaul",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/AeVvyVTD3e2wDQBwmcshFf-1200-80.jpg",
+      "publishedAt": "2020-08-25T01:30:00Z",
+      "content": "Microsoft could be preparing to give the interface of the Start Menu and Action Center in Windows 10 a major overhaul according to a new code reference spotted in preview builds of its operating syst… [+2142 chars]"
     },
     {
       "source": {
@@ -151,12 +60,38 @@
         "name": "Google News"
       },
       "author": null,
-      "title": "Hitman 3 - Official England Location Reveal Trailer - IGN",
+      "title": "New Nintendo Switch Coming in 2021 According to Report - IGN Daily Fix - IGN",
       "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Q3luanJRUlJwajjSAQA?oc=5",
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WDdYV05aSUJGR1HSAQA?oc=5",
       "urlToImage": null,
-      "publishedAt": "2020-08-21T00:55:15Z",
+      "publishedAt": "2020-08-25T00:39:56Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PhoneArena"
+      },
+      "author": "Anam Hamid",
+      "title": "This is what the 2020 iPhone lineup could look like after iPhone 12 debut - PhoneArena",
+      "description": "The iPhone 11 Pro and Pro Max are on their way out apparently.",
+      "url": "https://www.phonearena.com/news/alleged-iPhone-lineup-2020_id126755",
+      "urlToImage": "https://m-cdn.phonearena.com/images/article/126755-two_1200/This-is-what-the-2020-iPhone-lineup-could-look-like-after-iPhone-12-debut.jpg",
+      "publishedAt": "2020-08-25T00:10:00Z",
+      "content": "All content, features, and design are Copyright 2001-2020 PhoneArena.com.PhoneArena may receive a small commission if you purchase through affiliate links on this page.All rights reserved. Reproducti… [+88 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Ian Walker",
+      "title": "I Love How Skaters Get Hype In Tony Hawk's Pro Skater 1 + 2 - Kotaku",
+      "description": "I’ve spent a lot of time with the Tony Hawk’s Pro Skater 1 + 2 demo despite being confined to short, two-minute runs in a single level. It’s an incredible achievement that feels almost exactly like the iconic franchise’s earliest installments. My favorite par…",
+      "url": "https://kotaku.com/i-love-how-skaters-get-hype-in-tony-hawks-pro-skater-1-1844834163",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/r2oi57v1fhyweqwoz8ku.jpg",
+      "publishedAt": "2020-08-25T00:00:00Z",
+      "content": "Ive spent a lot of time with the Tony Hawks Pro Skater 1 + 2 demo despite being confined to short, two-minute runs in a single level. Its an incredible achievement that feels almost exactly like the … [+1271 chars]"
     },
     {
       "source": {
@@ -164,12 +99,116 @@
         "name": "Google News"
       },
       "author": null,
-      "title": "Hitman 3 Is A Timed Epic Games Store Exclusive | Save State - GameSpot",
+      "title": "Fortnite x Thor Crossover Lore Explained - IGN Now - IGN",
       "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9dnBzV251d2ZSc0XSAQA?oc=5",
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9R1dfVlNPYVRyQjTSAQA?oc=5",
       "urlToImage": null,
-      "publishedAt": "2020-08-21T00:30:03Z",
+      "publishedAt": "2020-08-24T23:49:37Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "Judge in Apple v. Epic Case 'Inclined' to Side With Apple on Fortnite and Epic on Unreal Engine - MacRumors",
+      "description": "Apple last week sent a letter to Epic Games letting the company know that if it does not comply with the App Store rules and remove direct payment...",
+      "url": "https://www.macrumors.com/2020/08/24/apple-epic-court-battle-august-28-removal/",
+      "urlToImage": "https://images.macrumors.com/article-new/2020/08/fortnite-apple-logo-2.jpg",
+      "publishedAt": "2020-08-24T23:32:00Z",
+      "content": "Apple last week sent a letter to Epic Games letting the company know that if it does not comply with the App Store rules and remove direct payment options from Fortnite, that all of Epic's developer … [+4712 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Ty Pendlebury",
+      "title": "Yamaha dresses 2020 AV receivers to the nines with 8K resolution and Wi-Fi - CNET",
+      "description": "The RX-V6A and RX-V4A offer thoroughly modern looks, beefed-up features and start at $440.",
+      "url": "https://www.cnet.com/news/yamaha-dresses-its-2020-av-receivers-to-the-nines-8k/",
+      "urlToImage": "https://cnet3.cbsistatic.com/img/RhwPAFUqREG_xZ0ElbKqWXTqvu4=/756x567/2020/08/24/11f39117-7e9f-466e-b44d-104858833f24/yamaha-rx-v-avr-lineup.jpg",
+      "publishedAt": "2020-08-24T23:00:03Z",
+      "content": "Yamaha\r\nA/V Receivers have a tradition of being ugly. Great, yes, but ugly nonetheless. Only in once in a while does a manufacturer change things up with something that's a little more stylish. Yamah… [+3089 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gamasutra"
+      },
+      "author": "Alissa McAloon",
+      "title": "Devs exit Lab Zero Games over owner's persistent pattern of misconduct - Gamasutra",
+      "description": "Several developers have announced their departures from Lab Zero Games over the last few days, with many calling out the behavior and lack of accountability of its owner Mike Zaimont as the reason.Â",
+      "url": "https://www.gamasutra.com/view/news/368771/Devs_exit_Lab_Zero_Games_over_owners_persistent_pattern_of_misconduct.php",
+      "urlToImage": "http://www.gamasutra.com/db_area/images/news/2020/Aug/368771/skullgirls541.jpg",
+      "publishedAt": "2020-08-24T22:07:30Z",
+      "content": "Several developers have announced their departures from Skullgirls dev Lab Zero Games over the last few days, with all calling out the behavior and lack of accountability of studio owner Mike Zaimont… [+2760 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": "https://www.facebook.com/ryne.hager",
+      "title": "Find My Mobile for Samsung Galaxy phones updated with 'offline finding' feature like iPhones - Android Police",
+      "description": "The latest version of Samsung's Find My Mobile app comes with a pretty fantastic new feature: Offline support. As in, you can find your phone even if it",
+      "url": "https://www.androidpolice.com/2020/08/24/find-my-mobile-for-samsung-galaxy-phones-updated-with-offline-finding-feature-like-iphones/",
+      "urlToImage": "https://www.androidpolice.com/wp-content/uploads/2020/08/24/Offline-Finding-Galaxy-Samsung-hero.jpg",
+      "publishedAt": "2020-08-24T22:04:00Z",
+      "content": "The latest version of Samsung's Find My Mobile app comes with a pretty fantastic new feature: Offline support. As in, you can find your phone even if it doesn't have a data connection — assuming ever… [+1582 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Destructoid"
+      },
+      "author": "Jordan Devore",
+      "title": "Fall Guys now has inverted camera controls and evenly split team games - Destructoid",
+      "description": "Fall Guys now has inverted camera controls and evenly split team games",
+      "url": "https://www.Destructoid.com/stories/fall-guys-now-has-inverted-camera-controls-and-evenly-split-team-games-601521.phtml",
+      "urlToImage": "https://destructoid.com/ul/601521-Fall-Guys-Egg-Scramble.jpg",
+      "publishedAt": "2020-08-24T22:00:00Z",
+      "content": "Update 1.06 is good news for ride-or-die inverted players\r\nCareful camera control can be the difference between life and death* in Fall Guys: Ultimate Knockout, especially in rounds like Roll Out, Ju… [+1799 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HYPEBEAST"
+      },
+      "author": "Ross Dwyer",
+      "title": "Boba Fett Jets Onto the 'Star Wars' x adidas Top Ten Hi - HYPEBEAST",
+      "description": "With a design inspired by the his battle-scarred armor.",
+      "url": "https://hypebeast.com/2020/8/star-wars-adidas-top-ten-hi-boba-fett-fz3465-release-date-info",
+      "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F08%2Fstar-wars-adidas-top-ten-hi-boba-fett-fz3465-release-date-info-tw.jpg?w=960&cbr=1&q=90&fit=max",
+      "publishedAt": "2020-08-24T21:56:00Z",
+      "content": "Star Wars and adidas Originals have readied yet another collaborative silhouette in tribute to The Empire Strikes Back‘s 40th anniversary: a Boba Fett-inspired Top Ten Hi. Following in the footsteps … [+1462 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Ewan Spence",
+      "title": "New Surface Details Highlight Microsoft’s Weak Point - Forbes",
+      "description": "Ahead of the release of the Surface Duo, Microsoft has been seeding some of the hardware. But should the focus be elsewhere?",
+      "url": "https://www.forbes.com/sites/ewanspence/2020/08/24/microsoft-surface-duo-preview-youtube-video-hardware-hinge-software/",
+      "urlToImage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dbf6283d85e300007900ca1%2F0x0.jpg",
+      "publishedAt": "2020-08-24T21:36:00Z",
+      "content": "Ahead of the release of the Surface Duo, Microsoft has been seeding some of the hardware. YouTube reviewer Dave Lee has received an engineering sample of the dual-screened Android-powered device to t… [+2669 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Sam Machkovech",
+      "title": "The best game-breaking speedruns of Summer Games Done Quick 2020 - Ars Technica",
+      "description": "Annual fundraiser adapts to quarantine—and in incredible fashion. Watch the highlights.",
+      "url": "https://arstechnica.com/gaming/2020/08/the-best-game-breaking-speedruns-of-summer-games-done-quick-2020/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/08/summer-gdc-2020-popsicle-760x380.jpg",
+      "publishedAt": "2020-08-24T21:25:00Z",
+      "content": "7 with 6 posters participating\r\nIf you've read our gaming coverage over the past few years, you may have picked up on our love of speedrunningthe act of mastering and exploiting beloved games to fini… [+7509 chars]"
     },
     {
       "source": {
@@ -177,90 +216,51 @@
         "name": "Engadget"
       },
       "author": "",
-      "title": "Facebook's 'classic' look dies in September - Engadget",
-      "description": "Starting next month, the new Facebook.com will be the only version available as its \"classic\" website is going away for good.",
-      "url": "https://www.engadget.com/facebook-classic-redesign-septemver-235525075.html",
-      "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2Fe2d053d0-e33f-11ea-bff9-b7930d1d56b6&client=amp-blogside-v2&signature=ab034ec295acb84418317121f5a13813a43a671d",
-      "publishedAt": "2020-08-21T00:26:18Z",
-      "content": "It’s been over a year since Mark Zuckerberg first showed off the new look of Facebook.com, but soon it will be the website’s only version for desktop users. It has been the new default since May, but… [+505 chars]"
+      "title": "‘PUBG Mobile’ is getting a massive update and new esports tournament - Engadget",
+      "description": "Since its release over two years ago, PUBG Mobile has become one of the biggest mobile games today.  In the meantime, PUBG Mobile creators disclosed a few details of what players can expect.  PUBG Mobile 1.0 will see enhanced graphics for more realistic gamep…",
+      "url": "https://www.engadget.com/pubg-mobile-update-esports-tournament-202429681.html",
+      "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2F2a39f4a0-e643-11ea-bdc9-324ef6f89caf&client=amp-blogside-v2&signature=def4a5ead6a91c05b4cab912f98960cba58bb905",
+      "publishedAt": "2020-08-24T21:05:12Z",
+      "content": "The livestream mostly kept mum about new gameplay details; But it did promise a “mysterious surprise” that will be kept under wraps until the update goes live.\r\nWhen it comes to its esports tournamen… [+1011 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Motley Fool"
+        "name": "VentureBeat"
       },
-      "author": "Eric Volkman",
-      "title": "Google Starts Including Wildfire Data in Maps and Search - The Motley Fool",
-      "description": "The tech giant will warn Search and Maps users if they're approaching an ongoing blaze.",
-      "url": "https://www.fool.com/investing/2020/08/20/google-starts-including-wildfire-data-in-maps-and/",
-      "urlToImage": "https://g.foolcdn.com/editorial/images/588839/gettyimages-1195174769.jpg",
-      "publishedAt": "2020-08-21T00:00:00Z",
-      "content": "Alphabet's (NASDAQ:GOOG)(NASDAQ:GOOGL) key Google subsidiary is assisting -- in its own way -- with fighting the wildfires currently ravaging California. On Thursday, Google announced in an official … [+1634 chars]"
+      "author": "Jeff Grubb",
+      "title": "What a Switch Pro, PlayStation 5, and Nintendo’s ROB have in common - VentureBeat",
+      "description": "The Switch Pro may have new \"interactivity\" features. And if it does, it's likely part of an old marketing trick that Nintendo and Sony both love.",
+      "url": "https://venturebeat.com/2020/08/24/what-a-switch-pro-playstation-5-and-nintendos-rob-have-in-common/",
+      "urlToImage": "https://venturebeat.com/wp-content/uploads/2020/08/planned-obsolesence.jpg?w=1200&strip=all",
+      "publishedAt": "2020-08-24T20:51:00Z",
+      "content": "Nintendo is preparing a new model of its Switch hardware for the first quarter of 2021, according to a report out of Taipei newspaper Economic Daily News (via VGC). I cant confirm the rumor, but my f… [+7390 chars]"
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "Collider.com"
       },
       "author": null,
-      "title": "The First PS5 Commercial is Here - IGN Daily Fix - IGN",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9TEFYUjRfMkxsRzDSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2020-08-20T23:46:40Z",
-      "content": null
+      "title": "Marvel's Avengers Launch Trailer Makes One Last Super-Powered Pitch - Collider.com",
+      "description": "The launch trailer for Marvel's Avengers gives one last look at the gameplay and story mode before the game debuts on September 4.",
+      "url": "https://collider.com/marvels-avengers-launch-trailer/",
+      "urlToImage": "https://cdn.collider.com/wp-content/uploads/2020/08/marvels-avengers-beta-screenshot-2-600x338.jpg",
+      "publishedAt": "2020-08-24T20:44:03Z",
+      "content": "Square Enix is back with what I believe is the 86th trailer for Marvel’s Avengers, the highly-anticipated game featuring Earth’s Mightiest Heroes facing off against villainous tuna can M.O.D.O.K. Fea… [+2290 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CarScoops"
+        "name": "9to5google.com"
       },
       "author": null,
-      "title": "Here’s An Illustrated Look At The 2022 BMW M3 Touring - CarScoops",
-      "description": "The BMW M3 Touring is still two years away, and won't arrive in North America.",
-      "url": "https://www.carscoops.com/2020/08/heres-an-illustrated-look-at-the-2022-bmw-m3-touring/",
-      "urlToImage": "https://www.carscoops.com/wp-content/uploads/2020/08/2022-bmw-m3-touring-render-0.jpg",
-      "publishedAt": "2020-08-20T23:33:00Z",
-      "content": "After years of waiting for an official, wagon alternative to the Audi RS4 Avant and Mercedes-AMG C63 Estate, BMWs fan base (outside of North America) will finally get an M3 Touring.\r\nOfficially plane… [+1596 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Mary Jo Foley",
-      "title": "Microsoft brings Windows Subsystem for Linux 2 to Windows 10 1903 and 1909 - ZDNet",
-      "description": "Microsoft is easing the requirement for WSL2. Instead of only working on Windows 10 2004 or higher, WSL also is now available for Windows 10 1903 and 1909 users.",
-      "url": "https://www.zdnet.com/article/microsoft-brings-windows-subsystem-for-linux-2-to-windows-10-1903-and-1909/",
-      "urlToImage": "https://zdnet2.cbsistatic.com/hub/i/r/2020/08/20/6ac101df-8cc8-40e9-9798-717787990750/thumbnail/770x578/82f0d88b483c9bc594d82c6da9d5eb2d/wsl2backported.jpg",
-      "publishedAt": "2020-08-20T22:58:00Z",
-      "content": "Credit: Microsoft\r\nUntil today, Windows 10 users who wanted to work with the new Windows Subsystem for Linux version 2 needed to have the latest feature update for Windows: The Windows 10 May 2020 Up… [+1680 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Catie Keck",
-      "title": "Google May Be Working on a TV Streaming Hub Called Kaleidoscope - Gizmodo",
-      "description": "Google sure seems to be testing or developing a content hub under the name Kaleidoscope, per a dormant landing page that can be seen on Google’s developers browser.",
-      "url": "https://gizmodo.com/google-may-be-working-on-a-tv-streaming-hub-called-kale-1844794206",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/jfudsglv0ip0d6ttr79c.png",
-      "publishedAt": "2020-08-20T22:20:00Z",
-      "content": "Google sure seems to be testing or developing a content hub under the name Kaleidoscope, per a dormant landing page that can be seen on Googles developers browser.\r\nSpotted by Chrome Story at chrome:… [+1561 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Steven J. Vaughan-Nichols",
-      "title": "Samsung Galaxy Watch 3: Finally, a great smartwatch from someone other than Apple - ZDNet",
-      "description": "Apple has mastered making excellent smartwatches, but its rivals haven't been up to its challenge: Until now.",
-      "url": "https://www.zdnet.com/article/review-samsung-galaxy-watch-3-finally-a-great-smartwatch-from-someone-other-than-apple/",
-      "urlToImage": "https://zdnet3.cbsistatic.com/hub/i/r/2020/08/20/62594c57-5900-4671-bd6f-9e0282c968cd/thumbnail/770x578/f25ca453845f0e00537a5fb85b46306a/sgalaxywatch31.jpg",
-      "publishedAt": "2020-08-20T21:24:00Z",
-      "content": "Image: Samsung\r\nA couple of years ago, ZDNet writer Jason Perlow wrote about how his Apple Watch literally saved his life. The watch had detected that he was suffering from atrial fibrillation (AFib)… [+5634 chars]"
+      "title": "Future Pixel phones will not include Playground AR stickers, starting with Pixel 4a - 9to5Google",
+      "description": "Since 2017, the Google Camera app has been home to fun AR stickers that let you liven up photos and videos. Pixel 4a Playground stickers...",
+      "url": "https://9to5google.com/2020/08/24/pixel-4a-playground-stickers/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2020/08/google_pixel_4a_10.jpg?quality=82&strip=all",
+      "publishedAt": "2020-08-24T20:29:00Z",
+      "content": "Since 2017, the Google Camera app has been home to fun AR stickers that let you liven up photos and videos. Later rebranded to Playground, Google is dropping support for these Playmoji characters on … [+2057 chars]"
     }
   ]
 }
