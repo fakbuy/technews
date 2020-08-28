@@ -4,107 +4,42 @@
   "articles": [
     {
       "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Austen Goslin",
-      "title": "Fortnite’s Chapter 2 season 4 Marvel cinematic and battle pass trailer - Polygon",
-      "description": "Fortnite’s Chapter 2 season 4 cinematic reveal trailer shows off Thor bringing the Marvel Universe into Fortnite, while the battle pass shows the game’s new outfits for Marvel characters like Iron Man, She-Hulk, Thor, Groot, Mystique, Wolverine, Storm, and Do…",
-      "url": "https://www.polygon.com/fortnite/2020/8/27/21403255/fortnite-chapter-2-season-4-cinematic-battle-pass-trailer-reveal-marvel-universe-crossover-skins",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/U4uMr9yKKnZht6S0nTlHwXYE36o=/105x0:1895x937/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21821949/marvel_characters_battle_pass.jpg",
-      "publishedAt": "2020-08-27T06:07:33Z",
-      "content": "Thors bringing the Marvel Universe to Fortnite in the new cinematic and battle pass trailers"
-    },
-    {
-      "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "MarketWatch"
       },
-      "author": "Vlad Savov and Sohee Kim",
-      "title": "Apple Losing Wireless Earbuds Market Share Even as AirPods Sales Grow - Yahoo Finance",
-      "description": "(Bloomberg) -- Apple Inc. will likely boost sales of its AirPods range by a third this year, but that won’t stop it from losing its dominant grip on the fast-growing wireless earbuds market.The AirPods have come to define the true wireless (TWS) earphones cat…",
-      "url": "https://finance.yahoo.com/news/apple-losing-wireless-earbuds-market-051848277.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/5qq4ikpKIZuGdL10Lr1Rjg--~B/aD03NzA7dz0xMjk2O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_technology_68/990269f2bd80bb62cecccdb2ba20ef2b",
-      "publishedAt": "2020-08-27T06:06:45Z",
-      "content": "(Bloomberg) -- Apple Inc. will likely boost sales of its AirPods range by a third this year, but that wont stop it from losing its dominant grip on the fast-growing wireless earbuds market.\r\nThe AirP… [+2652 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Eddie Makuch",
-      "title": "Activision Explains Why Call Of Duty: Black Ops Cold War Has Multiple Endings - GameSpot",
-      "description": "The newest Call of Duty game, like Black Ops 2 before it, will have a number of different endings you can see.",
-      "url": "https://www.gamespot.com/articles/activision-explains-why-call-of-duty-black-ops-col/1100-6481417/",
-      "urlToImage": "https://gamespot1.cbsistatic.com/uploads/screen_kubrick/1179/11799911/3725778-screenshot2020-08-24at8.43.18am.png",
-      "publishedAt": "2020-08-27T05:58:00Z",
-      "content": "Call of Duty: Black Ops Cold War has finally been announced. Expanding on earlier entries in the series, the title is leaning further into giving players more freedom to choose how they want to play.… [+2193 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Chris Pereira",
-      "title": "Call Of Duty Warzone Reveal Event: Here's What Happened With The Nuke - GameSpot",
-      "description": "Call of Duty: Black Ops Cold War was revealed inside Warzone, with players scrambling to take cover in the stadium.",
-      "url": "https://www.gamespot.com/articles/call-of-duty-warzone-reveal-event-heres-what-happe/1100-6481358/",
-      "urlToImage": "https://gamespot1.cbsistatic.com/uploads/screen_kubrick/1179/11799911/3726375-cod11.jpg",
-      "publishedAt": "2020-08-27T05:26:00Z",
-      "content": "It's happened: the Call of Duty: Warzone reveal event for Call of Duty: Black Ops Cold War has concluded, leading to the unveiling of a new trailer and our first glimpse at Cold War's campaign and mu… [+1736 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "XDA Developers"
-      },
-      "author": "Max Weinbach",
-      "title": "Surface Duo Unboxing – Hands-on with Microsoft’s Dual Screen Android Device - XDA Developers",
-      "description": "The Microsoft Surface Duo is their first Android device, and it has two screens. We unboxed the Dual Screen mobile to show off the design.",
-      "url": "https://www.xda-developers.com/microsoft-surface-duo-unboxing-hands-on/",
-      "urlToImage": "https://www.xda-developers.com/files/2020/08/Surface-Duo-Feature-1.jpg",
-      "publishedAt": "2020-08-27T04:41:00Z",
-      "content": "Two weeks ago, Microsoft unveiled its first-ever Android device, the Surface Duo. It’s a radical evolution of the dual screen design we’ve seen in the past from the likes of ZTE, LG, and others. Unli… [+5492 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Guide"
-      },
-      "author": "Roland Moore-Colyer",
-      "title": "PS5 2TB model just leaked — with a crazy high price tag - Tom's Guide",
-      "description": "PS5 2TB Digital Edition could be $1,150, but we don't buy it",
-      "url": "https://www.tomsguide.com/news/ps5-2tb-model-just-leaked-with-a-crazy-high-price-tag",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/QjWZevdvUemHUVYNmwmZRA-1200-80.jpg",
-      "publishedAt": "2020-08-27T04:00:00Z",
-      "content": "A 2TB Digital Edition model of the PS5 popped up on Otto.de, a large online retailer in Germany, with an eye-watering price tag of 974.79 (or about $1,150). \r\nNow before you panic and decide to buy a… [+3296 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Adam Bankhurst",
-      "title": "Halo Veteran Joseph Staten Joins 343 Industries to Get Halo Infinite 'Back on Track' - IGN",
-      "description": "Microsoft has moved Joseph Staten, who was instrumental in the success of Bungie's Halo games, to 343 Industries to help get Halo Infinite \"back on track.\"",
-      "url": "https://www.ign.com/articles/halo-veteran-joseph-staten-joins-343-industries-to-get-halo-infinite-back-on-track",
-      "urlToImage": "https://assets1.ignimgs.com/2020/08/14/halo-infinite-is-meant-to-be-a-starting-point-for-new-fans-dhqmh720-1597426221650.jpg?width=1280",
-      "publishedAt": "2020-08-27T03:22:30Z",
-      "content": "Microsoft and 343 Industries have confirmed that Joseph Staten will \"be returning home to Halo for a bit.\"The news was revealed on Halo Waypoint, further clarifying that Staten will officially be joi… [+2229 chars]"
+      "author": "Jon Swartz",
+      "title": "‘Fortnite’ launches Marvel’s ‘Nexus War,’ but not on Apple devices - MarketWatch",
+      "description": "Consumers on Apple’s iOS are caught in the crossfire of an escalating court battle, while Android users will have to go directly to Epic Games for new season",
+      "url": "https://www.marketwatch.com/story/fortnite-launches-marvels-nexus-war-but-not-on-apple-devices-2020-08-27",
+      "urlToImage": "https://s.marketwatch.com/public/resources/images/MW-IN413_Fortni_ZH_20200827202751.jpg",
+      "publishedAt": "2020-08-28T01:14:00Z",
+      "content": "Epic Games Inc. launched Wolverine and Dr. Doom into Fortnite on Thursday, but fans of the popular videogame who play on Apple and Android devices may not know it.In the first major consequence for c… [+3400 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Chaim Gartenberg",
-      "title": "Dota 2’s The International 10 has hit a record-breaking $34,396,000 - The Verge",
-      "description": "Dota 2’s The International 10 has officially broken the record for the most lucrative esports tournament ever — breaking the record set by its predecessor, 2019’s The International 9. The COVID-19-delayed tournament has yet to announce a new date, though.",
-      "url": "https://www.theverge.com/2020/8/26/21402956/dota-2-the-international-10-prize-pool-record-breaking-prize-pool-34-million-dollars-valve",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/DXb5ly72S3BFHLzUiUBpruriHCQ=/0x126:1107x706/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21821401/Screen_Shot_2020_08_26_at_4.57.19_PM.png",
-      "publishedAt": "2020-08-27T00:02:36Z",
-      "content": "The most lucrative esports tournament ever held\r\nImage: Valve\r\nDota 2s The International, one of the biggest esports tournaments in the world, has broken its own record as the most lucrative esports … [+1593 chars]"
+      "author": "Taylor Lyles",
+      "title": "Activision is giving away 10,000 beta keys for Call of Duty: Black Ops Cold War this weekend - The Verge",
+      "description": "Activision is giving away 10,000 beta keys to viewers who tune in on Sunday, August 30th, to watch the Call of Duty League’s championship match. The only other way you can receive early access to the beta is if you pre-order the game.",
+      "url": "https://www.theverge.com/2020/8/27/21404694/call-of-duty-black-ops-cold-war-free-beta-key-giveaway-activision",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/BXHNgHtID6JDmqKau5sYdvR5GFE=/0x75:3840x2085/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21820418/call_of_duty_black_ops_cold_war_4.jpg",
+      "publishedAt": "2020-08-28T00:54:22Z",
+      "content": "Just watch the Call of Duty League championship match on August 30th\r\nImage: Activision\r\nActivision has officially announced Call of Duty: Black Ops Cold War. Like previous entries, there will be a b… [+1525 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Cortney Moore",
+      "title": "LG to release an air purifying face mask for 'clean,' 'assisted' breathing - Fox Business",
+      "description": "LG Electronics has ambitious plans for coronavirus-related personal protective equipment.",
+      "url": "https://www.foxbusiness.com/lifestyle/lg-electronics-air-purifying-face-mask",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/LG-personal-Air-Purifier.jpg?ve=1&tl=1",
+      "publishedAt": "2020-08-28T00:53:01Z",
+      "content": "LG Electronics has ambitious plans for coronavirus-related personal protective equipment.\r\nThe South Korean technology and appliance company announced it will soon release an air purifying mask that … [+2991 chars]"
     },
     {
       "source": {
@@ -112,155 +47,220 @@
         "name": "Google News"
       },
       "author": null,
-      "title": "Gotham Knights Biggest Questions, Answered - IGN Daily Fix - IGN",
+      "title": "Sony Offers Biggest Fans First PS5 Preorder Access - IGN Daily Fix - IGN",
       "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9S0xBeUR0cldVMEnSAQA?oc=5",
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9a1UyWE9IaDV2OEXSAQA?oc=5",
       "urlToImage": null,
-      "publishedAt": "2020-08-26T23:57:59Z",
+      "publishedAt": "2020-08-27T23:50:34Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "Kotaku"
       },
-      "author": "Ewan Spence",
-      "title": "Apple’s Radical MacBook Pro Faces Multiple Problems - Forbes",
-      "description": "As the first MacBook Pro's with ARM will reach consumers at the end of this year, Apple’s radical macOS project faces three big challenges.",
-      "url": "https://www.forbes.com/sites/ewanspence/2020/08/26/apple-macbook-pro-macos-arm-windows-10-chromebook-compatibility/",
-      "urlToImage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f428f24d51a1ec9d7a10391%2F0x0.jpg",
-      "publishedAt": "2020-08-26T23:54:00Z",
-      "content": "Updated August 26. Article originally posted August 23.\r\nTheres no doubt that Applesmove away from Intel to ARM for its Mac family is an ambitious and multi-year project. As the first ARM-based machi… [+6496 chars]"
-    },
-    {
-      "source": {
-        "id": "engadget",
-        "name": "Engadget"
-      },
-      "author": "",
-      "title": "'The Last Campfire' from Hello Games hits consoles, iOS and PC tomorrow - Engadget",
-      "description": "The Last Campfire will be available on Apple Arcade, Nintendo Switch, PlayStation 4, Xbox One and Windows PC.",
-      "url": "https://www.engadget.com/helllo-games-the-last-campfire-233501636.html",
-      "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2Fc2b74530-e7e1-11ea-bd1f-5fd36ea0cf5c&client=amp-blogside-v2&signature=f919519f5c4e1c7b44b23e949190d3916035b704",
-      "publishedAt": "2020-08-26T23:35:20Z",
-      "content": "The Last Campfire, the new game from No Man's Sky developer Hello Games, comes out on August 27th. It will be available on Apple Arcade, Nintendo Switch, PlayStation 4, Xbox One and Windows — where i… [+485 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "XDA Developers"
-      },
-      "author": "Brandon Russell",
-      "title": "Samsung is shipping two different cooling systems in the Galaxy Note 20 Ultra, but there’s no reason to worry - XDA Developers",
-      "description": "Teardowns of the Samsung Galaxy Note 20 Ultra confirm that different cooling systems are in use, but there's no proof one is better or worse.",
-      "url": "https://www.xda-developers.com/samsung-galaxy-note-20-units-different-cooling-systems-ifixit/",
-      "urlToImage": "https://www.xda-developers.com/files/2020/08/Samsung-Galaxy-Note-20-Ultra-5G-Exynos-Review-14.jpg",
-      "publishedAt": "2020-08-26T23:12:00Z",
-      "content": "There's no proof yet that one is better than the other\r\nWhen reviews of Samsung’s Galaxy Note 20 Ultra hit the web earlier this month, some outlets reported that the device ran a little hot when perf… [+4638 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": null,
-      "title": "Chrome OS 86 will make all app icons circular - 9to5Google",
-      "description": "With Chrome OS 86, Google is following through on a year-old goal to make all app icons circular, just like on Pixel phones.",
-      "url": "https://9to5google.com/2020/08/26/chrome-os-86-all-app-icons-circular/",
-      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2020/04/chrome-os-canary-updates-1.jpg?quality=82&strip=all",
-      "publishedAt": "2020-08-26T22:42:00Z",
-      "content": "Last year, we saw that Google had ambitions to make all app icons in Chrome OS use a circular design. Now, with Chrome OS 86, they seem to be following through on that goal.\r\nAhead of the launch of t… [+1490 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Elizabeth Lopatto",
-      "title": "Even Google engineers are confused about Google’s privacy settings - The Verge",
-      "description": "It’s hard to turn off location tracking on Google, court documents from a lawsuit against Google say. Even Google employees struggle to figure out the privacy controls for location. “The current UI feels like it is designed to make things possible, yet diffic…",
-      "url": "https://www.theverge.com/2020/8/26/21403202/google-engineers-privacy-settings-lawsuit-arizona-doubleclick",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/FHyv3_U6FGjDH_8Jo7wRlix-EVc=/0x65:1280x735/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19700731/googlemaps.png",
-      "publishedAt": "2020-08-26T22:30:49Z",
-      "content": "The current UI feels like it is designed to make things possible, yet difficult enough that people wont figure it out.\r\nImage: Google\r\nGoogles privacy settings dont just confuse its users they confus… [+3922 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Julia Alexander",
-      "title": "Tfue settles lawsuit against Faze Clan over ‘oppressive’ gaming contract - The Verge",
-      "description": "Turner “Tfue” Tenney’s lawsuit against Faze Clan has been settled, according to new court documents filed today. Both parties came to an amicable decision, but it’s unclear what the settlement actually entailed.",
-      "url": "https://www.theverge.com/2020/8/26/21403052/tfue-faze-clan-lawsuit-settled-streaming-events-competition-esports",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/QZ7CMzgfODRV9Xqg4ikGYXlxLQg=/0x0:1600x838/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/16289144/tfue.jpg",
-      "publishedAt": "2020-08-26T21:08:14Z",
-      "content": "The lawsuit was active for more than a year\r\nTfue/YouTube\r\nTurner Tfue Tenney and gaming organization Faze Clan have settled an ongoing lawsuit started by the former Faze member more than a year ago.… [+2203 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifehacker.com"
-      },
-      "author": "Brendan Hesse",
-      "title": "How to Use the Best New Google Home App Features - Lifehacker",
-      "description": "Google Home version 2.27 adds a bunch of new features to the app, including new in-app controls for Nest home security products on iOS and Android and expanded device support for Android 11’s Power Menu shortcuts. Oh, and there’s finally a dark mode on Androi…",
-      "url": "https://lifehacker.com/how-to-use-the-best-new-google-home-app-features-1844855921",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/h7uo1c5e2dbsiawbh7oy.jpg",
-      "publishedAt": "2020-08-26T21:00:00Z",
-      "content": "Google Home version 2.27 adds a bunch of new features to the app, including new in-app controls for Nest home security products on iOS and Android and expanded device support for Android 11s Power Me… [+2487 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Nick Statt",
-      "title": "NZXT’s new $700 prebuilt gaming PC is an affordable entry-level option - The Verge",
-      "description": "For those interested in dipping their toes into the waters of PC gaming, but aren’t quite ready to take the full plunge, NZXT has a pretty solid offer as part of its new update to its Starter series of prebuilt machines first introduced last year. For $699, y…",
-      "url": "https://www.theverge.com/2020/8/26/21403085/nzxt-prebuilt-gaming-pc-starter-series-affordable-windows-pricing",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/_pdw1Kd-u06vv-0cpxHfYYKXOzQ=/0x341:3000x1912/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21820772/NZXT_starter.jpg",
-      "publishedAt": "2020-08-26T20:57:32Z",
-      "content": "Comes with an i3 and a GTX 1650\r\nImage: NZXT\r\nFor those interested in dipping their toes into the waters of PC gaming, but arent quite ready to take the full plunge, NZXT has a pretty solid offer as … [+2384 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Alison DeNisco Rayome",
-      "title": "Windows 10 users can now run Android apps on a PC. Here's how - CNET",
-      "description": "You can access certain Android apps on your Windows 10 device, thanks to an update to the Your Phone app, rolling out this week.",
-      "url": "https://www.cnet.com/how-to/windows-10-users-can-now-run-android-apps-on-a-pc-heres-how/",
-      "urlToImage": "https://cnet1.cbsistatic.com/img/5qEunJX7Z3MReEG3qufO0da0yA4=/756x567/2020/08/26/6c3a53c9-e328-40f4-9d7e-63ef675c9da6/db94f8e2-133e-49d3-801b-18cbf08e78af.jpg",
-      "publishedAt": "2020-08-26T20:28:00Z",
-      "content": "An update to the Your Phone app means certain Android phones can now run apps on Windows 10 PCs.\r\nMicrosoft\r\nCertain Android phone users can now access Android mobile apps directly from their Windows… [+2699 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ComicBook.com"
-      },
-      "author": "Rollin Bishop",
-      "title": "The Batman Star Robert Pattinson Reveals His Favorite Video Game - ComicBook.com",
-      "description": "As part of a recent interview for Tenet, the upcoming Christopher Nolan-directed movie that is improbably still set to release in theaters soon, ComicBook.com's sister site GameSpot managed to sneak in a question about favorite video games of all time to both…",
-      "url": "https://comicbook.com/gaming/news/robert-pattinson-favorite-video-game/",
-      "urlToImage": "https://media.comicbook.com/2020/08/the-batman-pattinson-1234380-1280x0.jpeg",
-      "publishedAt": "2020-08-26T20:22:00Z",
-      "content": "As part of a recent interview for Tenet, the upcoming Christopher Nolan-directed movie that is improbably still set to release in theaters soon, ComicBook.com's sister site GameSpot managed to sneak … [+1953 chars]"
+      "author": "Luke Plunkett",
+      "title": "What The Avengers Game Would Look Like With Faces From The Movies - Kotaku",
+      "description": "One of the most jarring things about the new Avengers game is that, since we’re all so used to everyone’s faces from the movies, seeing other faces just doesn’t feel right. So here’s what the game would look like if it had somehow got the rights to usethe lik…",
+      "url": "https://kotaku.com/what-the-avengers-game-would-look-like-with-faces-from-1844873701",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/bvb1k5xyhsddq3fdbqn8.jpg",
+      "publishedAt": "2020-08-27T23:00:00Z",
+      "content": "One of the most jarring things about the new Avengers game is that, since were all so used to everyones faces from the movies, seeing other faces just doesnt feel right. So heres what the game would … [+390 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "9to5Mac"
       },
-      "author": "https://www.facebook.com/MilesT3CH",
-      "title": "DJI OM4 Gimbal: The gold standard for smartphone gimbals [Video] - 9to5Mac",
-      "description": "The DJI OM4 is the successor to the Osmo Mobile 3, and what I’d consider to be the gold standard for smartphone gimbals. With every generation, DJI refines their gimbals further, making it easier for daily use in all of the important areas: portability, durab…",
-      "url": "https://9to5mac.com/2020/08/26/dji-om4-gimbal-the-gold-standard-for-smartphone-gimbals-video/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2020/08/FI.jpg?quality=82&strip=all",
-      "publishedAt": "2020-08-26T20:09:00Z",
-      "content": "The DJI OM4 is the successor to the Osmo Mobile 3, and what I’d consider to be the gold standard for smartphone gimbals. With every generation, DJI refines their gimbals further, making it easier for… [+2884 chars]"
+      "author": null,
+      "title": "Here’s how iOS 14’s new App Clips feature will work - 9to5Mac",
+      "description": "Read on as we explain how the App Clips feature will work on iOS 14 and iPadOS 14 when it is officially available to the public.",
+      "url": "https://9to5mac.com/2020/08/27/heres-how-ios-14s-new-app-clips-feature-will-work/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2020/06/app_clip_stack.jpg?quality=82&strip=all",
+      "publishedAt": "2020-08-27T22:51:00Z",
+      "content": "App Clips is one of the main features of iOS 14, as it allows users to download a smaller version of an app to do a specific task. Although it was presented at WWDC 2020, some users and developers ma… [+3430 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "X4: Foundations - Cradle of Humanity DLC Gameplay | Gamescom 2020 - IGN",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9X185NzN1aXdya1nSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2020-08-27T22:47:16Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Eddie Makuch",
+      "title": "Why Call Of Duty: Black Ops Cold War Features Multiple Endings - GameSpot",
+      "description": "The newest Call of Duty game, like Black Ops 2 before it, will have a number of different endings you can see.",
+      "url": "https://www.gamespot.com/articles/why-call-of-duty-black-ops-cold-war-features-multi/1100-6481417/",
+      "urlToImage": "https://gamespot1.cbsistatic.com/uploads/screen_kubrick/1179/11799911/3725778-screenshot2020-08-24at8.43.18am.png",
+      "publishedAt": "2020-08-27T22:41:00Z",
+      "content": "Call of Duty: Black Ops Cold War has finally been announced. Expanding on earlier entries in the series, the title is leaning further into giving players more freedom to choose how they want to play.… [+2940 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Free PS4 PlayStation Plus Games For September 2020 Revealed - GameSpot",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9cEV4VEozYlZYU1XSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2020-08-27T22:30:02Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Giants Uprising - Official Trailer | Gamescom 2020 - IGN",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WFVDWElkV0NsSUHSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2020-08-27T22:27:05Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Jump Force Deluxe Edition - Official Nintendo Switch Trailer | Gamescom 2020 - IGN",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZTNkVmd6ZHptemvSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2020-08-27T22:01:13Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "The Last Campfire - Launch Trailer - Nintendo Switch - Nintendo",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9d0Y1djQ5RVREdjjSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2020-08-27T22:00:22Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Authority"
+      },
+      "author": "https://www.facebook.com/browncscott",
+      "title": "Samsung Galaxy Z Fold 2 price leaks ahead of launch - Android Authority",
+      "description": "Thankfully, it's cheaper than the original Fold.",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-2-price-1152493/",
+      "urlToImage": "https://cdn57.androidauthority.net/wp-content/uploads/2020/08/Samsung-Galaxy-Z-Fold-2-Leaked-Price-920x470.jpg",
+      "publishedAt": "2020-08-27T21:48:57Z",
+      "content": "<ul><li>Samsungs own UK website just leaked the Samsung Galaxy Z Fold 2 price.</li><li>The price is £1,799, about £100 cheaper than last years Galaxy Fold.</li><li>The phone comes in one storage size… [+1477 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Ratchet & Clank: Rift Apart - Official PS5 Gameplay | gamescom 2020 - IGN",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9dFMwZGw4S0VibmfSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2020-08-27T21:38:11Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Ryan Gilliam",
+      "title": "Breaking down Destiny 2’s new Stasis subclasses - Polygon",
+      "description": "Bungie launched a new Gamescom trailer for Stasis, finally giving players a name for their new abilities: Revenant, Shadebinder, and Behemoth. Each of these abilities is unique, but they all freeze and shatter enemies.",
+      "url": "https://www.polygon.com/2020/8/27/21404708/destiny-2-beyond-light-stasis-power-revenant-shadebinder-behemoth-hunter-titan-warlock",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/QhPOuDHGW84C_8D1_ODwaLiZy2Q=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21823495/Destiny_2_Beyond_Light_Stasis08.jpg",
+      "publishedAt": "2020-08-27T21:34:11Z",
+      "content": "The new Gamescom Stasis trailer really gave us a great look at Destiny 2s newest power"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Wasteland 3 Review - IGN",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9RVNvMFJYNjZBNXPSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2020-08-27T21:31:19Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Charlie Hall",
+      "title": "Left 4 Dead 2 is getting an update, The Last Stand, made by the community - Polygon",
+      "description": "Left 4 Dead 2 is getting an update more than a decade after it was originally released. The community-made effort, called The Last Stand, even has the blessing of Valve Software.",
+      "url": "https://www.polygon.com/2020/8/27/21404675/left-4-dead-2-update-the-last-stand-its-been-eighty-four-years",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/9qM0XOlf3SnJkwwvymfvLrWcyJw=/0x98:1920x1103/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21823440/l4d2.jpg",
+      "publishedAt": "2020-08-27T21:06:19Z",
+      "content": "Blog post indicates it has the blessing of Valve Software"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Struggling - Launch Trailer - Nintendo Switch - Nintendo",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9cFdKUVMyR2VncmPSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2020-08-27T21:00:08Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Pharaoh: A New Era - Official Announcement Trailer | Gamescom 2020 - IGN",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9cURfR1BPbGpkMFHSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2020-08-27T20:33:17Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "FINAL FANTASY CRYSTAL CHRONICLES Remastered Edition - Launch Trailer - Nintendo Switch - Nintendo",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ckc2NldMMHNLWE3SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2020-08-27T20:00:09Z",
+      "content": null
     }
   ]
 }
