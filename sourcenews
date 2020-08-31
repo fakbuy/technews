@@ -5,53 +5,79 @@
     {
       "source": {
         "id": null,
-        "name": "MarketWatch"
+        "name": "EventHubs"
       },
-      "author": "Jon Swartz",
-      "title": "‘Fortnite’ launches Marvel’s ‘Nexus War,’ but not on Apple devices - MarketWatch",
-      "description": "Consumers on Apple’s iOS are caught in the crossfire of an escalating court battle, while Android users will have to go directly to Epic Games for new season",
-      "url": "https://www.marketwatch.com/story/fortnite-launches-marvels-nexus-war-but-not-on-apple-devices-2020-08-27",
-      "urlToImage": "https://s.marketwatch.com/public/resources/images/MW-IN413_Fortni_ZH_20200827202751.jpg",
-      "publishedAt": "2020-08-28T01:14:00Z",
-      "content": "Epic Games Inc. launched Wolverine and Dr. Doom into Fortnite on Thursday, but fans of the popular videogame who play on Apple and Android devices may not know it.In the first major consequence for c… [+3400 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Taylor Lyles",
-      "title": "Activision is giving away 10,000 beta keys for Call of Duty: Black Ops Cold War this weekend - The Verge",
-      "description": "Activision is giving away 10,000 beta keys to viewers who tune in on Sunday, August 30th, to watch the Call of Duty League’s championship match. The only other way you can receive early access to the beta is if you pre-order the game.",
-      "url": "https://www.theverge.com/2020/8/27/21404694/call-of-duty-black-ops-cold-war-free-beta-key-giveaway-activision",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/BXHNgHtID6JDmqKau5sYdvR5GFE=/0x75:3840x2085/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21820418/call_of_duty_black_ops_cold_war_4.jpg",
-      "publishedAt": "2020-08-28T00:54:22Z",
-      "content": "Just watch the Call of Duty League championship match on August 30th\r\nImage: Activision\r\nActivision has officially announced Call of Duty: Black Ops Cold War. Like previous entries, there will be a b… [+1525 chars]"
+      "author": "Justin 'AdaptiveTrigger' Gordon",
+      "title": "Restoring Shinnok in Mortal Kombat 11 is impossible for Kronika according to NetherRealm Studios story director - EventHubs",
+      "description": "Kronika is the main antagonist of Mortal Kombat 11 and Mortal Kombat 11: Aftermath's main story modes. Needless to say, she serves as either the final or penultimate boss at the very end depending on which campaign is being ...",
+      "url": "https://www.eventhubs.com/news/2020/aug/30/restoring-shinnok-mortal-kombat-11-impossible-kronika-according-netherrealm-studios-story-director/",
+      "urlToImage": "https://media.eventhubs.com/images/2020/08/30-restoring-shinnok-mortal-kombat-11-impossible-kronika-according-t.jpg",
+      "publishedAt": "2020-08-31T02:09:31Z",
+      "content": "Kronika is the main antagonist of Mortal Kombat 11 and Mortal Kombat 11: Aftermath's main story modes. Needless to say, she serves as either the final or penultimate boss at the very end depending on… [+2235 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Fox Business"
+        "name": "Nintendo Life"
       },
-      "author": "Cortney Moore",
-      "title": "LG to release an air purifying face mask for 'clean,' 'assisted' breathing - Fox Business",
-      "description": "LG Electronics has ambitious plans for coronavirus-related personal protective equipment.",
-      "url": "https://www.foxbusiness.com/lifestyle/lg-electronics-air-purifying-face-mask",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/LG-personal-Air-Purifier.jpg?ve=1&tl=1",
-      "publishedAt": "2020-08-28T00:53:01Z",
-      "content": "LG Electronics has ambitious plans for coronavirus-related personal protective equipment.\r\nThe South Korean technology and appliance company announced it will soon release an air purifying mask that … [+2991 chars]"
+      "author": "Nintendo Life",
+      "title": "Paper Mario Producer Says His Team Has \"Almost Complete Control\" Over Creative Direction - Nintendo Life",
+      "description": "Miyamoto checked in, but made no specific requests to make changes",
+      "url": "https://www.nintendolife.com/news/2020/08/paper_mario_producer_says_his_team_has_almost_complete_control_over_creative_direction",
+      "urlToImage": "https://images.nintendolife.com/ce8f9a80b16fd/1280x720.jpg",
+      "publishedAt": "2020-08-31T02:00:00Z",
+      "content": "Since the release of Paper Mario: The Origami King for the Nintendo Switch, producer Kensuke Tanabe has been doing the press rounds answering questions about the future of the series and clarifying h… [+1573 chars]"
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "MarieClaire.com"
       },
-      "author": null,
-      "title": "Sony Offers Biggest Fans First PS5 Preorder Access - IGN Daily Fix - IGN",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9a1UyWE9IaDV2OEXSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2020-08-27T23:50:34Z",
+      "author": "The Editors",
+      "title": "The Most Jaw-Dropping Looks on the VMAs Red Carpet - Yahoo Lifestyle",
+      "description": "Social distancing, but make it stylish.",
+      "url": "https://www.marieclaire.com/celebrity/g33843750/vmas-red-carpet/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/vmas-1598830311.png?crop=1.00xw:0.347xh;0,0&resize=1200:*",
+      "publishedAt": "2020-08-30T23:22:00Z",
+      "content": "Even though the Video Music Awards look a little different in 2020, celebrities still brought their A-game. Big names in music and Hollywood showed up en masse to pose—socially distanced, of course—f… [+108 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RoadandTrack.com"
+      },
+      "author": "Fred Smith",
+      "title": "The First Toyota Celica Is Not An Icon, By Design - RoadandTrack.com",
+      "description": "The 1971 Toyota Celica is a wonderful car with very little in the way of a lasting legacy. This is good.",
+      "url": "https://www.roadandtrack.com/car-culture/a33843550/the-first-toyota-celica-is-not-an-icon-by-design/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/car-toyota-celica-1971-news-photo-1598828967.jpg?crop=1xw:0.74419xh;center,top&resize=1200:*",
+      "publishedAt": "2020-08-30T23:13:00Z",
+      "content": "The most expensive first generation Toyota Celica ever sold on BringATrailer.com went for just under $14,000. \r\nIn a world where a four-door Datsun 510 of the same year can sell for more than twice a… [+2194 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "Malcolm Owen",
+      "title": "What to expect from the Apple 'iPhone 12' launch in September - AppleInsider",
+      "description": "Apple is expected to hold its usual September iPhone launch event in the coming weeks, making this an ideal time to check out the rumors for the \"iPhone 12\" generation that will almost certainly be unveiled by the company.",
+      "url": "https://appleinsider.com/articles/20/08/30/heres-what-to-expect-from-apples-iphone-12-launch-in-september",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/37406-70228-36564-68130-iPhone-12-Dummies-In-Hnad-xl-xl.jpg",
+      "publishedAt": "2020-08-30T23:10:43Z",
+      "content": "Apple is expected to hold its usual September iPhone launch event in the coming weeks, making this an ideal time to check out the rumors for the \"iPhone 12\" generation that will almost certainly be u… [+11447 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bleeding Cool News"
+      },
+      "author": "Theo Dwyer",
+      "title": "Niantic Responds To Mega Evolution Controversy In Pokémon GO - Bleeding Cool News",
+      "description": "Mega Evolution's release in Pokémon GO was met with complaints about the pay wall & limits. Niantic has responded, but will things change?",
+      "url": "https://bleedingcool.com/games/niantic-responds-to-mega-evolution-controversy-in-pokemon-go/",
+      "urlToImage": "https://bleedingcool.com/wp-content/uploads/2020/08/Screen-Shot-2020-08-29-at-10.53.35-PM-1200x628.jpg",
+      "publishedAt": "2020-08-30T23:10:00Z",
       "content": null
     },
     {
@@ -60,25 +86,90 @@
         "name": "Kotaku"
       },
       "author": "Luke Plunkett",
-      "title": "What The Avengers Game Would Look Like With Faces From The Movies - Kotaku",
-      "description": "One of the most jarring things about the new Avengers game is that, since we’re all so used to everyone’s faces from the movies, seeing other faces just doesn’t feel right. So here’s what the game would look like if it had somehow got the rights to usethe lik…",
-      "url": "https://kotaku.com/what-the-avengers-game-would-look-like-with-faces-from-1844873701",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/bvb1k5xyhsddq3fdbqn8.jpg",
-      "publishedAt": "2020-08-27T23:00:00Z",
-      "content": "One of the most jarring things about the new Avengers game is that, since were all so used to everyones faces from the movies, seeing other faces just doesnt feel right. So heres what the game would … [+390 chars]"
+      "title": "Call Of Duty Cheat Makers Now Very Sorry After Activision Threatens Them - Kotaku",
+      "description": "CxCheats, a small company that sells cheats and trainers for a variety of games, will no longer be offering Call of Duty services after receiving legal threats from publisher Activision. And now, at the end, would also like to “apologize for any pain we’ve ca…",
+      "url": "https://kotaku.com/call-of-duty-cheaters-now-very-sorry-after-activision-t-1844899046",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/rvaymtfa5yukkvospdo8.jpg",
+      "publishedAt": "2020-08-30T23:00:00Z",
+      "content": "CxCheats, a small company that sells cheats and trainers for a variety of games, will no longer be offering Call of Duty services after receiving legal threats from publisher Activision. And now, at … [+827 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "Notebookcheck.net"
       },
-      "author": null,
-      "title": "Here’s how iOS 14’s new App Clips feature will work - 9to5Mac",
-      "description": "Read on as we explain how the App Clips feature will work on iOS 14 and iPadOS 14 when it is officially available to the public.",
-      "url": "https://9to5mac.com/2020/08/27/heres-how-ios-14s-new-app-clips-feature-will-work/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2020/06/app_clip_stack.jpg?quality=82&strip=all",
-      "publishedAt": "2020-08-27T22:51:00Z",
-      "content": "App Clips is one of the main features of iOS 14, as it allows users to download a smaller version of an app to do a specific task. Although it was presented at WWDC 2020, some users and developers ma… [+3430 chars]"
+      "author": "Alex Alderson",
+      "title": "Dell XPS 13 2021 leaks: Tiger Lake processors and Iris Xe Graphics with the design of the XPS 13 9300 - Notebookcheck.net",
+      "description": "The first details about the next Dell XPS 13 have leaked, but you may struggle to tell the device apart from the XPS 13 9300. Spotted in an Intel Tiger Lake promo video, the next XPS 13 will retain the design of Dell's current ultrabook while dialing up CPU a…",
+      "url": "https://www.notebookcheck.net/Dell-XPS-13-2021-leaks-Tiger-Lake-processors-and-Iris-Xe-Graphics-with-the-design-of-the-XPS-13-9300.490461.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Screenshot_2020_08_30_221922.png",
+      "publishedAt": "2020-08-30T22:58:21Z",
+      "content": "The Intel Tiger Lake architecture is almost upon us, with several OEMs having already announced their next-generation laptops. Dell has not done so, but a leaked Tiger Lake product video suggests tha… [+1438 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Adam Bankhurst",
+      "title": "Eiyuden Chronicle: Hundred Heroes Has Become the Third-Most Successful Video Game Kickstarter with $4.5 Million Raised - IGN - IGN",
+      "description": "Eiyuden Chronicle: Hundred Heroes has finished its Kickstarter campaign with over $4.5 million raised, making it the third-most successful video game Kickstarter behind Shenmue 3 and Bloodstained: Ritual of the Night.",
+      "url": "https://www.ign.com/articles/eiyuden-chronicle-hundred-heroes-has-become-the-third-best-selling-video-game-kickstarter-with-45-million-raised",
+      "urlToImage": "https://assets1.ignimgs.com/2020/07/23/eiyuden-chronicle-blogroll-1595499795944.jpg?width=1280",
+      "publishedAt": "2020-08-30T22:28:14Z",
+      "content": "Eiyuden Chronicle: Hundred Heroes, the spiritual successor to Suikoden, has become the third-most successful Kickstarter video game with a final total of over $4.5 million raised.Eiyuden Chronicle tr… [+1322 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Chris Duckett",
+      "title": "Pixel 4a raises questions about why Google bothers with flagship phones - ZDNet",
+      "description": "Unless you hate money, you want the 4a if you want a Pixel phone today.",
+      "url": "https://www.zdnet.com/article/pixel-4a-raises-questions-about-why-google-bothers-with-flagship-phones/",
+      "urlToImage": "https://zdnet2.cbsistatic.com/hub/i/r/2020/07/13/7ca1be5f-4b4f-4f3d-a580-d8e0769cbed8/thumbnail/770x578/ebc5686bf51ef1df4270604bc69c3830/pixel-4a.jpg",
+      "publishedAt": "2020-08-30T22:00:00Z",
+      "content": "Image: Google\r\nOver a year has passed since Google released its Pixel 3a, a phone that did a pretty good impression of Nexus devices, which were solid value for money without all the bells and whistl… [+5743 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Notebookcheck.net"
+      },
+      "author": "Daniel R Deakin",
+      "title": "Samsung Galaxy Note 9, Galaxy S9, and Galaxy S9+ likely to get trimmed-down version of One UI 2.5 soon - Notebookcheck.net",
+      "description": "The Samsung Galaxy Note 9, Galaxy S9, and Galaxy S9+ smartphones are likely to receive a cut-down version of the One UI 2.5 Android skin when it becomes available, due to hardware constraints. Samsung has been praised for offering the software update to older…",
+      "url": "https://www.notebookcheck.net/Samsung-Galaxy-Note-9-Galaxy-S9-and-Galaxy-S9-likely-to-get-trimmed-down-version-of-One-UI-2-5-soon.490836.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/noe_9.jpg",
+      "publishedAt": "2020-08-30T21:02:45Z",
+      "content": "Samsung recently confirmed that the Galaxy Note 9, Galaxy S9, and Galaxy S9+ were in the queue to receive One UI 2.5, however, it was not mentioned at the time whether the devices would receive the f… [+941 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "",
+      "title": "Samsung says its latest mobile memory is a production breakthrough - Engadget",
+      "description": "Samsung claims to have smashed a production barrier with a new LPDDR5 memory chip for smartphones and other mobile devices.",
+      "url": "https://www.engadget.com/samsung-mobile-memory-euv-production-202043604.html",
+      "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2Ff62f6c70-eafd-11ea-bb53-c13f87f97a35&client=amp-blogside-v2&signature=f701167149cae795bcf61ee64cad3e800d3a3c4f",
+      "publishedAt": "2020-08-30T20:53:47Z",
+      "content": "Samsung is fond of bragging about its progress on memory chips, but this is one time where it made a particularly notable breakthrough. The Korean firm has started mass production of 16-gigabit LPDDR… [+662 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wccftech"
+      },
+      "author": "Omar Sohail",
+      "title": "ARM-Based MacBook Specs Shared by Leakster; 12-inch Retina Display, 4th-Gen Butterfly Keyboard, $849 Starting Price, and More - Wccftech",
+      "description": "More details surrounding Apple’s first ARM-based MacBook from its specs point-of-view have been shared once more. Previously, it was stated that the machine would sport a 12-inch display and would start from $799, making it one extremely competitive machine, …",
+      "url": "https://wccftech.com/arm-macbook-specs-12-inch-retina-butterfly-keyboard-more/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2020/08/MacBook.jpg",
+      "publishedAt": "2020-08-30T20:01:33Z",
+      "content": "More details surrounding Apples first ARM-based MacBook from its specs point-of-view have been shared once more. Previously, it was stated that the machine would sport a 12-inch display and would sta… [+2689 chars]"
     },
     {
       "source": {
@@ -86,181 +177,90 @@
         "name": "Google News"
       },
       "author": null,
-      "title": "X4: Foundations - Cradle of Humanity DLC Gameplay | Gamescom 2020 - IGN",
+      "title": "Customizing the Galaxy Note 20 Ultra: making it mine - Android Police",
       "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9X185NzN1aXdya1nSAQA?oc=5",
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bk9xdXVwRDVCUm_SAQA?oc=5",
       "urlToImage": null,
-      "publishedAt": "2020-08-27T22:47:16Z",
+      "publishedAt": "2020-08-30T19:50:58Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Eddie Makuch",
-      "title": "Why Call Of Duty: Black Ops Cold War Features Multiple Endings - GameSpot",
-      "description": "The newest Call of Duty game, like Black Ops 2 before it, will have a number of different endings you can see.",
-      "url": "https://www.gamespot.com/articles/why-call-of-duty-black-ops-cold-war-features-multi/1100-6481417/",
-      "urlToImage": "https://gamespot1.cbsistatic.com/uploads/screen_kubrick/1179/11799911/3725778-screenshot2020-08-24at8.43.18am.png",
-      "publishedAt": "2020-08-27T22:41:00Z",
-      "content": "Call of Duty: Black Ops Cold War has finally been announced. Expanding on earlier entries in the series, the title is leaning further into giving players more freedom to choose how they want to play.… [+2940 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "name": "BroBible"
       },
       "author": null,
-      "title": "Free PS4 PlayStation Plus Games For September 2020 Revealed - GameSpot",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9cEV4VEozYlZYU1XSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2020-08-27T22:30:02Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": null,
-      "title": "Giants Uprising - Official Trailer | Gamescom 2020 - IGN",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WFVDWElkV0NsSUHSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2020-08-27T22:27:05Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": null,
-      "title": "Jump Force Deluxe Edition - Official Nintendo Switch Trailer | Gamescom 2020 - IGN",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZTNkVmd6ZHptemvSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2020-08-27T22:01:13Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": null,
-      "title": "The Last Campfire - Launch Trailer - Nintendo Switch - Nintendo",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9d0Y1djQ5RVREdjjSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2020-08-27T22:00:22Z",
-      "content": null
+      "title": "Fans Are Calling For The NFL To Drop EA Sports After ‘Madden 21’ Receives Extremely Low User Score On Metacritic - BroBible",
+      "description": "Madden 21′ came out on Friday and user reviews are…",
+      "url": "https://brobible.com/sports/article/madden-21-nfl-drop-ea/",
+      "urlToImage": "https://brobible.com/wp-content/uploads/2020/08/madden21.jpg",
+      "publishedAt": "2020-08-30T19:07:30Z",
+      "content": "EASPORTS\r\nMadden 21′ came out on Friday and user reviews are not good for this year’s edition of the storied football video game.\r\nWhile the game has gotten mixed reviews from the media, the user sco… [+4080 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Android Authority"
+        "name": "CNET"
       },
-      "author": "https://www.facebook.com/browncscott",
-      "title": "Samsung Galaxy Z Fold 2 price leaks ahead of launch - Android Authority",
-      "description": "Thankfully, it's cheaper than the original Fold.",
-      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-2-price-1152493/",
-      "urlToImage": "https://cdn57.androidauthority.net/wp-content/uploads/2020/08/Samsung-Galaxy-Z-Fold-2-Leaked-Price-920x470.jpg",
-      "publishedAt": "2020-08-27T21:48:57Z",
-      "content": "<ul><li>Samsungs own UK website just leaked the Samsung Galaxy Z Fold 2 price.</li><li>The price is £1,799, about £100 cheaper than last years Galaxy Fold.</li><li>The phone comes in one storage size… [+1477 chars]"
+      "author": "Megan Wollerton",
+      "title": "The best outdoor home security camera of the year - CNET",
+      "description": "We've tested tons of outdoor home security cameras. Here's the best of the best.",
+      "url": "https://www.cnet.com/news/best-outdoor-home-security-camera-of-the-year/",
+      "urlToImage": "https://cnet4.cbsistatic.com/img/fzXzBc7dTXie9tJYCOBIejild_8=/756x567/2019/10/28/19a9849d-02b9-46a2-97ca-be389e91b92d/dsc04325-01.jpg",
+      "publishedAt": "2020-08-30T18:30:00Z",
+      "content": "A good outdoor security camera has to perform well and be able to tackle wind, rain, hail and all sorts of other weather changes. We've tested dozens of weatherproof cameras to arrive at this short l… [+2390 chars]"
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "CNET"
       },
-      "author": null,
-      "title": "Ratchet & Clank: Rift Apart - Official PS5 Gameplay | gamescom 2020 - IGN",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9dFMwZGw4S0VibmfSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2020-08-27T21:38:11Z",
-      "content": null
+      "author": "Katie Conner",
+      "title": "3 Amazon Echo security features to turn on when you leave the house - CNET",
+      "description": "Alexa's built-in safety functions can help keep your home protected while you're away.",
+      "url": "https://www.cnet.com/how-to/3-amazon-echo-security-features-to-turn-on-when-you-leave-the-house/",
+      "urlToImage": "https://cnet3.cbsistatic.com/img/SWh3OTJwKZU7iivUT_FyFzoZj2Y=/756x567/2018/10/10/df35b5dd-ecfe-41a6-8a55-2141806394ff/echo-plus-2-10.jpg",
+      "publishedAt": "2020-08-30T18:15:04Z",
+      "content": "An Amazon Echo can guard your house.\r\nTyler Lizenby/CNET\r\nWhether you're visiting a family member for a few days or taking that much-needed camping trip, it's always reassuring to know your house is … [+3366 chars]"
     },
     {
       "source": {
-        "id": "polygon",
-        "name": "Polygon"
+        "id": null,
+        "name": "Hot Hardware"
       },
-      "author": "Ryan Gilliam",
-      "title": "Breaking down Destiny 2’s new Stasis subclasses - Polygon",
-      "description": "Bungie launched a new Gamescom trailer for Stasis, finally giving players a name for their new abilities: Revenant, Shadebinder, and Behemoth. Each of these abilities is unique, but they all freeze and shatter enemies.",
-      "url": "https://www.polygon.com/2020/8/27/21404708/destiny-2-beyond-light-stasis-power-revenant-shadebinder-behemoth-hunter-titan-warlock",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/QhPOuDHGW84C_8D1_ODwaLiZy2Q=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21823495/Destiny_2_Beyond_Light_Stasis08.jpg",
-      "publishedAt": "2020-08-27T21:34:11Z",
-      "content": "The new Gamescom Stasis trailer really gave us a great look at Destiny 2s newest power"
+      "author": "Brandon Hill",
+      "title": "Samsung 980 Pro PCIe 4.0 SSD Family Listed With Blazing Fast 7GB/Sec Read Performance - Hot Hardware",
+      "description": "Considering that Samsung has made the 980 Pro product page live, we shouldn't have to wait too much longer.",
+      "url": "https://hothardware.com/news/samsung-980-pro-pcie-40-ssd-7gbsec-reads",
+      "urlToImage": "https://images.hothardware.com/contentimages/newsitem/52690/content/samsung_980_pro_3.jpg",
+      "publishedAt": "2020-08-30T17:51:00Z",
+      "content": "We got our first glimpse of Samsung's new 980 Pro SSD back at CES 2020, and at the time, it was promising big performance thanks to its shift from the PCIe 3.0 interface to PCIe 4.0. We were initiall… [+2063 chars]"
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "engadget",
+        "name": "Engadget"
       },
-      "author": null,
-      "title": "Wasteland 3 Review - IGN",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9RVNvMFJYNjZBNXPSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2020-08-27T21:31:19Z",
-      "content": null
+      "author": "",
+      "title": "Samsung teases premium Thom Browne Edition of the Galaxy Z Fold 2 - Engadget",
+      "description": "Samsung has teased a Thom Browne special edition of the Galaxy Z Fold 2, and it's bound to carry a premium over the standard model.",
+      "url": "https://www.engadget.com/samsung-galaxy-z-fold-2-thom-browne-edition-teaser-173338204.html",
+      "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2F5863a5b0-eae4-11ea-affe-896b651aedf7&client=amp-blogside-v2&signature=b917df63683eee398893b2bb32beb364f47e6894",
+      "publishedAt": "2020-08-30T17:33:44Z",
+      "content": "As you might imagine, though, the combination of a fashion imprint and the extras could easily make this one of the most expensive Samsung phones to date. The Thom Browne Galaxy Z Flip cost $2,480 wh… [+302 chars]"
     },
     {
       "source": {
-        "id": "polygon",
-        "name": "Polygon"
+        "id": null,
+        "name": "Superherohype.com"
       },
-      "author": "Charlie Hall",
-      "title": "Left 4 Dead 2 is getting an update, The Last Stand, made by the community - Polygon",
-      "description": "Left 4 Dead 2 is getting an update more than a decade after it was originally released. The community-made effort, called The Last Stand, even has the blessing of Valve Software.",
-      "url": "https://www.polygon.com/2020/8/27/21404675/left-4-dead-2-update-the-last-stand-its-been-eighty-four-years",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/9qM0XOlf3SnJkwwvymfvLrWcyJw=/0x98:1920x1103/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21823440/l4d2.jpg",
-      "publishedAt": "2020-08-27T21:06:19Z",
-      "content": "Blog post indicates it has the blessing of Valve Software"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": null,
-      "title": "Struggling - Launch Trailer - Nintendo Switch - Nintendo",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9cFdKUVMyR2VncmPSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2020-08-27T21:00:08Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": null,
-      "title": "Pharaoh: A New Era - Official Announcement Trailer | Gamescom 2020 - IGN",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9cURfR1BPbGpkMFHSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2020-08-27T20:33:17Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": null,
-      "title": "FINAL FANTASY CRYSTAL CHRONICLES Remastered Edition - Launch Trailer - Nintendo Switch - Nintendo",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ckc2NldMMHNLWE3SAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2020-08-27T20:00:09Z",
-      "content": null
+      "author": "Tudor Leonte",
+      "title": "Gotham Knights Creative Director Teases Tim Drake’s Future as Batman - Superherohype.com",
+      "description": "In a recent interview, Gotham Knights creative director Patrick Redding explained why Tim Drake was always their Robin choice right from the start.",
+      "url": "https://www.superherohype.com/video-games/485769-gotham-knights-creative-director-teases-tim-drakes-future-as-batman",
+      "urlToImage": "https://cdn1-www.superherohype.com/assets/uploads/2020/08/Tim-Drake.png",
+      "publishedAt": "2020-08-30T17:14:29Z",
+      "content": "Gotham Knights Creative Director Teases Tim Drakes Future as Batman\r\nLast week, WB Games Montréal released the trailer for the upcoming Gotham Knights video game during DC FanDome. The video featured… [+2012 chars]"
     }
   ]
 }
