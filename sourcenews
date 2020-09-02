@@ -5,171 +5,54 @@
     {
       "source": {
         "id": null,
-        "name": "EventHubs"
+        "name": "Gamersnexus.net"
       },
-      "author": "Justin 'AdaptiveTrigger' Gordon",
-      "title": "Restoring Shinnok in Mortal Kombat 11 is impossible for Kronika according to NetherRealm Studios story director - EventHubs",
-      "description": "Kronika is the main antagonist of Mortal Kombat 11 and Mortal Kombat 11: Aftermath's main story modes. Needless to say, she serves as either the final or penultimate boss at the very end depending on which campaign is being ...",
-      "url": "https://www.eventhubs.com/news/2020/aug/30/restoring-shinnok-mortal-kombat-11-impossible-kronika-according-netherrealm-studios-story-director/",
-      "urlToImage": "https://media.eventhubs.com/images/2020/08/30-restoring-shinnok-mortal-kombat-11-impossible-kronika-according-t.jpg",
-      "publishedAt": "2020-08-31T02:09:31Z",
-      "content": "Kronika is the main antagonist of Mortal Kombat 11 and Mortal Kombat 11: Aftermath's main story modes. Needless to say, she serves as either the final or penultimate boss at the very end depending on… [+2235 chars]"
+      "author": "Steve Burke & Eric Hamilton",
+      "title": "NVIDIA RTX 3090, 3080, & 3070 Specs, Price, Release Date, & Cooler - GamersNexus",
+      "description": "After months of persistent leaks, rumors, and speculation, NVIDIA’s GeForce RTX 3000 GPUs were announced officially today. We now have first-party information from NVIDIA discussing the RTX 3000-series specifications.",
+      "url": "https://www.gamersnexus.net/news-pc/3615-nvidia-rtx-3090-3080-3070-specs-release-price",
+      "urlToImage": "https://www.gamersnexus.net/media/k2/items/cache/b7c44a49fd18ba9ab2cf85e95333ff65_M.jpg",
+      "publishedAt": "2020-09-02T06:51:56Z",
+      "content": "RTX 3070, 3080, and 3090: Specs, Pricing, and Launch Dates \r\n<table><tr><td>Model\r\n</td><td>GeForce RTX 3090\r\n</td><td>GeForce RTX 3080\r\n</td><td>GeForce RTX 3070\r\n</td></tr><tr><td>Cuda Cores\r\n</td>… [+13544 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Joseph Wulfsohn",
+      "title": "Biden campaign mocked for presence in 'Animal Crossing', compared to Hillary's 'Pokemon Go to the polls' line - Fox News",
+      "description": "The Biden campaign was the butt of the joke on Tuesday after it unveiled its latest push to reach young voters.",
+      "url": "https://www.foxnews.com/media/biden-campaign-animal-crossings-presence-pokemon",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Kamala-Biden-Animal-Crossing.jpg",
+      "publishedAt": "2020-09-02T04:23:02Z",
+      "content": "The Biden campaign was the butt of the joke on Tuesday after it unveiled its latest push to reach young voters.\r\nThe Verge reported that Joe Biden and Kamala Harris are attempting to mark their groun… [+2291 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Nintendo Life"
+        "name": "Tom's Guide"
       },
-      "author": "Nintendo Life",
-      "title": "Paper Mario Producer Says His Team Has \"Almost Complete Control\" Over Creative Direction - Nintendo Life",
-      "description": "Miyamoto checked in, but made no specific requests to make changes",
-      "url": "https://www.nintendolife.com/news/2020/08/paper_mario_producer_says_his_team_has_almost_complete_control_over_creative_direction",
-      "urlToImage": "https://images.nintendolife.com/ce8f9a80b16fd/1280x720.jpg",
-      "publishedAt": "2020-08-31T02:00:00Z",
-      "content": "Since the release of Paper Mario: The Origami King for the Nintendo Switch, producer Kensuke Tanabe has been doing the press rounds answering questions about the future of the series and clarifying h… [+1573 chars]"
+      "author": "Richard Priday",
+      "title": "iPhone 12 video shows off new design — but there's a big catch - Tom's Guide",
+      "description": "This leaked iPhone 12 video doesn’t match up with rumors",
+      "url": "https://www.tomsguide.com/news/iphone-12-video-shows-off-new-design-but-theres-a-big-catch",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/SmxsBtBue3UhG3VBGWZfMZ-1200-80.jpg",
+      "publishedAt": "2020-09-02T04:00:00Z",
+      "content": "The iPhone 12 and its retail packaging may have been revealed in a new video leak, but we're not totally sold on it.\r\nThe video, captured from Chinese video sharing site BiliBili, was shared by Sparr… [+2294 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "MarieClaire.com"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "The Editors",
-      "title": "The Most Jaw-Dropping Looks on the VMAs Red Carpet - Yahoo Lifestyle",
-      "description": "Social distancing, but make it stylish.",
-      "url": "https://www.marieclaire.com/celebrity/g33843750/vmas-red-carpet/",
-      "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/vmas-1598830311.png?crop=1.00xw:0.347xh;0,0&resize=1200:*",
-      "publishedAt": "2020-08-30T23:22:00Z",
-      "content": "Even though the Video Music Awards look a little different in 2020, celebrities still brought their A-game. Big names in music and Hollywood showed up en masse to pose—socially distanced, of course—f… [+108 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "RoadandTrack.com"
-      },
-      "author": "Fred Smith",
-      "title": "The First Toyota Celica Is Not An Icon, By Design - RoadandTrack.com",
-      "description": "The 1971 Toyota Celica is a wonderful car with very little in the way of a lasting legacy. This is good.",
-      "url": "https://www.roadandtrack.com/car-culture/a33843550/the-first-toyota-celica-is-not-an-icon-by-design/",
-      "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/car-toyota-celica-1971-news-photo-1598828967.jpg?crop=1xw:0.74419xh;center,top&resize=1200:*",
-      "publishedAt": "2020-08-30T23:13:00Z",
-      "content": "The most expensive first generation Toyota Celica ever sold on BringATrailer.com went for just under $14,000. \r\nIn a world where a four-door Datsun 510 of the same year can sell for more than twice a… [+2194 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "AppleInsider"
-      },
-      "author": "Malcolm Owen",
-      "title": "What to expect from the Apple 'iPhone 12' launch in September - AppleInsider",
-      "description": "Apple is expected to hold its usual September iPhone launch event in the coming weeks, making this an ideal time to check out the rumors for the \"iPhone 12\" generation that will almost certainly be unveiled by the company.",
-      "url": "https://appleinsider.com/articles/20/08/30/heres-what-to-expect-from-apples-iphone-12-launch-in-september",
-      "urlToImage": "https://photos5.appleinsider.com/gallery/37406-70228-36564-68130-iPhone-12-Dummies-In-Hnad-xl-xl.jpg",
-      "publishedAt": "2020-08-30T23:10:43Z",
-      "content": "Apple is expected to hold its usual September iPhone launch event in the coming weeks, making this an ideal time to check out the rumors for the \"iPhone 12\" generation that will almost certainly be u… [+11447 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Bleeding Cool News"
-      },
-      "author": "Theo Dwyer",
-      "title": "Niantic Responds To Mega Evolution Controversy In Pokémon GO - Bleeding Cool News",
-      "description": "Mega Evolution's release in Pokémon GO was met with complaints about the pay wall & limits. Niantic has responded, but will things change?",
-      "url": "https://bleedingcool.com/games/niantic-responds-to-mega-evolution-controversy-in-pokemon-go/",
-      "urlToImage": "https://bleedingcool.com/wp-content/uploads/2020/08/Screen-Shot-2020-08-29-at-10.53.35-PM-1200x628.jpg",
-      "publishedAt": "2020-08-30T23:10:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Luke Plunkett",
-      "title": "Call Of Duty Cheat Makers Now Very Sorry After Activision Threatens Them - Kotaku",
-      "description": "CxCheats, a small company that sells cheats and trainers for a variety of games, will no longer be offering Call of Duty services after receiving legal threats from publisher Activision. And now, at the end, would also like to “apologize for any pain we’ve ca…",
-      "url": "https://kotaku.com/call-of-duty-cheaters-now-very-sorry-after-activision-t-1844899046",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/rvaymtfa5yukkvospdo8.jpg",
-      "publishedAt": "2020-08-30T23:00:00Z",
-      "content": "CxCheats, a small company that sells cheats and trainers for a variety of games, will no longer be offering Call of Duty services after receiving legal threats from publisher Activision. And now, at … [+827 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Notebookcheck.net"
-      },
-      "author": "Alex Alderson",
-      "title": "Dell XPS 13 2021 leaks: Tiger Lake processors and Iris Xe Graphics with the design of the XPS 13 9300 - Notebookcheck.net",
-      "description": "The first details about the next Dell XPS 13 have leaked, but you may struggle to tell the device apart from the XPS 13 9300. Spotted in an Intel Tiger Lake promo video, the next XPS 13 will retain the design of Dell's current ultrabook while dialing up CPU a…",
-      "url": "https://www.notebookcheck.net/Dell-XPS-13-2021-leaks-Tiger-Lake-processors-and-Iris-Xe-Graphics-with-the-design-of-the-XPS-13-9300.490461.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Screenshot_2020_08_30_221922.png",
-      "publishedAt": "2020-08-30T22:58:21Z",
-      "content": "The Intel Tiger Lake architecture is almost upon us, with several OEMs having already announced their next-generation laptops. Dell has not done so, but a leaked Tiger Lake product video suggests tha… [+1438 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Adam Bankhurst",
-      "title": "Eiyuden Chronicle: Hundred Heroes Has Become the Third-Most Successful Video Game Kickstarter with $4.5 Million Raised - IGN - IGN",
-      "description": "Eiyuden Chronicle: Hundred Heroes has finished its Kickstarter campaign with over $4.5 million raised, making it the third-most successful video game Kickstarter behind Shenmue 3 and Bloodstained: Ritual of the Night.",
-      "url": "https://www.ign.com/articles/eiyuden-chronicle-hundred-heroes-has-become-the-third-best-selling-video-game-kickstarter-with-45-million-raised",
-      "urlToImage": "https://assets1.ignimgs.com/2020/07/23/eiyuden-chronicle-blogroll-1595499795944.jpg?width=1280",
-      "publishedAt": "2020-08-30T22:28:14Z",
-      "content": "Eiyuden Chronicle: Hundred Heroes, the spiritual successor to Suikoden, has become the third-most successful Kickstarter video game with a final total of over $4.5 million raised.Eiyuden Chronicle tr… [+1322 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Chris Duckett",
-      "title": "Pixel 4a raises questions about why Google bothers with flagship phones - ZDNet",
-      "description": "Unless you hate money, you want the 4a if you want a Pixel phone today.",
-      "url": "https://www.zdnet.com/article/pixel-4a-raises-questions-about-why-google-bothers-with-flagship-phones/",
-      "urlToImage": "https://zdnet2.cbsistatic.com/hub/i/r/2020/07/13/7ca1be5f-4b4f-4f3d-a580-d8e0769cbed8/thumbnail/770x578/ebc5686bf51ef1df4270604bc69c3830/pixel-4a.jpg",
-      "publishedAt": "2020-08-30T22:00:00Z",
-      "content": "Image: Google\r\nOver a year has passed since Google released its Pixel 3a, a phone that did a pretty good impression of Nexus devices, which were solid value for money without all the bells and whistl… [+5743 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Notebookcheck.net"
-      },
-      "author": "Daniel R Deakin",
-      "title": "Samsung Galaxy Note 9, Galaxy S9, and Galaxy S9+ likely to get trimmed-down version of One UI 2.5 soon - Notebookcheck.net",
-      "description": "The Samsung Galaxy Note 9, Galaxy S9, and Galaxy S9+ smartphones are likely to receive a cut-down version of the One UI 2.5 Android skin when it becomes available, due to hardware constraints. Samsung has been praised for offering the software update to older…",
-      "url": "https://www.notebookcheck.net/Samsung-Galaxy-Note-9-Galaxy-S9-and-Galaxy-S9-likely-to-get-trimmed-down-version-of-One-UI-2-5-soon.490836.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/noe_9.jpg",
-      "publishedAt": "2020-08-30T21:02:45Z",
-      "content": "Samsung recently confirmed that the Galaxy Note 9, Galaxy S9, and Galaxy S9+ were in the queue to receive One UI 2.5, however, it was not mentioned at the time whether the devices would receive the f… [+941 chars]"
-    },
-    {
-      "source": {
-        "id": "engadget",
-        "name": "Engadget"
-      },
-      "author": "",
-      "title": "Samsung says its latest mobile memory is a production breakthrough - Engadget",
-      "description": "Samsung claims to have smashed a production barrier with a new LPDDR5 memory chip for smartphones and other mobile devices.",
-      "url": "https://www.engadget.com/samsung-mobile-memory-euv-production-202043604.html",
-      "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2Ff62f6c70-eafd-11ea-bb53-c13f87f97a35&client=amp-blogside-v2&signature=f701167149cae795bcf61ee64cad3e800d3a3c4f",
-      "publishedAt": "2020-08-30T20:53:47Z",
-      "content": "Samsung is fond of bragging about its progress on memory chips, but this is one time where it made a particularly notable breakthrough. The Korean firm has started mass production of 16-gigabit LPDDR… [+662 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wccftech"
-      },
-      "author": "Omar Sohail",
-      "title": "ARM-Based MacBook Specs Shared by Leakster; 12-inch Retina Display, 4th-Gen Butterfly Keyboard, $849 Starting Price, and More - Wccftech",
-      "description": "More details surrounding Apple’s first ARM-based MacBook from its specs point-of-view have been shared once more. Previously, it was stated that the machine would sport a 12-inch display and would start from $799, making it one extremely competitive machine, …",
-      "url": "https://wccftech.com/arm-macbook-specs-12-inch-retina-butterfly-keyboard-more/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2020/08/MacBook.jpg",
-      "publishedAt": "2020-08-30T20:01:33Z",
-      "content": "More details surrounding Apples first ARM-based MacBook from its specs point-of-view have been shared once more. Previously, it was stated that the machine would sport a 12-inch display and would sta… [+2689 chars]"
+      "author": "Sam Byford",
+      "title": "ZTE announces world’s first phone with an under-display selfie camera - The Verge",
+      "description": "ZTE has announced the Axon 20 5G, the world’s first phone with a selfie camera embedded under the display. It’s available to pre-order in China now.",
+      "url": "https://www.theverge.com/2020/9/1/21417941/zte-axon-20-5g-under-display-selfie-camera",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/RqXwL_7VyZ1VmzDcoNktCbWqtyk=/0x62:864x514/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21846503/zteaxon.jpg",
+      "publishedAt": "2020-09-02T03:53:45Z",
+      "content": "The Axon 20 5G is here\r\nAfter teasing for a while, ZTE has followed through on its promise to launch the worlds first commercial smartphone with a selfie camera embedded in the display. The Axon 20 5… [+1151 chars]"
     },
     {
       "source": {
@@ -177,64 +60,25 @@
         "name": "Google News"
       },
       "author": null,
-      "title": "Customizing the Galaxy Note 20 Ultra: making it mine - Android Police",
+      "title": "Watch Dogs: Legion with RTX - Welcome to London Trailer - IGN",
       "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bk9xdXVwRDVCUm_SAQA?oc=5",
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9MmdpeUo1VjAyOVHSAQA?oc=5",
       "urlToImage": null,
-      "publishedAt": "2020-08-30T19:50:58Z",
+      "publishedAt": "2020-09-02T03:33:19Z",
       "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "BroBible"
+        "id": "google-news",
+        "name": "Google News"
       },
       "author": null,
-      "title": "Fans Are Calling For The NFL To Drop EA Sports After ‘Madden 21’ Receives Extremely Low User Score On Metacritic - BroBible",
-      "description": "Madden 21′ came out on Friday and user reviews are…",
-      "url": "https://brobible.com/sports/article/madden-21-nfl-drop-ea/",
-      "urlToImage": "https://brobible.com/wp-content/uploads/2020/08/madden21.jpg",
-      "publishedAt": "2020-08-30T19:07:30Z",
-      "content": "EASPORTS\r\nMadden 21′ came out on Friday and user reviews are not good for this year’s edition of the storied football video game.\r\nWhile the game has gotten mixed reviews from the media, the user sco… [+4080 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Megan Wollerton",
-      "title": "The best outdoor home security camera of the year - CNET",
-      "description": "We've tested tons of outdoor home security cameras. Here's the best of the best.",
-      "url": "https://www.cnet.com/news/best-outdoor-home-security-camera-of-the-year/",
-      "urlToImage": "https://cnet4.cbsistatic.com/img/fzXzBc7dTXie9tJYCOBIejild_8=/756x567/2019/10/28/19a9849d-02b9-46a2-97ca-be389e91b92d/dsc04325-01.jpg",
-      "publishedAt": "2020-08-30T18:30:00Z",
-      "content": "A good outdoor security camera has to perform well and be able to tackle wind, rain, hail and all sorts of other weather changes. We've tested dozens of weatherproof cameras to arrive at this short l… [+2390 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Katie Conner",
-      "title": "3 Amazon Echo security features to turn on when you leave the house - CNET",
-      "description": "Alexa's built-in safety functions can help keep your home protected while you're away.",
-      "url": "https://www.cnet.com/how-to/3-amazon-echo-security-features-to-turn-on-when-you-leave-the-house/",
-      "urlToImage": "https://cnet3.cbsistatic.com/img/SWh3OTJwKZU7iivUT_FyFzoZj2Y=/756x567/2018/10/10/df35b5dd-ecfe-41a6-8a55-2141806394ff/echo-plus-2-10.jpg",
-      "publishedAt": "2020-08-30T18:15:04Z",
-      "content": "An Amazon Echo can guard your house.\r\nTyler Lizenby/CNET\r\nWhether you're visiting a family member for a few days or taking that much-needed camping trip, it's always reassuring to know your house is … [+3366 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hot Hardware"
-      },
-      "author": "Brandon Hill",
-      "title": "Samsung 980 Pro PCIe 4.0 SSD Family Listed With Blazing Fast 7GB/Sec Read Performance - Hot Hardware",
-      "description": "Considering that Samsung has made the 980 Pro product page live, we shouldn't have to wait too much longer.",
-      "url": "https://hothardware.com/news/samsung-980-pro-pcie-40-ssd-7gbsec-reads",
-      "urlToImage": "https://images.hothardware.com/contentimages/newsitem/52690/content/samsung_980_pro_3.jpg",
-      "publishedAt": "2020-08-30T17:51:00Z",
-      "content": "We got our first glimpse of Samsung's new 980 Pro SSD back at CES 2020, and at the time, it was promising big performance thanks to its shift from the PCIe 3.0 interface to PCIe 4.0. We were initiall… [+2063 chars]"
+      "title": "Samsung Galaxy Z Fold 2 hands on: Second time's the charm - Android Authority",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9cTBQX1dEOEFZV1XSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2020-09-02T03:09:24Z",
+      "content": null
     },
     {
       "source": {
@@ -242,25 +86,181 @@
         "name": "Engadget"
       },
       "author": "",
-      "title": "Samsung teases premium Thom Browne Edition of the Galaxy Z Fold 2 - Engadget",
-      "description": "Samsung has teased a Thom Browne special edition of the Galaxy Z Fold 2, and it's bound to carry a premium over the standard model.",
-      "url": "https://www.engadget.com/samsung-galaxy-z-fold-2-thom-browne-edition-teaser-173338204.html",
-      "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2F5863a5b0-eae4-11ea-affe-896b651aedf7&client=amp-blogside-v2&signature=b917df63683eee398893b2bb32beb364f47e6894",
-      "publishedAt": "2020-08-30T17:33:44Z",
-      "content": "As you might imagine, though, the combination of a fashion imprint and the extras could easily make this one of the most expensive Samsung phones to date. The Thom Browne Galaxy Z Flip cost $2,480 wh… [+302 chars]"
+      "title": "LG teases a reveal of its dual-screen 'Wing' phone on September 14th - Engadget",
+      "description": "LG set a date to reveal its first true dual-screen phone -- we'll meet the LG Wing on September 14th at 10AM.",
+      "url": "https://www.engadget.com/lg-wing-teaser-video-025918942.html",
+      "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F215d2bf0-ecc8-11ea-bfb4-b1c4531c77ed&client=amp-blogside-v2&signature=df65903ce4dd1f8c6208dddeebc27f78576ca7a1",
+      "publishedAt": "2020-09-02T02:59:44Z",
+      "content": "LG claims this device is just the first one in its Explorer Project, which “will include devices that deliver distinctive and yet unexplored usability experiences,” while phones like the Velvet repre… [+519 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Superherohype.com"
+        "name": "/FILM"
       },
-      "author": "Tudor Leonte",
-      "title": "Gotham Knights Creative Director Teases Tim Drake’s Future as Batman - Superherohype.com",
-      "description": "In a recent interview, Gotham Knights creative director Patrick Redding explained why Tim Drake was always their Robin choice right from the start.",
-      "url": "https://www.superherohype.com/video-games/485769-gotham-knights-creative-director-teases-tim-drakes-future-as-batman",
-      "urlToImage": "https://cdn1-www.superherohype.com/assets/uploads/2020/08/Tim-Drake.png",
-      "publishedAt": "2020-08-30T17:14:29Z",
-      "content": "Gotham Knights Creative Director Teases Tim Drakes Future as Batman\r\nLast week, WB Games Montréal released the trailer for the upcoming Gotham Knights video game during DC FanDome. The video featured… [+2012 chars]"
+      "author": "Ethan Anderton",
+      "title": "Superhero Bits: Kate Bishop Revealed for 'Marvel's Avengers', 'Kick-Ass' Coming to 4K Ultra HD & More - /FILM",
+      "description": "Ready to play as Kate Bishop in Marvel's Avengers video game? Want to have Kevin Conroy as Batman give you directions on Waze? All that and more.",
+      "url": "https://www.slashfilm.com/superhero-bits-2031/",
+      "urlToImage": "https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/marvelsavengers-katebishop-intro-768x345.jpg",
+      "publishedAt": "2020-09-02T01:00:32Z",
+      "content": "Ready to play as Kate Bishop in Marvel’s Avengers video game? Want to have Kevin Conroy as Batman give you directions on Waze? Did you hear Akon wants to build what is essentially a real version of W… [+1455 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Resident Evil 8 Details Coming VERY Soon, NVIDIA 30 Series Revealed | Save State - GameSpot",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Uk4wWkRQYkJpTWPSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2020-09-02T00:30:01Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Push Square"
+      },
+      "author": "Push Square",
+      "title": "Madden NFL 21 Patch Outlined as Fans Urge NFL to Ditch EA Sports - Push Square",
+      "description": "#NFLDropEA",
+      "url": "https://www.pushsquare.com/news/2020/09/madden_nfl_21_patch_outlined_as_fans_urge_nfl_to_ditch_ea_sports",
+      "urlToImage": "https://images.pushsquare.com/0b3050ec8d9b4/1280x720.jpg",
+      "publishedAt": "2020-09-01T23:45:00Z",
+      "content": "Whether or not you think Madden NFL 21s gameplay has stagnated, theres simply no denying that this years game lacks polish. Since reviewing the release, the title has hard crashed on us a couple of t… [+1664 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Alienware Area 51m R2 Review - MobileTechReview",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ckduWVh0SW4tYXPSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2020-09-01T23:30:45Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Iron Harvest Single-Player Review - IGN",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9U01rV3NSTkVOcEHSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2020-09-01T22:37:26Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Erik Kain",
+      "title": "September’s Free PlayStation Plus Games Are Available Now - Forbes",
+      "description": "Two fun free games are now available for PlayStation Plus subscribers.",
+      "url": "https://www.forbes.com/sites/erikkain/2020/09/01/septembers-free-playstation-plus-games-are-available-now/",
+      "urlToImage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4ec191475d3333d1dc08ff%2F0x0.jpg",
+      "publishedAt": "2020-09-01T22:06:00Z",
+      "content": "September's free PS Plus games are now available.\r\nCredit: Capcom\r\nTwo fun free games are now available for PlayStation Plus subscribers.\r\nLast months gamesCall Of Duty: Modern Warfare 2 Remastered a… [+1802 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Kevin Knezevic",
+      "title": "Pokemon Go's Mega September Event: New Mega Evolutions, Shiny Pokemon, And More - GameSpot",
+      "description": "Niantic is holding a big, three-week event focused on Mega Evolutions this month; here's everything you need to know.",
+      "url": "https://www.gamespot.com/articles/pokemon-gos-mega-september-event-new-mega-evolutio/1100-6481626/",
+      "urlToImage": "https://gamespot1.cbsistatic.com/uploads/screen_kubrick/1578/15787979/3728034-4007625288-mega-.jpg",
+      "publishedAt": "2020-09-01T22:00:00Z",
+      "content": "Pokemon Go has a handful of events lined up for September 2020, starting with Mega September--three weeks of activities revolving around the newly added Mega Evolutions. Each week will have a differe… [+4165 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Charlie Hall",
+      "title": "Three tips for getting started in Crusader Kings 3 - Polygon",
+      "description": "Crusader Kings 3 has a decent tutorial, but it doesn’t do a great job of giving you the big picture. Here’s three tips that will have you playing for keeps. By which I mean castles.",
+      "url": "https://www.polygon.com/guides/21417566/crusader-kings-3-tips-tricks-beginners",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/xp5PPvBEhDxz2gNYr1aMSeHlb9Y=/0x0:2040x1068/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21845657/Screenshot_2020_09_01_09.24.22.jpg",
+      "publishedAt": "2020-09-01T21:26:00Z",
+      "content": "The Crusader Kings 3 tutorial does a decent job of getting you up to speed with the games most basic systems. It spends a lot of time focusing on how to manage those closest to you. But, sometimes yo… [+7643 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Tony Hawk's Pro Skater 1 + 2 Collector's Edition Unboxing - IGN",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZmFob1NmbDYtQnfSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2020-09-01T21:03:03Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Path of Exile: Heist - Activity gameplay - PC Invasion",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9VXJQRTAxc0Rmc1nSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2020-09-01T21:00:19Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "",
+      "title": "NVIDIA's Reflex technology promises to reduce input lag on your PC - Engadget",
+      "description": "If you've ever played a competitive shooter, you'll know how much input lag can ruin your match.",
+      "url": "https://www.engadget.com/nvidia-reflex-input-lag-202333860.html",
+      "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Fb87ff980-ec8d-11ea-a5ed-eb09b4486395&client=amp-blogside-v2&signature=cdeb7e6c44327e8a7a6d5b3e0e8dc70de8d4e660",
+      "publishedAt": "2020-09-01T20:57:03Z",
+      "content": "With today's announcement, there are two major components to Reflex. The first is a set of APIs studios can leverage to add a Reflex Low Latency Mode setting to their games. Using a relatively afford… [+1023 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "James O'Connor",
+      "title": "Call Of Duty: Black Ops Actor Speaks Out About His Role Being Recast - GameSpot",
+      "description": "Frank Woods actor James C Burns isn't happy that he won't be returning for Cold War.",
+      "url": "https://www.gamespot.com/articles/call-of-duty-black-ops-actor-addresses-his-role-be/1100-6481606/",
+      "urlToImage": "https://gamespot1.cbsistatic.com/uploads/screen_kubrick/313/3136061/3727835-frankwoods.jpg",
+      "publishedAt": "2020-09-01T20:51:00Z",
+      "content": "2020's new CoD game is Call of Duty: Black Ops Cold War, a direct sequel to the first Black Ops. Because it's not a reboot, the game will bring back many of the series' previous characters, including… [+2834 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dot Esports"
+      },
+      "author": "Andreas Stavropoulos",
+      "title": "How to fix VALORANT \"VCRUNTIME140_1.dll is missing\" error after downloading Patch 1.07 - Dot Esports",
+      "description": "This should do it.",
+      "url": "https://dotesports.com/valorant/news/how-to-fix-valorant-vcruntime140-error-after-downloading-patch-1-07",
+      "urlToImage": "https://cdn1.dotesports.com/wp-content/uploads/2020/07/06110738/valorant1-1-1.jpg",
+      "publishedAt": "2020-09-01T20:36:00Z",
+      "content": "Frustrated VALORANT fans may be having difficulty jumping into the game after downloading today’s patch. Thankfully, there might be a fix.\r\nA post on the VALORANT subreddit details a fix for an error… [+1189 chars]"
     }
   ]
 }
