@@ -4,81 +4,29 @@
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "Gamersnexus.net"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Steve Burke & Eric Hamilton",
-      "title": "NVIDIA RTX 3090, 3080, & 3070 Specs, Price, Release Date, & Cooler - GamersNexus",
-      "description": "After months of persistent leaks, rumors, and speculation, NVIDIA’s GeForce RTX 3000 GPUs were announced officially today. We now have first-party information from NVIDIA discussing the RTX 3000-series specifications.",
-      "url": "https://www.gamersnexus.net/news-pc/3615-nvidia-rtx-3090-3080-3070-specs-release-price",
-      "urlToImage": "https://www.gamersnexus.net/media/k2/items/cache/b7c44a49fd18ba9ab2cf85e95333ff65_M.jpg",
-      "publishedAt": "2020-09-02T06:51:56Z",
-      "content": "RTX 3070, 3080, and 3090: Specs, Pricing, and Launch Dates \r\n<table><tr><td>Model\r\n</td><td>GeForce RTX 3090\r\n</td><td>GeForce RTX 3080\r\n</td><td>GeForce RTX 3070\r\n</td></tr><tr><td>Cuda Cores\r\n</td>… [+13544 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Joseph Wulfsohn",
-      "title": "Biden campaign mocked for presence in 'Animal Crossing', compared to Hillary's 'Pokemon Go to the polls' line - Fox News",
-      "description": "The Biden campaign was the butt of the joke on Tuesday after it unveiled its latest push to reach young voters.",
-      "url": "https://www.foxnews.com/media/biden-campaign-animal-crossings-presence-pokemon",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Kamala-Biden-Animal-Crossing.jpg",
-      "publishedAt": "2020-09-02T04:23:02Z",
-      "content": "The Biden campaign was the butt of the joke on Tuesday after it unveiled its latest push to reach young voters.\r\nThe Verge reported that Joe Biden and Kamala Harris are attempting to mark their groun… [+2291 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Guide"
-      },
-      "author": "Richard Priday",
-      "title": "iPhone 12 video shows off new design — but there's a big catch - Tom's Guide",
-      "description": "This leaked iPhone 12 video doesn’t match up with rumors",
-      "url": "https://www.tomsguide.com/news/iphone-12-video-shows-off-new-design-but-theres-a-big-catch",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/SmxsBtBue3UhG3VBGWZfMZ-1200-80.jpg",
-      "publishedAt": "2020-09-02T04:00:00Z",
-      "content": "The iPhone 12 and its retail packaging may have been revealed in a new video leak, but we're not totally sold on it.\r\nThe video, captured from Chinese video sharing site BiliBili, was shared by Sparr… [+2294 chars]"
+      "author": null,
+      "title": "Rocket League - Cinematic Trailer - Nintendo Switch - Nintendo",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WnlrUzlrdzJsaEXSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2020-09-15T16:00:06Z",
+      "content": null
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Sam Byford",
-      "title": "ZTE announces world’s first phone with an under-display selfie camera - The Verge",
-      "description": "ZTE has announced the Axon 20 5G, the world’s first phone with a selfie camera embedded under the display. It’s available to pre-order in China now.",
-      "url": "https://www.theverge.com/2020/9/1/21417941/zte-axon-20-5g-under-display-selfie-camera",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/RqXwL_7VyZ1VmzDcoNktCbWqtyk=/0x62:864x514/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21846503/zteaxon.jpg",
-      "publishedAt": "2020-09-02T03:53:45Z",
-      "content": "The Axon 20 5G is here\r\nAfter teasing for a while, ZTE has followed through on its promise to launch the worlds first commercial smartphone with a selfie camera embedded in the display. The Axon 20 5… [+1151 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": null,
-      "title": "Watch Dogs: Legion with RTX - Welcome to London Trailer - IGN",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9MmdpeUo1VjAyOVHSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2020-09-02T03:33:19Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": null,
-      "title": "Samsung Galaxy Z Fold 2 hands on: Second time's the charm - Android Authority",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9cTBQX1dEOEFZV1XSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2020-09-02T03:09:24Z",
-      "content": null
+      "author": "Jay Peters",
+      "title": "Google announces its own Meet hardware bundle, but it’s only for conference rooms - The Verge",
+      "description": "Google has rapidly updated Google Meet, its videoconferencing software, as the COVID-19 pandemic has meant that more people rely on it now than ever before. But today, the company is announcing new Google Meet videoconferencing hardware, dubbed the Series One…",
+      "url": "https://www.theverge.com/2020/9/15/21437114/google-meet-series-one-videoconferencing-hardware-conference-rooms-lenovo",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/3dabnG4Owjr3bAMcWs2kBq-deUk=/0x59:3000x1630/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21882329/Google_Series_One_Medium_Room_Kit.png",
+      "publishedAt": "2020-09-15T16:00:00Z",
+      "content": "The Series One kits will be available for preorder soon\r\nImage: Google\r\nGoogle has rapidly updated its videoconferencing Google Meet software, as the COVID-19 pandemic has meant more people rely on i… [+2388 chars]"
     },
     {
       "source": {
@@ -86,116 +34,90 @@
         "name": "Engadget"
       },
       "author": "",
-      "title": "LG teases a reveal of its dual-screen 'Wing' phone on September 14th - Engadget",
-      "description": "LG set a date to reveal its first true dual-screen phone -- we'll meet the LG Wing on September 14th at 10AM.",
-      "url": "https://www.engadget.com/lg-wing-teaser-video-025918942.html",
-      "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F215d2bf0-ecc8-11ea-bfb4-b1c4531c77ed&client=amp-blogside-v2&signature=df65903ce4dd1f8c6208dddeebc27f78576ca7a1",
-      "publishedAt": "2020-09-02T02:59:44Z",
-      "content": "LG claims this device is just the first one in its Explorer Project, which “will include devices that deliver distinctive and yet unexplored usability experiences,” while phones like the Velvet repre… [+519 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "/FILM"
-      },
-      "author": "Ethan Anderton",
-      "title": "Superhero Bits: Kate Bishop Revealed for 'Marvel's Avengers', 'Kick-Ass' Coming to 4K Ultra HD & More - /FILM",
-      "description": "Ready to play as Kate Bishop in Marvel's Avengers video game? Want to have Kevin Conroy as Batman give you directions on Waze? All that and more.",
-      "url": "https://www.slashfilm.com/superhero-bits-2031/",
-      "urlToImage": "https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/marvelsavengers-katebishop-intro-768x345.jpg",
-      "publishedAt": "2020-09-02T01:00:32Z",
-      "content": "Ready to play as Kate Bishop in Marvel’s Avengers video game? Want to have Kevin Conroy as Batman give you directions on Waze? Did you hear Akon wants to build what is essentially a real version of W… [+1455 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": null,
-      "title": "Resident Evil 8 Details Coming VERY Soon, NVIDIA 30 Series Revealed | Save State - GameSpot",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Uk4wWkRQYkJpTWPSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2020-09-02T00:30:01Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Push Square"
-      },
-      "author": "Push Square",
-      "title": "Madden NFL 21 Patch Outlined as Fans Urge NFL to Ditch EA Sports - Push Square",
-      "description": "#NFLDropEA",
-      "url": "https://www.pushsquare.com/news/2020/09/madden_nfl_21_patch_outlined_as_fans_urge_nfl_to_ditch_ea_sports",
-      "urlToImage": "https://images.pushsquare.com/0b3050ec8d9b4/1280x720.jpg",
-      "publishedAt": "2020-09-01T23:45:00Z",
-      "content": "Whether or not you think Madden NFL 21s gameplay has stagnated, theres simply no denying that this years game lacks polish. Since reviewing the release, the title has hard crashed on us a couple of t… [+1664 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": null,
-      "title": "Alienware Area 51m R2 Review - MobileTechReview",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ckduWVh0SW4tYXPSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2020-09-01T23:30:45Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": null,
-      "title": "Iron Harvest Single-Player Review - IGN",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9U01rV3NSTkVOcEHSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2020-09-01T22:37:26Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Erik Kain",
-      "title": "September’s Free PlayStation Plus Games Are Available Now - Forbes",
-      "description": "Two fun free games are now available for PlayStation Plus subscribers.",
-      "url": "https://www.forbes.com/sites/erikkain/2020/09/01/septembers-free-playstation-plus-games-are-available-now/",
-      "urlToImage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4ec191475d3333d1dc08ff%2F0x0.jpg",
-      "publishedAt": "2020-09-01T22:06:00Z",
-      "content": "September's free PS Plus games are now available.\r\nCredit: Capcom\r\nTwo fun free games are now available for PlayStation Plus subscribers.\r\nLast months gamesCall Of Duty: Modern Warfare 2 Remastered a… [+1802 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Kevin Knezevic",
-      "title": "Pokemon Go's Mega September Event: New Mega Evolutions, Shiny Pokemon, And More - GameSpot",
-      "description": "Niantic is holding a big, three-week event focused on Mega Evolutions this month; here's everything you need to know.",
-      "url": "https://www.gamespot.com/articles/pokemon-gos-mega-september-event-new-mega-evolutio/1100-6481626/",
-      "urlToImage": "https://gamespot1.cbsistatic.com/uploads/screen_kubrick/1578/15787979/3728034-4007625288-mega-.jpg",
-      "publishedAt": "2020-09-01T22:00:00Z",
-      "content": "Pokemon Go has a handful of events lined up for September 2020, starting with Mega September--three weeks of activities revolving around the newly added Mega Evolutions. Each week will have a differe… [+4165 chars]"
+      "title": "Kano PC review: A Surface meant for the classroom - Engadget",
+      "description": "Kano's first Windows 10 machine is a $300 Surface-style tablet. The hardware is good enough, but the bundled learn-to-code software is excellent.",
+      "url": "https://www.engadget.com/kano-pc-windows-10-build-yourself-computer-education-review-153033789.html",
+      "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F6b1d7d70-f75f-11ea-be1d-69abcc17898d&client=amp-blogside-v2&signature=323b8fa97a7f73e7b96b2aef6bd8f658a4431822",
+      "publishedAt": "2020-09-15T15:35:20Z",
+      "content": "Design and construction\r\nLet’s start with the former. Kano originally caught the public’s attention by wrapping a Raspberry Pi board — which was cheap and capable, but overwhelming for the average pa… [+16946 chars]"
     },
     {
       "source": {
         "id": "polygon",
         "name": "Polygon"
       },
-      "author": "Charlie Hall",
-      "title": "Three tips for getting started in Crusader Kings 3 - Polygon",
-      "description": "Crusader Kings 3 has a decent tutorial, but it doesn’t do a great job of giving you the big picture. Here’s three tips that will have you playing for keeps. By which I mean castles.",
-      "url": "https://www.polygon.com/guides/21417566/crusader-kings-3-tips-tricks-beginners",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/xp5PPvBEhDxz2gNYr1aMSeHlb9Y=/0x0:2040x1068/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21845657/Screenshot_2020_09_01_09.24.22.jpg",
-      "publishedAt": "2020-09-01T21:26:00Z",
-      "content": "The Crusader Kings 3 tutorial does a decent job of getting you up to speed with the games most basic systems. It spends a lot of time focusing on how to manage those closest to you. But, sometimes yo… [+7643 chars]"
+      "author": "Owen S. Good",
+      "title": "Report: Sony cuts PS5 production estimate, citing supply chain problems - Polygon",
+      "description": "Bloomberg reported Tuesday that problems in the manufacture of the PlayStation 5’s motherboard — with yields as low as 50 percent — have caused Sony to revise its production estimate of the PS5 downward to 11 million units made before March 31, 2021.",
+      "url": "https://www.polygon.com/2020/9/15/21437984/ps5-sales-production-estimate-sony-launch-numbers-playstation-5",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/EQhmvXoswJLZL6gsQ0mz5DAn_b0=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/20030792/ps5_console_logo.png",
+      "publishedAt": "2020-09-15T15:22:33Z",
+      "content": "Bloomberg reports Sony will make about 4 million fewer PlayStation 5 systems in its current fiscal year, a production cut attributed to a weakened supply chain that provides the consoles motherboard.… [+1206 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Sean Keane",
+      "title": "The Apple Store is down, marking the unofficial start of Apple event day - CNET",
+      "description": "The company took its online store down before Tuesday's virtual event.",
+      "url": "https://www.cnet.com/news/apple-store-is-down-marking-unofficial-start-of-apple-event-day-september-2020/",
+      "urlToImage": "https://cnet3.cbsistatic.com/img/zlIBEkLUgbgbuv5HXR00egVp90w=/1200x630/2020/09/15/e60a0437-179e-4a9d-b979-1699b25dc1f9/screenshot-2020-09-15-at-11-01-52.png",
+      "publishedAt": "2020-09-15T15:08:00Z",
+      "content": "Apple is gearing up for its Sept. 15 event.\r\nApple Store/Screenshot by Sean Keane/CNET\r\nThis story is part of Apple Event, our full coverage of the latest news from Apple headquarters.\r\nIt begins... … [+1155 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ars Staff",
+      "title": "Apple's AirPods Pro are on sale for $199 today - Ars Technica",
+      "description": "Dealmaster also has deals on USB-C chargers, Ghost of Tsushima, and more.",
+      "url": "https://arstechnica.com/staff/2020/09/apple-airpods-pro-deal-best-price/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/dealmaster091520-760x380.jpg",
+      "publishedAt": "2020-09-15T15:06:00Z",
+      "content": "8 with 8 posters participating\r\nToday's Dealmaster is headlined by the best price we've seen to date for Apple's AirPods Pro, which are currently down to $199 at Amazon and Staples. While we've seen … [+8338 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Mark Gurman and Jenny Surane",
+      "title": "Apple Ends Barclays Credit-Card Partnership Ahead of New Devices - Yahoo Finance",
+      "description": "(Bloomberg) -- Apple Inc. on Tuesday ended its longtime card partnership with Barclays Plc, a move designed to focus attention on its own Apple Card product-financing plans.Customers will no longer have the option to apply for the credit card in retail stores…",
+      "url": "https://finance.yahoo.com/news/apple-ends-barclays-credit-card-150011303.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/MiZ2uvkoeGbBLjLk.Y0fdQ--~B/aD0xMzAxO3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/42d71eaae590e3f7ffd4346c3136e5c5",
+      "publishedAt": "2020-09-15T15:00:00Z",
+      "content": "(Bloomberg) -- Apple Inc. on Tuesday ended its longtime card partnership with Barclays Plc, a move designed to focus attention on its own Apple Card product-financing plans.\r\nCustomers will no longer… [+1959 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Patricia Hernandez",
+      "title": "Nintendo Switch update bans words coronavirus, ACAB, and more - Polygon",
+      "description": "A Nintendo hacker reveals that Nintendo has expanded its banned words list to include terms such as coronavirus and acab, seemingly in response to the current political climate in America.",
+      "url": "https://www.polygon.com/2020/9/15/21437856/nintendo-switch-update-banned-words-list-coronavirus-stability",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/NpMzmtQOFG3Rn80P2E_q1kenUak=/0x0:1280x670/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21882291/acab.jpeg",
+      "publishedAt": "2020-09-15T14:35:30Z",
+      "content": "Nintendo released a software update for Nintendo Switch on Monday, and while most of the changes are under-the-hood system stability improvements, one tweak will be noticeable to folks trying to make… [+963 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Chaim Gartenberg",
+      "title": "A first look at Samsung’s Android 11-based One UI 3.0 update - The Verge",
+      "description": "Samsung’s One UI 3.0 update — which will add Android 11 to its latest phones, like the Galaxy S20 Ultra and Galaxy Note 20 Ultra — has gotten its first reveal from a developer “pre-beta” ahead of a larger public beta test.",
+      "url": "https://www.theverge.com/2020/9/15/21437681/samsung-android-11-one-ui-3-0-update-first-look-screenshots-improvements",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/yP7kg3NE8n9bymqXROE72unot94=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19780517/bking_200303_3928_0004.jpg",
+      "publishedAt": "2020-09-15T13:26:38Z",
+      "content": "A public beta is coming soon for S20 devices\r\nPhoto by Brennan King / The Verge\r\nAndroid 11 has arrived, which means Samsungs custom One UI skin is also due for an update to incorporate Googles lates… [+1577 chars]"
     },
     {
       "source": {
@@ -203,11 +125,11 @@
         "name": "Google News"
       },
       "author": null,
-      "title": "Tony Hawk's Pro Skater 1 + 2 Collector's Edition Unboxing - IGN",
+      "title": "Super Mario 3D All-Stars ft. Super Mario Sunshine - Nintendo Switch - Nintendo",
       "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZmFob1NmbDYtQnfSAQA?oc=5",
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZFpZWkNWQ3RDSm_SAQA?oc=5",
       "urlToImage": null,
-      "publishedAt": "2020-09-01T21:03:03Z",
+      "publishedAt": "2020-09-15T13:00:18Z",
       "content": null
     },
     {
@@ -216,51 +138,129 @@
         "name": "Google News"
       },
       "author": null,
-      "title": "Path of Exile: Heist - Activity gameplay - PC Invasion",
+      "title": "Corsair 4000D AIRFLOW Case - Leo gives his verdict - KitGuruTech",
       "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9VXJQRTAxc0Rmc1nSAQA?oc=5",
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bUx3X0hlSlMwYjjSAQA?oc=5",
       "urlToImage": null,
-      "publishedAt": "2020-09-01T21:00:19Z",
+      "publishedAt": "2020-09-15T13:00:09Z",
       "content": null
     },
     {
       "source": {
-        "id": "engadget",
-        "name": "Engadget"
+        "id": null,
+        "name": "Lifehacker.com"
       },
-      "author": "",
-      "title": "NVIDIA's Reflex technology promises to reduce input lag on your PC - Engadget",
-      "description": "If you've ever played a competitive shooter, you'll know how much input lag can ruin your match.",
-      "url": "https://www.engadget.com/nvidia-reflex-input-lag-202333860.html",
-      "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Fb87ff980-ec8d-11ea-a5ed-eb09b4486395&client=amp-blogside-v2&signature=cdeb7e6c44327e8a7a6d5b3e0e8dc70de8d4e660",
-      "publishedAt": "2020-09-01T20:57:03Z",
-      "content": "With today's announcement, there are two major components to Reflex. The first is a set of APIs studios can leverage to add a Reflex Low Latency Mode setting to their games. Using a relatively afford… [+1023 chars]"
+      "author": "Brendan Hesse",
+      "title": "When You Shouldn't Repair Your Mac - Lifehacker",
+      "description": "The point of hardware repairs is to ensure your devices remain usable and in good condition as long as possible, so you don’t have to spend hundreds or thousands of dollars on a new product. Spending a couple hundred dollars replacing a severely cracked MacBo…",
+      "url": "https://lifehacker.com/when-you-shouldnt-repair-your-mac-1845054208",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ivhupwzjmdul2zikokny.jpg",
+      "publishedAt": "2020-09-15T13:00:00Z",
+      "content": "The point of hardware repairs is to ensure your devices remain usable and in good condition as long as possible, so you dont have to spend hundreds or thousands of dollars on a new product. Spending … [+2468 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jon Porter",
+      "title": "EA’s Origin client to become the EA Desktop app - The Verge",
+      "description": "EA’s Origin desktop app is getting a rebrand and a visual refresh. The client is now set to be called the “EA Desktop App,” and it will be faster, simpler, and include more cross-platform features.",
+      "url": "https://www.theverge.com/2020/9/15/21437680/ea-origin-desktop-app-play-access-premier-pro-steam-battlenet",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/rbHxm00MhJxAbc9BIQuSlAQHxyQ=/0x51:640x386/fit-in/1200x630/cdn.vox-cdn.com/assets/2138517/ea_origin_logo_640.jpg",
+      "publishedAt": "2020-09-15T12:58:01Z",
+      "content": "Promising a faster, simpler gaming experience\r\nImage: EA\r\nEAs Origin desktop app is getting a rebrand and a visual refresh, GameIndustry.biz reports. The client is now set to be called the EA Desktop… [+2053 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GameSpot"
+        "name": "SamMobile"
       },
-      "author": "James O'Connor",
-      "title": "Call Of Duty: Black Ops Actor Speaks Out About His Role Being Recast - GameSpot",
-      "description": "Frank Woods actor James C Burns isn't happy that he won't be returning for Cold War.",
-      "url": "https://www.gamespot.com/articles/call-of-duty-black-ops-actor-addresses-his-role-be/1100-6481606/",
-      "urlToImage": "https://gamespot1.cbsistatic.com/uploads/screen_kubrick/313/3136061/3727835-frankwoods.jpg",
-      "publishedAt": "2020-09-01T20:51:00Z",
-      "content": "2020's new CoD game is Call of Duty: Black Ops Cold War, a direct sequel to the first Black Ops. Because it's not a reboot, the game will bring back many of the series' previous characters, including… [+2834 chars]"
+      "author": "SamMobile",
+      "title": "Xbox Game Pass Ultimate is now available for Galaxy phones and tablets - SamMobile",
+      "description": "Xbox Game Pass Ultimate subscribers can now play more than 150 games directly on their Galaxy smartphones or tablets via ...",
+      "url": "https://www.sammobile.com/news/xbox-game-pass-ultimate-available-galaxy-phones-tablets/",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2020/09/Galaxy-Note-20-review-4-720x405.jpg",
+      "publishedAt": "2020-09-15T12:43:00Z",
+      "content": "Xbox Game Pass Ultimate subscribers can now play more than 150 games directly on their Galaxy smartphones or tablets via Project xCloud. Microsoft’s latest cloud-based gaming service went live today … [+2432 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Dot Esports"
+        "name": "UploadVR"
       },
-      "author": "Andreas Stavropoulos",
-      "title": "How to fix VALORANT \"VCRUNTIME140_1.dll is missing\" error after downloading Patch 1.07 - Dot Esports",
-      "description": "This should do it.",
-      "url": "https://dotesports.com/valorant/news/how-to-fix-valorant-vcruntime140-error-after-downloading-patch-1-07",
-      "urlToImage": "https://cdn1.dotesports.com/wp-content/uploads/2020/07/06110738/valorant1-1-1.jpg",
-      "publishedAt": "2020-09-01T20:36:00Z",
-      "content": "Frustrated VALORANT fans may be having difficulty jumping into the game after downloading today’s patch. Thankfully, there might be a fix.\r\nA post on the VALORANT subreddit details a fix for an error… [+1189 chars]"
+      "author": "Jamie Feltham",
+      "title": "Oculus Quest 2 Box Leaks, Reveals Jurassic Park VR & The Climb 2 - UploadVR",
+      "description": "Another day, another Oculus Quest 2 leak. This time it's what looks like the packaging the kit comes in.",
+      "url": "https://uploadvr.com/oculus-quest-2-box-leaks/",
+      "urlToImage": "https://mk0uploadvrcom4bcwhj.kinstacdn.com/wp-content/uploads/2020/09/Quest-2-Box-Leaks-1024x576.jpg",
+      "publishedAt": "2020-09-15T12:13:53Z",
+      "content": "Another day, another Oculus Quest 2 leak. This time it’s what looks like the packaging the kit comes in, which seems to confirm some new games for the device.\r\nA Reddit user posted images of the box,… [+1634 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jon Porter",
+      "title": "Arlo’s latest video doorbell ditches the wire - The Verge",
+      "description": "Arlo has announced a new wire-free video doorbell that runs on rechargeable batteries The Arlo Essential Wire-Free Video Doorbell is available to pre-order now for $199.99, and Arlo says it should start shipping “this holiday season.”",
+      "url": "https://www.theverge.com/2020/9/15/21437592/arlo-essential-wire-free-video-doorbell-price-release-date-battery-powered-security-camera",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/TL8O3AeTnjZ_Of4ZxK45vKL2OK0=/0x258:3600x2143/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21881969/5H1A7164.jpg",
+      "publishedAt": "2020-09-15T12:01:00Z",
+      "content": "Its battery should last three to six months per charge\r\nImage: Arlo\r\nArlo has announced a new wire-free video doorbell that runs on rechargeable batteries, which should make it much easier for most p… [+1523 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Mail"
+      },
+      "author": "Joe Pinkstone",
+      "title": "Gene in the brain of men controls sex drive, study finds - Daily Mail",
+      "description": "Academics from Northwestern University found the enzyme aromatase turns testosterone into oestrogen. It is made by a single gene in the brain, called Cyp19a1.",
+      "url": "https://www.dailymail.co.uk/sciencetech/article-8734801/Gene-brain-men-controls-sex-drive-study-finds.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2020/09/15/12/28568772-0-image-a-5_1600169994608.jpg",
+      "publishedAt": "2020-09-15T11:47:48Z",
+      "content": "A gene has been discovered in the brain that regulates male sexual desire, paving the way for new treatments for sex addiction and dysfunction.\r\nThe gene controls an enzyme, called aromatase, which i… [+4208 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "XDA Developers"
+      },
+      "author": "Pranob Mehrotra",
+      "title": "The Android GPU Inspector is now in open beta with support for the Pixel 4 on Android 11 - XDA Developers",
+      "description": "Google has announced that the Android GPU Inspector tool is now available in open beta with support for the Pixel 4 running Android 11.",
+      "url": "https://www.xda-developers.com/android-gpu-inspector-open-beta-support-pixel-4-android-11/",
+      "urlToImage": "https://www.xda-developers.com/files/2020/09/Android-GPU-Inspector-Pixel-4-Android-11-featured.jpg",
+      "publishedAt": "2020-09-15T10:31:00Z",
+      "content": "At the Google for Games Developer Summit earlier this year, Google first showcased a new Android Studio tool called Android GPU Inspector. The tool is designed to help graphics engineers optimize the… [+2535 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Liam Tung",
+      "title": "TypeScript creator: How the programming language beat Microsoft's open-source fears - ZDNet",
+      "description": "After initial internal Microsoft resistance, open-source TypeScript is now a go-to language for building web apps.",
+      "url": "https://www.zdnet.com/article/typescript-creator-how-the-programming-language-beat-microsofts-open-source-fears/",
+      "urlToImage": "https://zdnet3.cbsistatic.com/hub/i/r/2020/09/14/9ea827e6-5890-482c-b4a0-dcaef7404572/thumbnail/770x578/92d27f443bd9ece6b1597a45df5ca562/andershejlsbergmicrosoft2018youtube.jpg",
+      "publishedAt": "2020-09-15T10:05:00Z",
+      "content": "Microsoft's open-source programming language TypeScript the alter ego of JavaScript but with a type system turns 10 years old this December.  \r\nIt's grown to become a go-to language for building apps… [+10357 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Grayson Blackmon",
+      "title": "Adobe’s new 3D transform tools for After Effects look great - The Verge",
+      "description": "Adobe is revamping After Effects’ 3D UI with new “3D Transform Gizmos,” mimicking what other professional 3D applications like Cinema 4D, Maya, and Blender have been providing users for years.",
+      "url": "https://www.theverge.com/2020/9/15/21436871/adobe-after-effects-3d-transform-gizmos-better-ui",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/gBFf7s0kx-awsa9EgBwPtn-Jyi0=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21880804/VRG_Adobe_Update_Sept_2020.0.jpg",
+      "publishedAt": "2020-09-15T10:00:00Z",
+      "content": "Finally, a better UI for 3D inside After Effects\r\nImage: Adobe\r\nAdobe is updating both Premiere Pro and After Effects today with some pretty nice quality-of-life features, but the most exciting are t… [+1323 chars]"
     }
   ]
 }
