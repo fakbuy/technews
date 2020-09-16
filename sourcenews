@@ -8,116 +8,64 @@
         "name": "Google News"
       },
       "author": null,
-      "title": "Rocket League - Cinematic Trailer - Nintendo Switch - Nintendo",
+      "title": "How the new iPad Air stacks up against the competition - CNET",
       "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WnlrUzlrdzJsaEXSAQA?oc=5",
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9dHdxa3BuM2dhdTTSAQA?oc=5",
       "urlToImage": null,
-      "publishedAt": "2020-09-15T16:00:06Z",
+      "publishedAt": "2020-09-16T07:54:07Z",
       "content": null
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jay Peters",
-      "title": "Google announces its own Meet hardware bundle, but it’s only for conference rooms - The Verge",
-      "description": "Google has rapidly updated Google Meet, its videoconferencing software, as the COVID-19 pandemic has meant that more people rely on it now than ever before. But today, the company is announcing new Google Meet videoconferencing hardware, dubbed the Series One…",
-      "url": "https://www.theverge.com/2020/9/15/21437114/google-meet-series-one-videoconferencing-hardware-conference-rooms-lenovo",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/3dabnG4Owjr3bAMcWs2kBq-deUk=/0x59:3000x1630/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21882329/Google_Series_One_Medium_Room_Kit.png",
-      "publishedAt": "2020-09-15T16:00:00Z",
-      "content": "The Series One kits will be available for preorder soon\r\nImage: Google\r\nGoogle has rapidly updated its videoconferencing Google Meet software, as the COVID-19 pandemic has meant more people rely on i… [+2388 chars]"
-    },
-    {
-      "source": {
-        "id": "engadget",
-        "name": "Engadget"
-      },
-      "author": "",
-      "title": "Kano PC review: A Surface meant for the classroom - Engadget",
-      "description": "Kano's first Windows 10 machine is a $300 Surface-style tablet. The hardware is good enough, but the bundled learn-to-code software is excellent.",
-      "url": "https://www.engadget.com/kano-pc-windows-10-build-yourself-computer-education-review-153033789.html",
-      "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F6b1d7d70-f75f-11ea-be1d-69abcc17898d&client=amp-blogside-v2&signature=323b8fa97a7f73e7b96b2aef6bd8f658a4431822",
-      "publishedAt": "2020-09-15T15:35:20Z",
-      "content": "Design and construction\r\nLet’s start with the former. Kano originally caught the public’s attention by wrapping a Raspberry Pi board — which was cheap and capable, but overwhelming for the average pa… [+16946 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Owen S. Good",
-      "title": "Report: Sony cuts PS5 production estimate, citing supply chain problems - Polygon",
-      "description": "Bloomberg reported Tuesday that problems in the manufacture of the PlayStation 5’s motherboard — with yields as low as 50 percent — have caused Sony to revise its production estimate of the PS5 downward to 11 million units made before March 31, 2021.",
-      "url": "https://www.polygon.com/2020/9/15/21437984/ps5-sales-production-estimate-sony-launch-numbers-playstation-5",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/EQhmvXoswJLZL6gsQ0mz5DAn_b0=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/20030792/ps5_console_logo.png",
-      "publishedAt": "2020-09-15T15:22:33Z",
-      "content": "Bloomberg reports Sony will make about 4 million fewer PlayStation 5 systems in its current fiscal year, a production cut attributed to a weakened supply chain that provides the consoles motherboard.… [+1206 chars]"
-    },
-    {
-      "source": {
         "id": null,
-        "name": "CNET"
+        "name": "GameSpot"
       },
-      "author": "Sean Keane",
-      "title": "The Apple Store is down, marking the unofficial start of Apple event day - CNET",
-      "description": "The company took its online store down before Tuesday's virtual event.",
-      "url": "https://www.cnet.com/news/apple-store-is-down-marking-unofficial-start-of-apple-event-day-september-2020/",
-      "urlToImage": "https://cnet3.cbsistatic.com/img/zlIBEkLUgbgbuv5HXR00egVp90w=/1200x630/2020/09/15/e60a0437-179e-4a9d-b979-1699b25dc1f9/screenshot-2020-09-15-at-11-01-52.png",
-      "publishedAt": "2020-09-15T15:08:00Z",
-      "content": "Apple is gearing up for its Sept. 15 event.\r\nApple Store/Screenshot by Sean Keane/CNET\r\nThis story is part of Apple Event, our full coverage of the latest news from Apple headquarters.\r\nIt begins... … [+1155 chars]"
+      "author": "Matt Espineli",
+      "title": "PlayStation 5: All The Confirmed PS5 Launch Games And Release Dates - GameSpot",
+      "description": "Here are all the PS5 games you can expect to play at or around the console's launch in 2020.",
+      "url": "https://www.gamespot.com/articles/playstation-5-all-the-confirmed-ps5-launch-games-and-release-dates/1100-6482208/",
+      "urlToImage": "https://gamespot1.cbsistatic.com/uploads/screen_kubrick/1552/15524586/3734743-3624733-3325305982-35897.jpg",
+      "publishedAt": "2020-09-16T05:49:00Z",
+      "content": "We still don't know exactly what Sony has in store for the big PS5 showcase event this week, but it's possible we'll finally learn the upcoming next-generation console's price and release date. Aside… [+1690 chars]"
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": "techradar",
+        "name": "TechRadar"
       },
-      "author": "Ars Staff",
-      "title": "Apple's AirPods Pro are on sale for $199 today - Ars Technica",
-      "description": "Dealmaster also has deals on USB-C chargers, Ghost of Tsushima, and more.",
-      "url": "https://arstechnica.com/staff/2020/09/apple-airpods-pro-deal-best-price/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/dealmaster091520-760x380.jpg",
-      "publishedAt": "2020-09-15T15:06:00Z",
-      "content": "8 with 8 posters participating\r\nToday's Dealmaster is headlined by the best price we've seen to date for Apple's AirPods Pro, which are currently down to $199 at Amazon and Staples. While we've seen … [+8338 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Mark Gurman and Jenny Surane",
-      "title": "Apple Ends Barclays Credit-Card Partnership Ahead of New Devices - Yahoo Finance",
-      "description": "(Bloomberg) -- Apple Inc. on Tuesday ended its longtime card partnership with Barclays Plc, a move designed to focus attention on its own Apple Card product-financing plans.Customers will no longer have the option to apply for the credit card in retail stores…",
-      "url": "https://finance.yahoo.com/news/apple-ends-barclays-credit-card-150011303.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/MiZ2uvkoeGbBLjLk.Y0fdQ--~B/aD0xMzAxO3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/42d71eaae590e3f7ffd4346c3136e5c5",
-      "publishedAt": "2020-09-15T15:00:00Z",
-      "content": "(Bloomberg) -- Apple Inc. on Tuesday ended its longtime card partnership with Barclays Plc, a move designed to focus attention on its own Apple Card product-financing plans.\r\nCustomers will no longer… [+1959 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Patricia Hernandez",
-      "title": "Nintendo Switch update bans words coronavirus, ACAB, and more - Polygon",
-      "description": "A Nintendo hacker reveals that Nintendo has expanded its banned words list to include terms such as coronavirus and acab, seemingly in response to the current political climate in America.",
-      "url": "https://www.polygon.com/2020/9/15/21437856/nintendo-switch-update-banned-words-list-coronavirus-stability",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/NpMzmtQOFG3Rn80P2E_q1kenUak=/0x0:1280x670/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21882291/acab.jpeg",
-      "publishedAt": "2020-09-15T14:35:30Z",
-      "content": "Nintendo released a software update for Nintendo Switch on Monday, and while most of the changes are under-the-hood system stability improvements, one tweak will be noticeable to folks trying to make… [+963 chars]"
+      "author": "Tom Bedford",
+      "title": "6 things the September Apple Event can tell us about the iPhone 12 - TechRadar",
+      "description": "Reading between the Watch and iPad lines",
+      "url": "https://www.techradar.com/news/6-things-the-september-apple-event-tells-us-about-the-iphone-12",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/BbXZiRbM6cyimrTwVJqMJP-1200-80.jpg",
+      "publishedAt": "2020-09-16T05:00:00Z",
+      "content": "So the iPhone 12 didn't show up at Apple's September event. That's what we were expecting, although some were holding their breath for a surprise unveiling. We'll likely now see the phones announced … [+5438 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Chaim Gartenberg",
-      "title": "A first look at Samsung’s Android 11-based One UI 3.0 update - The Verge",
-      "description": "Samsung’s One UI 3.0 update — which will add Android 11 to its latest phones, like the Galaxy S20 Ultra and Galaxy Note 20 Ultra — has gotten its first reveal from a developer “pre-beta” ahead of a larger public beta test.",
-      "url": "https://www.theverge.com/2020/9/15/21437681/samsung-android-11-one-ui-3-0-update-first-look-screenshots-improvements",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/yP7kg3NE8n9bymqXROE72unot94=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19780517/bking_200303_3928_0004.jpg",
-      "publishedAt": "2020-09-15T13:26:38Z",
-      "content": "A public beta is coming soon for S20 devices\r\nPhoto by Brennan King / The Verge\r\nAndroid 11 has arrived, which means Samsungs custom One UI skin is also due for an update to incorporate Googles lates… [+1577 chars]"
+      "author": "Sam Byford",
+      "title": "The next Nintendo Switch Online games include Donkey Kong Country 2 - The Verge",
+      "description": "Nintendo has announced the next round of games to be added to the ever-growing Nintendo Switch Online retro library, including Donkey Kong Country 2, Mario’s Super Picross, and more.",
+      "url": "https://www.theverge.com/2020/9/15/21439181/donkey-kong-country-2-nintendo-switch-online-september-games",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/KOGVMlF2oXKOFrJaKuHoTd9S1aA=/0x82:1146x682/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21884411/Screen_Shot_2020_09_16_at_11.51.12.png",
+      "publishedAt": "2020-09-16T02:58:27Z",
+      "content": "And more importantly, Marios Super Picross"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters Staff",
+      "title": "Spotify criticizes new Apple services bundle on antitrust grounds - Reuters India",
+      "description": "Streaming music firm Spotify Technology SA <SPOT.N> on Tuesday criticized rival Apple Inc <AAPL.O>, saying that a new subscription bundle offer from the iPhone maker abuses its dominant market position by favoring its own Apple Music service.",
+      "url": "https://in.reuters.com/article/apple-spotify-idINKBN26707E",
+      "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20200916&t=2&i=1533614235&r=LYNXMPEG8F04B&w=800",
+      "publishedAt": "2020-09-16T02:03:00Z",
+      "content": "By Reuters Staff\r\n(Reuters) - Streaming music firm Spotify Technology SA SPOT.N on Tuesday criticized rival Apple Inc AAPL.O, saying that a new subscription bundle offer from the iPhone maker abuses … [+811 chars]"
     },
     {
       "source": {
@@ -125,11 +73,50 @@
         "name": "Google News"
       },
       "author": null,
-      "title": "Super Mario 3D All-Stars ft. Super Mario Sunshine - Nintendo Switch - Nintendo",
+      "title": "Mario's Super Picross - How to Play - Nintendo Switch Online - Nintendo",
       "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZFpZWkNWQ3RDSm_SAQA?oc=5",
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9V09yWjA3UFZvNUnSAQA?oc=5",
       "urlToImage": null,
-      "publishedAt": "2020-09-15T13:00:18Z",
+      "publishedAt": "2020-09-16T01:00:02Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KTLA Los Angeles"
+      },
+      "author": "Nexstar Media Wire",
+      "title": "New software update will ‘transform the core experience of iPhone,’ Apple says - KTLA",
+      "description": "Starting Wednesday, big changes are coming to group chats, video viewing and app organization.",
+      "url": "https://ktla.com/news/nationworld/new-software-update-will-transform-the-core-experience-of-iphone-apple-says/",
+      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2020/09/GettyImages-1037170200.jpg?w=1280",
+      "publishedAt": "2020-09-16T00:54:00Z",
+      "content": "The iPhone experience will change Wednesday with the release of Apple’s newest operating system, iOS14. \r\nThe software upgrade will serve as a refresh for iPhone 6 and later models and is described b… [+902 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ComicBook.com"
+      },
+      "author": "Marc Deschamps",
+      "title": "Crysis Remastered Comparison Trailer Released - ComicBook.com",
+      "description": "Ahead of Crysis Remastered's debut later this week, developer Crytek has released a brand-new comparison trailer for the game. In the trailer, viewers can get a glimpse at how the upcoming re-release will compare graphically to the 2007 game. The original Cry…",
+      "url": "https://comicbook.com/gaming/news/crysis-remastered-comparison-trailer-8k/",
+      "urlToImage": "https://media.comicbook.com/2020/04/crysis-remastered-1215847-1280x0.jpeg",
+      "publishedAt": "2020-09-16T00:06:00Z",
+      "content": "Ahead of Crysis Remastered's debut later this week, developer Crytek has released a brand-new comparison trailer for the game. In the trailer, viewers can get a glimpse at how the upcoming re-release… [+2286 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Xbox Game Pass Ultimate - Official Mobile Trailer - IGN",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WEwtcjVrdElMdDDSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2020-09-15T23:39:03Z",
       "content": null
     },
     {
@@ -138,129 +125,142 @@
         "name": "Google News"
       },
       "author": null,
-      "title": "Corsair 4000D AIRFLOW Case - Leo gives his verdict - KitGuruTech",
+      "title": "New AMD Radeon Card Revealed In Fortnite | Save State - GameSpot",
       "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bUx3X0hlSlMwYjjSAQA?oc=5",
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9R2tIWkVPRlRFSk3SAQA?oc=5",
       "urlToImage": null,
-      "publishedAt": "2020-09-15T13:00:09Z",
+      "publishedAt": "2020-09-15T23:30:01Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Lifehacker.com"
+        "name": "Android Headlines"
       },
-      "author": "Brendan Hesse",
-      "title": "When You Shouldn't Repair Your Mac - Lifehacker",
-      "description": "The point of hardware repairs is to ensure your devices remain usable and in good condition as long as possible, so you don’t have to spend hundreds or thousands of dollars on a new product. Spending a couple hundred dollars replacing a severely cracked MacBo…",
-      "url": "https://lifehacker.com/when-you-shouldnt-repair-your-mac-1845054208",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ivhupwzjmdul2zikokny.jpg",
-      "publishedAt": "2020-09-15T13:00:00Z",
-      "content": "The point of hardware repairs is to ensure your devices remain usable and in good condition as long as possible, so you dont have to spend hundreds or thousands of dollars on a new product. Spending … [+2468 chars]"
+      "author": null,
+      "title": "OnePlus 8T Preview: Release Date, Specs, Price & More - Android Headlines",
+      "description": "Here's all of the latest on the OnePlus 8T, including the rumored specs, leaks, release date price and much more.",
+      "url": "https://www.androidheadlines.com/2020/09/oneplus-8t-preview.html",
+      "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2020/09/OnePlus-8T-Pricebaba-leak-featured.jpg",
+      "publishedAt": "2020-09-15T23:02:01Z",
+      "content": "The OnePlus 8T is right around the corner. Truth be said, not much information surfaced up until this point, but we do have some info to share with you. Before we begin, its worth noting that the pho… [+6815 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Authority"
+      },
+      "author": null,
+      "title": "10 best sideloaded apps for Android you can't find in Google Play - Android Authority",
+      "description": "You can find most of the best apps in the Play Store, but not everything. Here are the best sideloaded apps for Android!",
+      "url": "https://www.androidauthority.com/best-sideloaded-apps-android-1155580/",
+      "urlToImage": "https://cdn57.androidauthority.net/wp-content/uploads/2019/04/Google-Play-Store-APKMirror-920x470.jpg",
+      "publishedAt": "2020-09-15T23:01:01Z",
+      "content": "The Google Play Store is, no doubt, the best place to get apps. It has a massive selection from the most popular developers and its security features are top notch. You simply cant get the same exper… [+7890 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": null,
+      "title": "Google wants people to use Meet with its own Meet-y hardware bundles - Android Police",
+      "description": "Google is once again expanding its hardware offerings by getting into the webcam business — though, this bid screams more of Cisco than Logitech.",
+      "url": "https://www.androidpolice.com/2020/09/15/google-wants-people-to-use-meet-with-its-own-meet-y-hardware-bundles/",
+      "urlToImage": "https://www.androidpolice.com/wp-content/uploads/2020/09/15/google-series-one-in-situ.png",
+      "publishedAt": "2020-09-15T22:35:00Z",
+      "content": "Google is once again expanding its hardware offerings by getting into the webcam business — though, this bid screams more of Cisco than Logitech. The company is selling videoconferencing equipment bu… [+2163 chars]"
+    },
+    {
+      "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "Tristan Greene",
+      "title": "Sony’s new AI agent achieves superhuman Gran Turismo Sport scores - The Next Web",
+      "description": "One of the best things about computers is that they can learn just as much from a simulation as they can from so-called ‘real world’ experiences. That means, given the proper simulator, we can teach AI to drive cars without ever putting a single human in dang…",
+      "url": "https://thenextweb.com/neural/2020/09/15/sonys-new-ai-agent-achieves-superhuman-gran-turismo-sport-scores/",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F09%2Fgtsai.jpg&signature=8689b60875972e4b01b667d6d985834b",
+      "publishedAt": "2020-09-15T22:03:00Z",
+      "content": "One of the best things about computers is that they can learn just as much from a simulation as they can from so-called real world experiences. That means, given the proper simulator, we can teach AI… [+3977 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Matt Binder",
+      "title": "Apple surprised iPhone users with a next-day iOS 14 release. App developers are pissed. - Mashable",
+      "description": "iPhone app developers won't be sleeping tonight.",
+      "url": "https://mashable.com/article/apple-iphone-ios-14-app-developers-release/",
+      "urlToImage": "https://mondrian.mashable.com/2020%252F09%252F15%252F06%252F1eb7862ec63348a8b8bd60b4bbf009e3.41493.jpg%252F1200x630.jpg?signature=lG10VZqcVtsPPHQgXFYZmI32yoc=",
+      "publishedAt": "2020-09-15T21:56:00Z",
+      "content": "Apple fans who were waiting for an iPhone 12 unveiling at the Apple Event today may be a little disappointed. But, Apple gave them a treat to hold them over instead: an announcement that iOS 14 is be… [+5336 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Jon Porter",
-      "title": "EA’s Origin client to become the EA Desktop app - The Verge",
-      "description": "EA’s Origin desktop app is getting a rebrand and a visual refresh. The client is now set to be called the “EA Desktop App,” and it will be faster, simpler, and include more cross-platform features.",
-      "url": "https://www.theverge.com/2020/9/15/21437680/ea-origin-desktop-app-play-access-premier-pro-steam-battlenet",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/rbHxm00MhJxAbc9BIQuSlAQHxyQ=/0x51:640x386/fit-in/1200x630/cdn.vox-cdn.com/assets/2138517/ea_origin_logo_640.jpg",
-      "publishedAt": "2020-09-15T12:58:01Z",
-      "content": "Promising a faster, simpler gaming experience\r\nImage: EA\r\nEAs Origin desktop app is getting a rebrand and a visual refresh, GameIndustry.biz reports. The client is now set to be called the EA Desktop… [+2053 chars]"
+      "author": "Taylor Lyles",
+      "title": "You can play Rocket League for free starting on September 23rd - The Verge",
+      "description": "Rocket League is switching over to a free-to-play model on September 23rd. The game will also get cross-platform progression, allowing players to carry their data over to another platform of the game.",
+      "url": "https://www.theverge.com/2020/9/15/21438194/rocket-league-free-to-play-release-date-psyonix-epic-games",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/6ehA0x_HlNOAesb05B1YrozhDqo=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/3869340/ss_fe3046dedee4205e2d1c461ce1950c3bf880a3d7.1920x1080.0.jpg",
+      "publishedAt": "2020-09-15T21:23:20Z",
+      "content": "Players who already own Rocket League will get some in-game rewards"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Austen Goslin",
+      "title": "Fortnite debuts improved ray-tracing graphics on Sept. 17 - Polygon",
+      "description": "Epic and Nvidia have partenered to bring upgraded graphics to Fortnite players who use Nvidia’s RTX line of graphics cards. The new graphics will launch on Sept. 17.",
+      "url": "https://www.polygon.com/fortnite/2020/9/15/21438607/fortnite-rtx-improved-graphics-upgrade-release-date-sept-17",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/SiUtFfetyE2FgP18jlXVBz449vI=/0x56:2880x1564/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21883697/fortnite_geforce_rtx_screenshot_010_rtx_on.jpg",
+      "publishedAt": "2020-09-15T21:14:30Z",
+      "content": "Fortnites getting a graphics update soon, at least for some players. On Sept. 17, Nvidia will launch a whole suite of new graphical upgrades mostly focused around real-time ray tracing. \r\nReal-time r… [+1176 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "SamMobile"
+        "name": "GameSpot"
       },
-      "author": "SamMobile",
-      "title": "Xbox Game Pass Ultimate is now available for Galaxy phones and tablets - SamMobile",
-      "description": "Xbox Game Pass Ultimate subscribers can now play more than 150 games directly on their Galaxy smartphones or tablets via ...",
-      "url": "https://www.sammobile.com/news/xbox-game-pass-ultimate-available-galaxy-phones-tablets/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2020/09/Galaxy-Note-20-review-4-720x405.jpg",
-      "publishedAt": "2020-09-15T12:43:00Z",
-      "content": "Xbox Game Pass Ultimate subscribers can now play more than 150 games directly on their Galaxy smartphones or tablets via Project xCloud. Microsoft’s latest cloud-based gaming service went live today … [+2432 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "UploadVR"
-      },
-      "author": "Jamie Feltham",
-      "title": "Oculus Quest 2 Box Leaks, Reveals Jurassic Park VR & The Climb 2 - UploadVR",
-      "description": "Another day, another Oculus Quest 2 leak. This time it's what looks like the packaging the kit comes in.",
-      "url": "https://uploadvr.com/oculus-quest-2-box-leaks/",
-      "urlToImage": "https://mk0uploadvrcom4bcwhj.kinstacdn.com/wp-content/uploads/2020/09/Quest-2-Box-Leaks-1024x576.jpg",
-      "publishedAt": "2020-09-15T12:13:53Z",
-      "content": "Another day, another Oculus Quest 2 leak. This time it’s what looks like the packaging the kit comes in, which seems to confirm some new games for the device.\r\nA Reddit user posted images of the box,… [+1634 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jon Porter",
-      "title": "Arlo’s latest video doorbell ditches the wire - The Verge",
-      "description": "Arlo has announced a new wire-free video doorbell that runs on rechargeable batteries The Arlo Essential Wire-Free Video Doorbell is available to pre-order now for $199.99, and Arlo says it should start shipping “this holiday season.”",
-      "url": "https://www.theverge.com/2020/9/15/21437592/arlo-essential-wire-free-video-doorbell-price-release-date-battery-powered-security-camera",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/TL8O3AeTnjZ_Of4ZxK45vKL2OK0=/0x258:3600x2143/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21881969/5H1A7164.jpg",
-      "publishedAt": "2020-09-15T12:01:00Z",
-      "content": "Its battery should last three to six months per charge\r\nImage: Arlo\r\nArlo has announced a new wire-free video doorbell that runs on rechargeable batteries, which should make it much easier for most p… [+1523 chars]"
+      "author": "Jenae Sitzes",
+      "title": "GameStop Is Offering Payment Plans For Xbox Series X And PS5 - GameSpot",
+      "description": "The company plans to offer multiple payment options for the next-gen consoles this holiday season.",
+      "url": "https://www.gamespot.com/articles/gamestop-is-offering-payment-plans-for-xbox-series-x-and-ps5/1100-6482010/",
+      "urlToImage": "https://gamespot1.cbsistatic.com/uploads/screen_kubrick/1591/15918215/3732609-gettyimages-1227730798%282%29.jpg",
+      "publishedAt": "2020-09-15T20:37:00Z",
+      "content": "GameStop customers will be able to pay for their PlayStation 5 or Xbox Series X in installments this holiday season. The new options for payment include a layaway option, third-party installment plan… [+2249 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Daily Mail"
       },
-      "author": "Joe Pinkstone",
-      "title": "Gene in the brain of men controls sex drive, study finds - Daily Mail",
-      "description": "Academics from Northwestern University found the enzyme aromatase turns testosterone into oestrogen. It is made by a single gene in the brain, called Cyp19a1.",
-      "url": "https://www.dailymail.co.uk/sciencetech/article-8734801/Gene-brain-men-controls-sex-drive-study-finds.html",
-      "urlToImage": "https://i.dailymail.co.uk/1s/2020/09/15/12/28568772-0-image-a-5_1600169994608.jpg",
-      "publishedAt": "2020-09-15T11:47:48Z",
-      "content": "A gene has been discovered in the brain that regulates male sexual desire, paving the way for new treatments for sex addiction and dysfunction.\r\nThe gene controls an enzyme, called aromatase, which i… [+4208 chars]"
+      "author": "Stacy Liberatore",
+      "title": "'Bionic eye' linked to chip in brain could cure blindness - Daily Mail",
+      "description": "After more than 10 years, Australian scientists are set to start human trials of a 'bionic eye.' The system links to a chip that is implanted into the brain, which the team claims cures blindness.",
+      "url": "https://www.dailymail.co.uk/sciencetech/article-8735933/Human-trials-bionic-eye-links-directly-chip-brain-cure-blindness.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2020/09/15/21/33223050-0-image-a-9_1600200544049.jpg",
+      "publishedAt": "2020-09-15T20:09:28Z",
+      "content": "It has been more than 10 years in the making, but scientists are preparing to implant a 'bionic eye' in a human subject.\r\nResearchers at Monash University have developed wireless implants that sit on… [+5326 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "XDA Developers"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Pranob Mehrotra",
-      "title": "The Android GPU Inspector is now in open beta with support for the Pixel 4 on Android 11 - XDA Developers",
-      "description": "Google has announced that the Android GPU Inspector tool is now available in open beta with support for the Pixel 4 running Android 11.",
-      "url": "https://www.xda-developers.com/android-gpu-inspector-open-beta-support-pixel-4-android-11/",
-      "urlToImage": "https://www.xda-developers.com/files/2020/09/Android-GPU-Inspector-Pixel-4-Android-11-featured.jpg",
-      "publishedAt": "2020-09-15T10:31:00Z",
-      "content": "At the Google for Games Developer Summit earlier this year, Google first showcased a new Android Studio tool called Android GPU Inspector. The tool is designed to help graphics engineers optimize the… [+2535 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Liam Tung",
-      "title": "TypeScript creator: How the programming language beat Microsoft's open-source fears - ZDNet",
-      "description": "After initial internal Microsoft resistance, open-source TypeScript is now a go-to language for building web apps.",
-      "url": "https://www.zdnet.com/article/typescript-creator-how-the-programming-language-beat-microsofts-open-source-fears/",
-      "urlToImage": "https://zdnet3.cbsistatic.com/hub/i/r/2020/09/14/9ea827e6-5890-482c-b4a0-dcaef7404572/thumbnail/770x578/92d27f443bd9ece6b1597a45df5ca562/andershejlsbergmicrosoft2018youtube.jpg",
-      "publishedAt": "2020-09-15T10:05:00Z",
-      "content": "Microsoft's open-source programming language TypeScript the alter ego of JavaScript but with a type system turns 10 years old this December.  \r\nIt's grown to become a go-to language for building apps… [+10357 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Grayson Blackmon",
-      "title": "Adobe’s new 3D transform tools for After Effects look great - The Verge",
-      "description": "Adobe is revamping After Effects’ 3D UI with new “3D Transform Gizmos,” mimicking what other professional 3D applications like Cinema 4D, Maya, and Blender have been providing users for years.",
-      "url": "https://www.theverge.com/2020/9/15/21436871/adobe-after-effects-3d-transform-gizmos-better-ui",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/gBFf7s0kx-awsa9EgBwPtn-Jyi0=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21880804/VRG_Adobe_Update_Sept_2020.0.jpg",
-      "publishedAt": "2020-09-15T10:00:00Z",
-      "content": "Finally, a better UI for 3D inside After Effects\r\nImage: Adobe\r\nAdobe is updating both Premiere Pro and After Effects today with some pretty nice quality-of-life features, but the most exciting are t… [+1323 chars]"
+      "author": null,
+      "title": "13 Sentinels: Aegis Rim Review - IGN",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9MGFNMDlLYUo5cknSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2020-09-15T20:08:21Z",
+      "content": null
     }
   ]
 }
